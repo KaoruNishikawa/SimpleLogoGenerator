@@ -1,0 +1,74 @@
+{# MACRO DEFINITIONS #}
+
+{%- macro automodule(modname, options) -%}
+.. automodule:: {{ modname }}
+{%- for option in options %}
+   :{{ option }}:
+{%- endfor %}
+{%- endmacro %}
+
+{%- macro toctree(docnames) -%}
+.. toctree::
+   :maxdepth: {{ maxdepth }}
+   :titlesonly:
+   :hidden:
+{% for docname in docnames %}
+   {{ docname }}
+{%- endfor %}
+{%- endmacro %}
+
+{%- macro autosummary(contents) -%}
+.. autosummary::
+{% for piece in contents %}
+   {{ piece }}
+{%- endfor %}
+{%- endmacro %}
+
+
+{# HEADINGS #}
+
+{%- if is_namespace %}
+{{- [pkgname, "namespace"] | join(" ") | e | heading }}
+{% else %}
+{{- pkgname | e | heading }}
+{% endif %}
+
+
+{# CONTENTS IN __init__.py #}
+
+{%- if modulefirst and not is_namespace %}
+{{ automodule(pkgname, automodule_options) }}
+{% endif %}
+
+
+{# TABLE OF SUBPACKAGES #}
+
+{%- if subpackages %}
+Subpackages
+-----------
+
+{{ autosummary(subpackages) }}
+
+{{ toctree(subpackages) }}
+
+{% endif %}
+
+
+{# TABLE OF SUBMODULES #}
+
+{%- if submodules %}
+Submodules
+----------
+
+{{ autosummary(submodules) }}
+
+{{ toctree(submodules) }}
+
+{%- endif %}
+
+{%- if not modulefirst and not is_namespace %}
+Module contents
+---------------
+
+{{ automodule(pkgname, automodule_options) }}
+{% endif %}

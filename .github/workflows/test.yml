@@ -1,0 +1,34 @@
+name: Test
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  job:
+    name: Test
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: [3.6, 3.7, 3.8, 3.9]
+    env:
+      PACKAGE_NAME: PACKAGENAME
+    steps:
+      - uses: actions/checkout@v2
+      - name: Setup Python ${{ matrix.python-version }}
+        uses: actions/setup-python@v2
+        with:
+          python-version: ${{ matrix.python-version }}
+      - name: Install dependencies
+        run: |
+          pip3 install poetry
+          poetry install
+      - name: Lint by Flake8 
+        run: poetry run flake8 tests ${PACKAGE_NAME}
+      - name: Format by Black
+        run: poetry run black --check tests ${PACKAGE_NAME}
+      - name: Test by pytest
+        run: poetry run pytest -v tests ${PACKAGE_NAME}
+
