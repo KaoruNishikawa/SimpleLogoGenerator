@@ -13,14 +13,13 @@ jobs:
         run: echo "TODAY=$(date +'%Y%m%d')" >> $GITHUB_ENV
       - name: Fetch Fonts List
         env:
-          TODAY: ${{ env.TODAY }}
+          GOOGLE_FONTS_API_KEY: ${{ secrets.GOOGLE_FONTS_API_KEY }}
         run: |
-          echo "https://www.googleapis.com/webfonts/v1/webfonts?key=${TODAY}"
-          curl -o ./font-list.json "https://www.googleapis.com/webfonts/v1/webfonts?key=${secrets.GOOGLE_FONTS_API_KEY}"
+          curl -o ./font-list.json "https://www.googleapis.com/webfonts/v1/webfonts?key=${GOOGLE_FONTS_API_KEY}"
       - name: Commit and Push
         uses: EndBug/add-and-commit@v8
         with:
           message: Update fonts list
-          new_branch: font-list-{{ env.TODAY }}
+          new_branch: font-list-${{ env.TODAY }}
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v3
