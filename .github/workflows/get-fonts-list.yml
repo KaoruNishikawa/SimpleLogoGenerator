@@ -11,7 +11,7 @@ jobs:
     steps:
       - name: Fetch Fonts List
         run: |
-          curl -o curl -o ./font-list.json "https://www.googleapis.com/webfonts/v1/webfonts?key={{ secret.GOOGLE_FONTS_API_KEY }}"
+          curl -o curl -o ./font-list.json "https://www.googleapis.com/webfonts/v1/webfonts?key=${secret.GOOGLE_FONTS_API_KEY}"
       - name: Get Date
         run: echo "TODAY=$(date +'%Y%m%d')" >> $GITHUB_ENV
       - name: Commit and Push
