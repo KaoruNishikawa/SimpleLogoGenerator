@@ -9,6 +9,7 @@ jobs:
   get-fonts-list:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v2
       - name: Get Date
         run: echo "TODAY=$(date +'%Y%m%d')" >> $GITHUB_ENV
       - name: Fetch Fonts List
@@ -20,6 +21,7 @@ jobs:
         uses: EndBug/add-and-commit@v8
         with:
           add: ./font-list.json
+          cwd: '.'
           message: Update fonts list
           new_branch: font-list-${{ env.TODAY }}
       - name: Create Pull Request
