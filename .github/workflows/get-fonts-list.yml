@@ -19,6 +19,7 @@ jobs:
       - name: Commit and Push
         uses: EndBug/add-and-commit@v8
         with:
+          add: ./font-list.json
           message: Update fonts list
           new_branch: font-list-${{ env.TODAY }}
       - name: Create Pull Request
