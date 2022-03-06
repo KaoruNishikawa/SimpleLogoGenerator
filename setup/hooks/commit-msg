@@ -1,9 +1,0 @@
-#!/bin/sh
-
-exp=".*?#[0-9].*?"
-grep -E "$exp" $1 > /dev/null
-
-if [ $? -ne 0 ]; then
-    echo 'commit without issue number'
-    exit 1
-fi
