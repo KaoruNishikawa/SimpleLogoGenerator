@@ -17,12 +17,9 @@ jobs:
           GOOGLE_FONTS_API_KEY: ${{ secrets.GOOGLE_FONTS_API_KEY }}
         run: |
           curl -o ./font-list.json "https://www.googleapis.com/webfonts/v1/webfonts?key=${GOOGLE_FONTS_API_KEY}"
-      - name: Commit and Push
-        uses: EndBug/add-and-commit@v8
-        with:
-          add: ./font-list.json
-          cwd: '.'
-          message: Update fonts list
-          new_branch: font-list-${{ env.TODAY }}
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v3
+        with:
+          branch: font-list-${{ env.TODAY }}
+          delete-branch: true
+          title: Update fonts list
