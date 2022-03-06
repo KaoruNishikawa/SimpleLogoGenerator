@@ -9,11 +9,12 @@ jobs:
   get-fonts-list:
     runs-on: ubuntu-latest
     steps:
-      - name: Fetch Fonts List
-        run: |
-          curl -o curl -o ./font-list.json "https://www.googleapis.com/webfonts/v1/webfonts?key=${secrets.GOOGLE_FONTS_API_KEY}"
       - name: Get Date
         run: echo "TODAY=$(date +'%Y%m%d')" >> $GITHUB_ENV
+      - name: Fetch Fonts List
+        run: |
+          echo "https://www.googleapis.com/webfonts/v1/webfonts?key=${env.TODAY}"
+          curl -o ./font-list.json "https://www.googleapis.com/webfonts/v1/webfonts?key=${secrets.GOOGLE_FONTS_API_KEY}"
       - name: Commit and Push
         uses: EndBug/add-and-commit@v8
         with:
