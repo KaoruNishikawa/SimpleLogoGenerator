@@ -24659,6 +24659,32 @@
       "kind": "webfonts#webfont"
     },
     {
+      "family": "Radio Canada",
+      "variants": [
+        "300",
+        "regular",
+        "500",
+        "600",
+        "700"
+      ],
+      "subsets": [
+        "latin",
+        "latin-ext",
+        "vietnamese"
+      ],
+      "version": "v10",
+      "lastModified": "2022-04-25",
+      "files": {
+        "300": "http://fonts.gstatic.com/s/radiocanada/v10/XRX13ISXn0dBMcibU6jlAqr3ejLv5OLZYiYXik6db2P4jxxlsls-0nESkQPIJOdSSfOT.ttf",
+        "regular": "http://fonts.gstatic.com/s/radiocanada/v10/XRX13ISXn0dBMcibU6jlAqr3ejLv5OLZYiYXik6db2P4jxxlsls-0nFMkQPIJOdSSfOT.ttf",
+        "500": "http://fonts.gstatic.com/s/radiocanada/v10/XRX13ISXn0dBMcibU6jlAqr3ejLv5OLZYiYXik6db2P4jxxlsls-0nF-kQPIJOdSSfOT.ttf",
+        "600": "http://fonts.gstatic.com/s/radiocanada/v10/XRX13ISXn0dBMcibU6jlAqr3ejLv5OLZYiYXik6db2P4jxxlsls-0nGSlgPIJOdSSfOT.ttf",
+        "700": "http://fonts.gstatic.com/s/radiocanada/v10/XRX13ISXn0dBMcibU6jlAqr3ejLv5OLZYiYXik6db2P4jxxlsls-0nGrlgPIJOdSSfOT.ttf"
+      },
+      "category": "sans-serif",
+      "kind": "webfonts#webfont"
+    },
+    {
       "family": "Radley",
       "variants": [
         "regular",
