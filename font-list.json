@@ -1089,7 +1089,10 @@
     {
       "family": "Andika",
       "variants": [
-        "regular"
+        "regular",
+        "italic",
+        "700",
+        "700italic"
       ],
       "subsets": [
         "cyrillic",
@@ -1098,10 +1101,13 @@
         "latin-ext",
         "vietnamese"
       ],
-      "version": "v19",
-      "lastModified": "2022-04-20",
+      "version": "v22",
+      "lastModified": "2022-05-24",
       "files": {
-        "regular": "http://fonts.gstatic.com/s/andika/v19/mem_Ya6iyW-LwqgAbbwRWrwGVA.ttf"
+        "regular": "http://fonts.gstatic.com/s/andika/v22/mem_Ya6iyW-LwqgAbbwRWrwGVA.ttf",
+        "italic": "http://fonts.gstatic.com/s/andika/v22/mem9Ya6iyW-Lwqgwb7YVeLkWVNBt.ttf",
+        "700": "http://fonts.gstatic.com/s/andika/v22/mem8Ya6iyW-Lwqg40ZM1UpcaXcl0Aw.ttf",
+        "700italic": "http://fonts.gstatic.com/s/andika/v22/mem6Ya6iyW-Lwqgwb46pV50ef8xkA76a.ttf"
       },
       "category": "sans-serif",
       "kind": "webfonts#webfont"
@@ -4285,6 +4291,42 @@
       "kind": "webfonts#webfont"
     },
     {
+      "family": "Blaka",
+      "variants": [
+        "regular"
+      ],
+      "subsets": [
+        "arabic",
+        "latin",
+        "latin-ext"
+      ],
+      "version": "v3",
+      "lastModified": "2022-05-24",
+      "files": {
+        "regular": "http://fonts.gstatic.com/s/blaka/v3/8vIG7w8722p_6kdr20D2FV5e.ttf"
+      },
+      "category": "display",
+      "kind": "webfonts#webfont"
+    },
+    {
+      "family": "Blaka Hollow",
+      "variants": [
+        "regular"
+      ],
+      "subsets": [
+        "arabic",
+        "latin",
+        "latin-ext"
+      ],
+      "version": "v3",
+      "lastModified": "2022-05-24",
+      "files": {
+        "regular": "http://fonts.gstatic.com/s/blakahollow/v3/MCoUzAL91sjRE2FsKsxUtezYB9oFyW_-oA.ttf"
+      },
+      "category": "display",
+      "kind": "webfonts#webfont"
+    },
+    {
       "family": "Blinker",
       "variants": [
         "100",
@@ -6585,6 +6627,34 @@
         "700italic": "http://fonts.gstatic.com/s/crimsonpro/v21/q5uSsoa5M_tv7IihmnkabAReu49Y_Bo-HVKMBi5zfJs7dtC4yZNE.ttf",
         "800italic": "http://fonts.gstatic.com/s/crimsonpro/v21/q5uSsoa5M_tv7IihmnkabAReu49Y_Bo-HVKMBi4UfJs7dtC4yZNE.ttf",
         "900italic": "http://fonts.gstatic.com/s/crimsonpro/v21/q5uSsoa5M_tv7IihmnkabAReu49Y_Bo-HVKMBi49fJs7dtC4yZNE.ttf"
+      },
+      "category": "serif",
+      "kind": "webfonts#webfont"
+    },
+    {
+      "family": "Crimson Text",
+      "variants": [
+        "regular",
+        "italic",
+        "600",
+        "600italic",
+        "700",
+        "700italic"
+      ],
+      "subsets": [
+        "latin",
+        "latin-ext",
+        "vietnamese"
+      ],
+      "version": "v19",
+      "lastModified": "2022-05-24",
+      "files": {
+        "regular": "http://fonts.gstatic.com/s/crimsontext/v19/wlp2gwHKFkZgtmSR3NB0oRJvaAJSA_JN3Q.ttf",
+        "italic": "http://fonts.gstatic.com/s/crimsontext/v19/wlpogwHKFkZgtmSR3NB0oRJfaghWIfdd3ahG.ttf",
+        "600": "http://fonts.gstatic.com/s/crimsontext/v19/wlppgwHKFkZgtmSR3NB0oRJXsCx2C9lR1LFffg.ttf",
+        "600italic": "http://fonts.gstatic.com/s/crimsontext/v19/wlprgwHKFkZgtmSR3NB0oRJfajCOD9NV9rRPfrKu.ttf",
+        "700": "http://fonts.gstatic.com/s/crimsontext/v19/wlppgwHKFkZgtmSR3NB0oRJX1C12C9lR1LFffg.ttf",
+        "700italic": "http://fonts.gstatic.com/s/crimsontext/v19/wlprgwHKFkZgtmSR3NB0oRJfajDqDtNV9rRPfrKu.ttf"
       },
       "category": "serif",
       "kind": "webfonts#webfont"
@@ -16060,15 +16130,15 @@
         "latin-ext",
         "vietnamese"
       ],
-      "version": "v29",
-      "lastModified": "2022-04-26",
+      "version": "v31",
+      "lastModified": "2022-05-24",
       "files": {
-        "regular": "http://fonts.gstatic.com/s/mavenpro/v29/7Auup_AqnyWWAxW2Wk3swUz56MS91Eww8SX25nCpozp5GvU.ttf",
-        "500": "http://fonts.gstatic.com/s/mavenpro/v29/7Auup_AqnyWWAxW2Wk3swUz56MS91Eww8Rf25nCpozp5GvU.ttf",
-        "600": "http://fonts.gstatic.com/s/mavenpro/v29/7Auup_AqnyWWAxW2Wk3swUz56MS91Eww8fvx5nCpozp5GvU.ttf",
-        "700": "http://fonts.gstatic.com/s/mavenpro/v29/7Auup_AqnyWWAxW2Wk3swUz56MS91Eww8cLx5nCpozp5GvU.ttf",
-        "800": "http://fonts.gstatic.com/s/mavenpro/v29/7Auup_AqnyWWAxW2Wk3swUz56MS91Eww8aXx5nCpozp5GvU.ttf",
-        "900": "http://fonts.gstatic.com/s/mavenpro/v29/7Auup_AqnyWWAxW2Wk3swUz56MS91Eww8Yzx5nCpozp5GvU.ttf"
+        "regular": "http://fonts.gstatic.com/s/mavenpro/v31/7Auup_AqnyWWAxW2Wk3swUz56MS91Eww8SX25nCpozp5GvU.ttf",
+        "500": "http://fonts.gstatic.com/s/mavenpro/v31/7Auup_AqnyWWAxW2Wk3swUz56MS91Eww8Rf25nCpozp5GvU.ttf",
+        "600": "http://fonts.gstatic.com/s/mavenpro/v31/7Auup_AqnyWWAxW2Wk3swUz56MS91Eww8fvx5nCpozp5GvU.ttf",
+        "700": "http://fonts.gstatic.com/s/mavenpro/v31/7Auup_AqnyWWAxW2Wk3swUz56MS91Eww8cLx5nCpozp5GvU.ttf",
+        "800": "http://fonts.gstatic.com/s/mavenpro/v31/7Auup_AqnyWWAxW2Wk3swUz56MS91Eww8aXx5nCpozp5GvU.ttf",
+        "900": "http://fonts.gstatic.com/s/mavenpro/v31/7Auup_AqnyWWAxW2Wk3swUz56MS91Eww8Yzx5nCpozp5GvU.ttf"
       },
       "category": "sans-serif",
       "kind": "webfonts#webfont"
@@ -24689,21 +24759,31 @@
         "regular",
         "500",
         "600",
-        "700"
+        "700",
+        "300italic",
+        "italic",
+        "500italic",
+        "600italic",
+        "700italic"
       ],
       "subsets": [
         "latin",
         "latin-ext",
         "vietnamese"
       ],
-      "version": "v11",
-      "lastModified": "2022-04-27",
+      "version": "v14",
+      "lastModified": "2022-05-24",
       "files": {
-        "300": "http://fonts.gstatic.com/s/radiocanada/v11/XRX13ISXn0dBMcibU6jlAqr3ejLv5OLZYiYXik6db2P4jxxlsls-0nESkQPIJOdSSfOT.ttf",
-        "regular": "http://fonts.gstatic.com/s/radiocanada/v11/XRX13ISXn0dBMcibU6jlAqr3ejLv5OLZYiYXik6db2P4jxxlsls-0nFMkQPIJOdSSfOT.ttf",
-        "500": "http://fonts.gstatic.com/s/radiocanada/v11/XRX13ISXn0dBMcibU6jlAqr3ejLv5OLZYiYXik6db2P4jxxlsls-0nF-kQPIJOdSSfOT.ttf",
-        "600": "http://fonts.gstatic.com/s/radiocanada/v11/XRX13ISXn0dBMcibU6jlAqr3ejLv5OLZYiYXik6db2P4jxxlsls-0nGSlgPIJOdSSfOT.ttf",
-        "700": "http://fonts.gstatic.com/s/radiocanada/v11/XRX13ISXn0dBMcibU6jlAqr3ejLv5OLZYiYXik6db2P4jxxlsls-0nGrlgPIJOdSSfOT.ttf"
+        "300": "http://fonts.gstatic.com/s/radiocanada/v14/XRX13ISXn0dBMcibU6jlAqr3ejLv5OLZYiYXik6db2P4jxxlsls-0nESkQPIJOdSSfOT.ttf",
+        "regular": "http://fonts.gstatic.com/s/radiocanada/v14/XRX13ISXn0dBMcibU6jlAqr3ejLv5OLZYiYXik6db2P4jxxlsls-0nFMkQPIJOdSSfOT.ttf",
+        "500": "http://fonts.gstatic.com/s/radiocanada/v14/XRX13ISXn0dBMcibU6jlAqr3ejLv5OLZYiYXik6db2P4jxxlsls-0nF-kQPIJOdSSfOT.ttf",
+        "600": "http://fonts.gstatic.com/s/radiocanada/v14/XRX13ISXn0dBMcibU6jlAqr3ejLv5OLZYiYXik6db2P4jxxlsls-0nGSlgPIJOdSSfOT.ttf",
+        "700": "http://fonts.gstatic.com/s/radiocanada/v14/XRX13ISXn0dBMcibU6jlAqr3ejLv5OLZYiYXik6db2P4jxxlsls-0nGrlgPIJOdSSfOT.ttf",
+        "300italic": "http://fonts.gstatic.com/s/radiocanada/v14/XRX33ISXn0dBMcibU6jlAqrdcwAMBJuK9IgQn4bfnSrKcMQM2cGQ1WSE0rWLLuNwTOOTa9k.ttf",
+        "italic": "http://fonts.gstatic.com/s/radiocanada/v14/XRX33ISXn0dBMcibU6jlAqrdcwAMBJuK9IgQn4bfnSrKcMQM2cGQ1WSE0uuLLuNwTOOTa9k.ttf",
+        "500italic": "http://fonts.gstatic.com/s/radiocanada/v14/XRX33ISXn0dBMcibU6jlAqrdcwAMBJuK9IgQn4bfnSrKcMQM2cGQ1WSE0tmLLuNwTOOTa9k.ttf",
+        "600italic": "http://fonts.gstatic.com/s/radiocanada/v14/XRX33ISXn0dBMcibU6jlAqrdcwAMBJuK9IgQn4bfnSrKcMQM2cGQ1WSE0jWMLuNwTOOTa9k.ttf",
+        "700italic": "http://fonts.gstatic.com/s/radiocanada/v14/XRX33ISXn0dBMcibU6jlAqrdcwAMBJuK9IgQn4bfnSrKcMQM2cGQ1WSE0gyMLuNwTOOTa9k.ttf"
       },
       "category": "sans-serif",
       "kind": "webfonts#webfont"
@@ -26944,11 +27024,11 @@
         "latin",
         "latin-ext"
       ],
-      "version": "v10",
-      "lastModified": "2022-04-27",
+      "version": "v12",
+      "lastModified": "2022-05-24",
       "files": {
-        "regular": "http://fonts.gstatic.com/s/scheherazadenew/v10/4UaZrFhTvxVnHDvUkUiHg8jprP4DCwNsOl4p5Is.ttf",
-        "700": "http://fonts.gstatic.com/s/scheherazadenew/v10/4UaerFhTvxVnHDvUkUiHg8jprP4DM79DHlYC-IKnoSE.ttf"
+        "regular": "http://fonts.gstatic.com/s/scheherazadenew/v12/4UaZrFhTvxVnHDvUkUiHg8jprP4DCwNsOl4p5Is.ttf",
+        "700": "http://fonts.gstatic.com/s/scheherazadenew/v12/4UaerFhTvxVnHDvUkUiHg8jprP4DM79DHlYC-IKnoSE.ttf"
       },
       "category": "serif",
       "kind": "webfonts#webfont"
@@ -28390,16 +28470,41 @@
         "latin",
         "latin-ext"
       ],
-      "version": "v5",
-      "lastModified": "2022-04-27",
+      "version": "v7",
+      "lastModified": "2022-05-24",
       "files": {
-        "300": "http://fonts.gstatic.com/s/splinesans/v5/_6_sED73Uf-2WfU2LzycEZousNzn1a1lKWRpZlnYEtvlUfE2kw.ttf",
-        "regular": "http://fonts.gstatic.com/s/splinesans/v5/_6_sED73Uf-2WfU2LzycEZousNzn1a1lKWRpOFnYEtvlUfE2kw.ttf",
-        "500": "http://fonts.gstatic.com/s/splinesans/v5/_6_sED73Uf-2WfU2LzycEZousNzn1a1lKWRpClnYEtvlUfE2kw.ttf",
-        "600": "http://fonts.gstatic.com/s/splinesans/v5/_6_sED73Uf-2WfU2LzycEZousNzn1a1lKWRp5l7YEtvlUfE2kw.ttf",
-        "700": "http://fonts.gstatic.com/s/splinesans/v5/_6_sED73Uf-2WfU2LzycEZousNzn1a1lKWRp317YEtvlUfE2kw.ttf"
+        "300": "http://fonts.gstatic.com/s/splinesans/v7/_6_sED73Uf-2WfU2LzycEZousNzn1a1lKWRpZlnYEtvlUfE2kw.ttf",
+        "regular": "http://fonts.gstatic.com/s/splinesans/v7/_6_sED73Uf-2WfU2LzycEZousNzn1a1lKWRpOFnYEtvlUfE2kw.ttf",
+        "500": "http://fonts.gstatic.com/s/splinesans/v7/_6_sED73Uf-2WfU2LzycEZousNzn1a1lKWRpClnYEtvlUfE2kw.ttf",
+        "600": "http://fonts.gstatic.com/s/splinesans/v7/_6_sED73Uf-2WfU2LzycEZousNzn1a1lKWRp5l7YEtvlUfE2kw.ttf",
+        "700": "http://fonts.gstatic.com/s/splinesans/v7/_6_sED73Uf-2WfU2LzycEZousNzn1a1lKWRp317YEtvlUfE2kw.ttf"
       },
       "category": "sans-serif",
+      "kind": "webfonts#webfont"
+    },
+    {
+      "family": "Spline Sans Mono",
+      "variants": [
+        "300",
+        "regular",
+        "500",
+        "600",
+        "700"
+      ],
+      "subsets": [
+        "latin",
+        "latin-ext"
+      ],
+      "version": "v2",
+      "lastModified": "2022-05-24",
+      "files": {
+        "300": "http://fonts.gstatic.com/s/splinesansmono/v2/R70MjzAei_CDNLfgZxrW6wrZOF2WdZ6xabUGSVtNuGA8MrtVy4d4dGb1.ttf",
+        "regular": "http://fonts.gstatic.com/s/splinesansmono/v2/R70MjzAei_CDNLfgZxrW6wrZOF2WdZ6xabUGSVtNuGBiMrtVy4d4dGb1.ttf",
+        "500": "http://fonts.gstatic.com/s/splinesansmono/v2/R70MjzAei_CDNLfgZxrW6wrZOF2WdZ6xabUGSVtNuGBQMrtVy4d4dGb1.ttf",
+        "600": "http://fonts.gstatic.com/s/splinesansmono/v2/R70MjzAei_CDNLfgZxrW6wrZOF2WdZ6xabUGSVtNuGC8NbtVy4d4dGb1.ttf",
+        "700": "http://fonts.gstatic.com/s/splinesansmono/v2/R70MjzAei_CDNLfgZxrW6wrZOF2WdZ6xabUGSVtNuGCFNbtVy4d4dGb1.ttf"
+      },
+      "category": "monospace",
       "kind": "webfonts#webfont"
     },
     {
@@ -29465,6 +29570,106 @@
         "italic": "http://fonts.gstatic.com/s/tinos/v24/buE2poGnedXvwjX-fmFD9CI-4NU.ttf",
         "700": "http://fonts.gstatic.com/s/tinos/v24/buE1poGnedXvwj1AW0Fp2i43-cxL.ttf",
         "700italic": "http://fonts.gstatic.com/s/tinos/v24/buEzpoGnedXvwjX-Rt1s0CoV_NxLeiw.ttf"
+      },
+      "category": "serif",
+      "kind": "webfonts#webfont"
+    },
+    {
+      "family": "Tiro Bangla",
+      "variants": [
+        "regular",
+        "italic"
+      ],
+      "subsets": [
+        "bengali",
+        "latin",
+        "latin-ext"
+      ],
+      "version": "v2",
+      "lastModified": "2022-05-24",
+      "files": {
+        "regular": "http://fonts.gstatic.com/s/tirobangla/v2/IFSgHe1Tm95E3O8b5i2V8MG9-UPeuz4i.ttf",
+        "italic": "http://fonts.gstatic.com/s/tirobangla/v2/IFSiHe1Tm95E3O8b5i2V8PG_80f8vi4imBM.ttf"
+      },
+      "category": "serif",
+      "kind": "webfonts#webfont"
+    },
+    {
+      "family": "Tiro Gurmukhi",
+      "variants": [
+        "regular",
+        "italic"
+      ],
+      "subsets": [
+        "gurmukhi",
+        "latin",
+        "latin-ext"
+      ],
+      "version": "v2",
+      "lastModified": "2022-05-24",
+      "files": {
+        "regular": "http://fonts.gstatic.com/s/tirogurmukhi/v2/x3dmckXSYq-Uqjc048JUF7Jvly7HAQsyA2Y.ttf",
+        "italic": "http://fonts.gstatic.com/s/tirogurmukhi/v2/x3d4ckXSYq-Uqjc048JUF7JvpyzNBSk3E2YljQ.ttf"
+      },
+      "category": "serif",
+      "kind": "webfonts#webfont"
+    },
+    {
+      "family": "Tiro Kannada",
+      "variants": [
+        "regular",
+        "italic"
+      ],
+      "subsets": [
+        "kannada",
+        "latin",
+        "latin-ext"
+      ],
+      "version": "v2",
+      "lastModified": "2022-05-24",
+      "files": {
+        "regular": "http://fonts.gstatic.com/s/tirokannada/v2/CSR44ztKmvqaDxEDJFY7CIYKSPl6tOU9Eg.ttf",
+        "italic": "http://fonts.gstatic.com/s/tirokannada/v2/CSRm4ztKmvqaDxEDJFY7CIY6SvN-luAtEnKp.ttf"
+      },
+      "category": "serif",
+      "kind": "webfonts#webfont"
+    },
+    {
+      "family": "Tiro Tamil",
+      "variants": [
+        "regular",
+        "italic"
+      ],
+      "subsets": [
+        "latin",
+        "latin-ext",
+        "tamil"
+      ],
+      "version": "v2",
+      "lastModified": "2022-05-24",
+      "files": {
+        "regular": "http://fonts.gstatic.com/s/tirotamil/v2/m8JXjfVIf7OT22n3M-S_ULRvamODxdI.ttf",
+        "italic": "http://fonts.gstatic.com/s/tirotamil/v2/m8JVjfVIf7OT22n3M-S_YLZlbkGG1dKEDw.ttf"
+      },
+      "category": "serif",
+      "kind": "webfonts#webfont"
+    },
+    {
+      "family": "Tiro Telugu",
+      "variants": [
+        "regular",
+        "italic"
+      ],
+      "subsets": [
+        "latin",
+        "latin-ext",
+        "telugu"
+      ],
+      "version": "v2",
+      "lastModified": "2022-05-24",
+      "files": {
+        "regular": "http://fonts.gstatic.com/s/tirotelugu/v2/aFTQ7PxlZWk2EPiSymjXdKSNQqn0X0BO.ttf",
+        "italic": "http://fonts.gstatic.com/s/tirotelugu/v2/aFTS7PxlZWk2EPiSymjXdJSPSK3WWlBOoas.ttf"
       },
       "category": "serif",
       "kind": "webfonts#webfont"
