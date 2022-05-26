@@ -29585,11 +29585,71 @@
         "latin",
         "latin-ext"
       ],
-      "version": "v2",
-      "lastModified": "2022-05-24",
+      "version": "v3",
+      "lastModified": "2022-05-25",
       "files": {
-        "regular": "http://fonts.gstatic.com/s/tirobangla/v2/IFSgHe1Tm95E3O8b5i2V8MG9-UPeuz4i.ttf",
-        "italic": "http://fonts.gstatic.com/s/tirobangla/v2/IFSiHe1Tm95E3O8b5i2V8PG_80f8vi4imBM.ttf"
+        "regular": "http://fonts.gstatic.com/s/tirobangla/v3/IFSgHe1Tm95E3O8b5i2V8MG9-UPeuz4i.ttf",
+        "italic": "http://fonts.gstatic.com/s/tirobangla/v3/IFSiHe1Tm95E3O8b5i2V8PG_80f8vi4imBM.ttf"
+      },
+      "category": "serif",
+      "kind": "webfonts#webfont"
+    },
+    {
+      "family": "Tiro Devanagari Hindi",
+      "variants": [
+        "regular",
+        "italic"
+      ],
+      "subsets": [
+        "devanagari",
+        "latin",
+        "latin-ext"
+      ],
+      "version": "v2",
+      "lastModified": "2022-05-25",
+      "files": {
+        "regular": "http://fonts.gstatic.com/s/tirodevanagarihindi/v2/55xyezN7P8T4e0_CfIJrwdodg9HoYw0i-M9fSOkOfG0Y3A.ttf",
+        "italic": "http://fonts.gstatic.com/s/tirodevanagarihindi/v2/55x8ezN7P8T4e0_CfIJrwdodg9HoYw0i-M9vSuMKXmgI3F_o.ttf"
+      },
+      "category": "serif",
+      "kind": "webfonts#webfont"
+    },
+    {
+      "family": "Tiro Devanagari Marathi",
+      "variants": [
+        "regular",
+        "italic"
+      ],
+      "subsets": [
+        "devanagari",
+        "latin",
+        "latin-ext"
+      ],
+      "version": "v2",
+      "lastModified": "2022-05-25",
+      "files": {
+        "regular": "http://fonts.gstatic.com/s/tirodevanagarimarathi/v2/fC1xPZBSZHrRhS3rd4M0MAPNJUHl4znXCxAkotDrDJYM2lAZ.ttf",
+        "italic": "http://fonts.gstatic.com/s/tirodevanagarimarathi/v2/fC1zPZBSZHrRhS3rd4M0MAPNJUHl4znXCxAkouDpBpIu30AZbUY.ttf"
+      },
+      "category": "serif",
+      "kind": "webfonts#webfont"
+    },
+    {
+      "family": "Tiro Devanagari Sanskrit",
+      "variants": [
+        "regular",
+        "italic"
+      ],
+      "subsets": [
+        "devanagari",
+        "latin",
+        "latin-ext"
+      ],
+      "version": "v2",
+      "lastModified": "2022-05-25",
+      "files": {
+        "regular": "http://fonts.gstatic.com/s/tirodevanagarisanskrit/v2/MCoAzBbr09vVUgVBM8FWu_yZdZkhkg-I0nUlb59pEoEqgtOh0w.ttf",
+        "italic": "http://fonts.gstatic.com/s/tirodevanagarisanskrit/v2/MCoGzBbr09vVUgVBM8FWu_yZdZkhkg-I0nUlb59ZEIsuoNax06MM.ttf"
       },
       "category": "serif",
       "kind": "webfonts#webfont"
@@ -29605,11 +29665,11 @@
         "latin",
         "latin-ext"
       ],
-      "version": "v2",
-      "lastModified": "2022-05-24",
+      "version": "v3",
+      "lastModified": "2022-05-25",
       "files": {
-        "regular": "http://fonts.gstatic.com/s/tirogurmukhi/v2/x3dmckXSYq-Uqjc048JUF7Jvly7HAQsyA2Y.ttf",
-        "italic": "http://fonts.gstatic.com/s/tirogurmukhi/v2/x3d4ckXSYq-Uqjc048JUF7JvpyzNBSk3E2YljQ.ttf"
+        "regular": "http://fonts.gstatic.com/s/tirogurmukhi/v3/x3dmckXSYq-Uqjc048JUF7Jvly7HAQsyA2Y.ttf",
+        "italic": "http://fonts.gstatic.com/s/tirogurmukhi/v3/x3d4ckXSYq-Uqjc048JUF7JvpyzNBSk3E2YljQ.ttf"
       },
       "category": "serif",
       "kind": "webfonts#webfont"
@@ -29625,11 +29685,11 @@
         "latin",
         "latin-ext"
       ],
-      "version": "v2",
-      "lastModified": "2022-05-24",
+      "version": "v3",
+      "lastModified": "2022-05-25",
       "files": {
-        "regular": "http://fonts.gstatic.com/s/tirokannada/v2/CSR44ztKmvqaDxEDJFY7CIYKSPl6tOU9Eg.ttf",
-        "italic": "http://fonts.gstatic.com/s/tirokannada/v2/CSRm4ztKmvqaDxEDJFY7CIY6SvN-luAtEnKp.ttf"
+        "regular": "http://fonts.gstatic.com/s/tirokannada/v3/CSR44ztKmvqaDxEDJFY7CIYKSPl6tOU9Eg.ttf",
+        "italic": "http://fonts.gstatic.com/s/tirokannada/v3/CSRm4ztKmvqaDxEDJFY7CIY6SvN-luAtEnKp.ttf"
       },
       "category": "serif",
       "kind": "webfonts#webfont"
@@ -29645,11 +29705,11 @@
         "latin-ext",
         "tamil"
       ],
-      "version": "v2",
-      "lastModified": "2022-05-24",
+      "version": "v3",
+      "lastModified": "2022-05-25",
       "files": {
-        "regular": "http://fonts.gstatic.com/s/tirotamil/v2/m8JXjfVIf7OT22n3M-S_ULRvamODxdI.ttf",
-        "italic": "http://fonts.gstatic.com/s/tirotamil/v2/m8JVjfVIf7OT22n3M-S_YLZlbkGG1dKEDw.ttf"
+        "regular": "http://fonts.gstatic.com/s/tirotamil/v3/m8JXjfVIf7OT22n3M-S_ULRvamODxdI.ttf",
+        "italic": "http://fonts.gstatic.com/s/tirotamil/v3/m8JVjfVIf7OT22n3M-S_YLZlbkGG1dKEDw.ttf"
       },
       "category": "serif",
       "kind": "webfonts#webfont"
@@ -29665,11 +29725,11 @@
         "latin-ext",
         "telugu"
       ],
-      "version": "v2",
-      "lastModified": "2022-05-24",
+      "version": "v3",
+      "lastModified": "2022-05-25",
       "files": {
-        "regular": "http://fonts.gstatic.com/s/tirotelugu/v2/aFTQ7PxlZWk2EPiSymjXdKSNQqn0X0BO.ttf",
-        "italic": "http://fonts.gstatic.com/s/tirotelugu/v2/aFTS7PxlZWk2EPiSymjXdJSPSK3WWlBOoas.ttf"
+        "regular": "http://fonts.gstatic.com/s/tirotelugu/v3/aFTQ7PxlZWk2EPiSymjXdKSNQqn0X0BO.ttf",
+        "italic": "http://fonts.gstatic.com/s/tirotelugu/v3/aFTS7PxlZWk2EPiSymjXdJSPSK3WWlBOoas.ttf"
       },
       "category": "serif",
       "kind": "webfonts#webfont"
