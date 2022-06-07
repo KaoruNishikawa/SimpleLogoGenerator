@@ -8,7 +8,10 @@ async function loadFontList() {
 }
 
 
-function getFontURL(fontList, idx, variant) { return fontList[idx].files[variant] }
+function getFontURL(fontList, idx, variant) {
+    const url = fontList[idx].files[variant]
+    return url.replace(/http:/, "https:")
+}
 
 
 async function getLicense(fontFile) {
