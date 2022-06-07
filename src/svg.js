@@ -11,7 +11,7 @@ function getNode(name, params, innerText) {
 }
 
 
-async function generateSVG({ text, fontURL, font, textColor, bgColor } = {}) {
+async function generateSVG({ text, fontURL, font, textColor, textColor2, bgColor } = {}) {
     const length = 80  // argument?
     const fontSrc = await fonts.ttfToBase64IfLicenseAllows(fontURL)
 
@@ -19,7 +19,8 @@ async function generateSVG({ text, fontURL, font, textColor, bgColor } = {}) {
 
     const textAttrs = {
         x: length / 2, y: length / 2,
-        "text-anchor": "middle", "alignment-baseline": "middle"
+        "text-anchor": "middle", "alignment-baseline": "middle",
+        fill: "url(#gradient)"
     }
     const styles = `
 @font-face {
@@ -28,11 +29,21 @@ async function generateSVG({ text, fontURL, font, textColor, bgColor } = {}) {
 }
 text {
     font: ${font ? font : "20px"} custom;
-    fill: ${textColor};
 }
     `
 
     const contents = [
+        $(getNode("defs", {})).append(
+            $(getNode("linearGradient", {
+                id: "gradient",
+                x1: 0, x2: "100%", y1: 0, y2: "100%",
+                gradientUnits: "userSpaceOnUse"
+            })).append(
+                getNode("stop", { "stop-color": textColor, offset: "0%" })
+            ).append(
+                getNode("stop", { "stop-color": textColor2 || textColor, offset: "100%" })
+            )
+        )[0],
         getNode("style", {}, styles),
         getNode("rect", { x: 0, y: 0, width: "100%", height: "100%", fill: bgColor }),
         getNode("text", textAttrs, text)
