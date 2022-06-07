@@ -14,8 +14,10 @@ async function main() {
     const $logoTextInput = $("#logo-text")
     const $logoTextColor = $("#logo-text-color")
     const $logoTextColor2 = $("#logo-text-color2")
+    const $logoTextSize = $("#logo-text-size")
     const $logoBgColor = $("#logo-bg-color")
     const $download = $("#download")
+    const $fileFormatSelect = $("#file-format")
 
     async function updateSVG() {
         const fontURL = fonts.getFontURL(
@@ -27,22 +29,25 @@ async function main() {
         const svgLogo = await svg.generateSVG({
             text: $logoTextInput[0].value,
             fontURL: fontURL,
-            font: "20pt",
+            fontSize: $logoTextSize[0].value + "pt",
             textColor: $logoTextColor[0].value,
             textColor2: $logoTextColor2[0].value,
             bgColor: $logoBgColor[0].value,
         })
         $svgContainer.empty().append(svgLogo)
 
-        $download.attr({
-            "href": svg.toURI($svgContainer[0].firstChild),
-            "download": "simple-logo.svg"
-        })
+        $download.click(() => svg.download(
+            svgLogo, () => $(":selected", "#file-format")[0].value)
+        )
     }
 
     for (let idx in fontList) {
         $("<option>").attr("value", idx).text(fontList[idx].family)
             .appendTo($fontFamilySelect)
+    }
+    for (let extension of ["svg", "png", "jpg"]) {
+        $("<option>").attr("value", extension).text(extension)
+            .appendTo($fileFormatSelect)
     }
 
     $fontFamilySelect.change(function () {
@@ -61,7 +66,8 @@ async function main() {
     $logoTextColor.change(updateSVG)
     $logoTextColor2.change(updateSVG)
     $logoBgColor.change(updateSVG)
+    $logoTextSize.change(updateSVG)
 }
 
 
-$(document).ready(main())
+$(document).ready(main)

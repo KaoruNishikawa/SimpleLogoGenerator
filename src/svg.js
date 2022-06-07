@@ -11,26 +11,26 @@ function getNode(name, params, innerText) {
 }
 
 
-async function generateSVG({ text, fontURL, font, textColor, textColor2, bgColor } = {}) {
+async function generateSVG({ text, fontURL, fontSize, textColor, textColor2, bgColor } = {}) {
     const length = 80  // argument?
     const fontSrc = await fonts.ttfToBase64IfLicenseAllows(fontURL)
 
     const svg = getNode("svg", { viewBox: `0 0 ${length} ${length}` })
 
     const textAttrs = {
-        x: length / 2, y: length / 2,
+        x: length / 2, y: length / 1.97,
         "text-anchor": "middle", "alignment-baseline": "middle",
         fill: "url(#gradient)"
     }
     const styles = `
-@font-face {
-    font-family: "custom";
-    src: ${fontSrc};
-}
-text {
-    font: ${font ? font : "20px"} custom;
-}
-    `
+    @font-face {
+        font-family: "custom";
+        src: ${fontSrc};
+    }
+    text {
+        font: ${fontSize} custom;
+    }
+    `.replace(/ {2,}|[\n\r]/g, " ")
 
     const contents = [
         $(getNode("defs", {})).append(
@@ -54,11 +54,38 @@ text {
 }
 
 
-function toURI(svgElem) {
-    const textSVG = (new XMLSerializer()).serializeToString(svgElem)
-    const source = '<?xml version="1.0" standalone="no"?>\r\n' + textSVG
-    return "data:image/svg+xml;charset=utf-8," + encodeURIComponent(source)
+async function download(svgElem, typeCallable) {
+    const type = typeCallable()
+    const data = (new XMLSerializer()).serializeToString(svgElem)
+    const svgBlob = new Blob([data], { type: 'image/svg+xml;charset=utf-8' })
+    if (type && type.includes("svg")) {
+        const data = await svgBlob.text()
+        const url = "data:" + '<?xml version="1.0" standalone="no"?>\r\n'
+            + svgBlob.type + "," + encodeURIComponent(data)
+        const a = $("<a>").attr({ download: "simple-logo.svg", href: url })[0]
+        a.click()
+        a.remove()
+        return
+    }
+    /* https://takuti.me/note/javascript-save-svg-as-image */
+    const url = URL.createObjectURL(svgBlob)
+    const img = new Image()
+    img.addEventListener("load", () => {
+        const bbox = svgElem.getBBox()
+        const $canvas = $("<canvas>").attr({ width: bbox.width, height: bbox.height })
+        const context = $canvas[0].getContext("2d")
+        context.drawImage(img, 0, 0, bbox.width, bbox.height)
+        URL.revokeObjectURL(url)
+
+        const extension = /[a-z]*$/.exec(type)[0]  // For content type format. Not used.
+        const a = $("<a>").attr({
+            download: `simple-logo.${extension}`, href: $canvas[0].toDataURL()
+        })[0]
+        a.click()
+        a.remove()
+    })
+    img.src = url
 }
 
 
-export { generateSVG, toURI }
+export { generateSVG, download }

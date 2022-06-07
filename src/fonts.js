@@ -14,7 +14,8 @@ function getFontURL(fontList, idx, variant) { return fontList[idx].files[variant
 async function getLicense(fontFile) {
     const buffer = await fontFile.arrayBuffer()
     const font = await opentype.parse(buffer)
-    return font.tables.name.license.en
+    const license = font.tables.name.license || font.tables.name.licenseURL
+    return license ? license.en : "License not found"
 }
 
 
@@ -36,7 +37,8 @@ async function ttfToBase64IfLicenseAllows(fontURL) {
     console.info(licenseStatement)
     const licensesAllowModification = [
         "SIL Open Font License, Version 1.1",
-        "Apache License, Version 2.0"
+        "http://scripts.sil.org/OFL",
+        "Apache License, Version 2.0",
     ]
     for (let name of licensesAllowModification) {
         if (licenseStatement.replace(/\s/g, " ").includes(name)) {
