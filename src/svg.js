@@ -11,14 +11,16 @@ function getNode(name, params, innerText) {
 }
 
 
-async function generateSVG({ text, fontURL, textSize, textColor, textColor2, bgColor1, bgColor2, gradAngleDeg, gradShrink, bgGradAngleDeg, bgGradShrink, textOffset = [0, 0] } = {}) {
-    const length = 80  // argument?
+async function generateSVG({ text, fontURL, textSize, textColor, textColor2, bgColor1, bgColor2, gradAngleDeg, gradShrink, bgGradAngleDeg, bgGradShrink, textOffset = [0, 0], logoSize = [0, 0] } = {}) {
+    const lengthX = parseInt(logoSize[0])
+    const lengthY = parseInt(logoSize[1])
     const fontSrc = await fonts.ttfToBase64IfLicenseAllows(fontURL)
 
-    const svg = getNode("svg", { viewBox: `0 0 ${length} ${length}` })
+    const svg = getNode("svg", { viewBox: `0 0 ${lengthX} ${lengthY}` })
 
     const textAttrs = {
-        x: length * (50 + parseInt(textOffset[0])) / 100, y: length * (50 + parseInt(textOffset[1])) / 100,
+        x: lengthX * (50 + parseInt(textOffset[0])) / 100,
+        y: lengthY * (50 + parseInt(textOffset[1])) / 100,
         "text-anchor": "middle", "alignment-baseline": "middle",
         fill: "url(#gradient)"
     }
