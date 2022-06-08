@@ -12,10 +12,17 @@ async function main() {
     const $fontFamilySelect = $("#font-family")
     const $fontVariantsSelect = $("#font-variants")
     const $logoTextInput = $("#logo-text")
-    const $logoTextColor = $("#logo-text-color")
+    const $logoTextColor1 = $("#logo-text-color1")
     const $logoTextColor2 = $("#logo-text-color2")
     const $logoTextSize = $("#logo-text-size")
-    const $logoBgColor = $("#logo-bg-color")
+    const $logoGradAngle = $("#logo-grad-angle")
+    const $logoGradShrink = $("#logo-grad-shrink")
+    const $logoBgColor1 = $("#logo-bg-color1")
+    const $logoBgColor2 = $("#logo-bg-color2")
+    const $logoBgGradAngle = $("#logo-bg-grad-angle")
+    const $logoBgGradShrink = $("#logo-bg-grad-shrink")
+    const $logoTextOffsetX = $("#logo-text-offset-x")
+    const $logoTextOffsetY = $("#logo-text-offset-y")
     const $download = $("#download")
     const $fileFormatSelect = $("#file-format")
 
@@ -29,10 +36,16 @@ async function main() {
         const svgLogo = await svg.generateSVG({
             text: $logoTextInput[0].value,
             fontURL: fontURL,
-            fontSize: $logoTextSize[0].value + "pt",
-            textColor: $logoTextColor[0].value,
+            textSize: $logoTextSize[0].value + "pt",
+            textColor: $logoTextColor1[0].value,
             textColor2: $logoTextColor2[0].value,
-            bgColor: $logoBgColor[0].value,
+            bgColor1: $logoBgColor1[0].value,
+            bgColor2: $logoBgColor2[0].value,
+            gradAngleDeg: $logoGradAngle[0].value,
+            gradShrink: $logoGradShrink[0].value,
+            bgGradAngleDeg: $logoBgGradAngle[0].value,
+            bgGradShrink: $logoBgGradShrink[0].value,
+            textOffset: [$logoTextOffsetX[0].value, $logoTextOffsetY[0].value]
         })
         $svgContainer.empty().append(svgLogo)
 
@@ -63,10 +76,17 @@ async function main() {
     }).change()
     $fontVariantsSelect.change(updateSVG)
     $logoTextInput.change(updateSVG)
-    $logoTextColor.change(updateSVG)
+    $logoTextColor1.change(updateSVG)
     $logoTextColor2.change(updateSVG)
-    $logoBgColor.change(updateSVG)
+    $logoBgColor1.change(updateSVG)
+    $logoBgColor2.change(updateSVG)
     $logoTextSize.change(updateSVG)
+    $logoGradAngle.change(updateSVG)
+    $logoGradShrink.change(updateSVG)
+    $logoBgGradShrink.change(updateSVG)
+    $logoBgGradAngle.change(updateSVG)
+    $logoTextOffsetX.change(updateSVG)
+    $logoTextOffsetY.change(updateSVG)
 }
 
 
