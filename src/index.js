@@ -9,6 +9,8 @@ async function main() {
     const fontList = await fonts.loadFontList()
 
     const $svgContainer = $("#svg-image")
+    const $logoSizeX = $("#logo-size-X")
+    const $logoSizeY = $("#logo-size-Y")
     const $fontFamilySelect = $("#font-family")
     const $fontVariantsSelect = $("#font-variants")
     const $logoTextInput = $("#logo-text")
@@ -45,11 +47,12 @@ async function main() {
             gradShrink: $logoGradShrink[0].value,
             bgGradAngleDeg: $logoBgGradAngle[0].value,
             bgGradShrink: $logoBgGradShrink[0].value,
-            textOffset: [$logoTextOffsetX[0].value, $logoTextOffsetY[0].value]
+            textOffset: [$logoTextOffsetX[0].value, $logoTextOffsetY[0].value],
+            logoSize: [$logoSizeX[0].value, $logoSizeY[0].value],
         })
         $svgContainer.empty().append(svgLogo)
 
-        $download.click(() => svg.download(
+        $download.off("click").click(() => svg.download(
             svgLogo, () => $(":selected", "#file-format")[0].value)
         )
     }
@@ -87,6 +90,8 @@ async function main() {
     $logoBgGradAngle.change(updateSVG)
     $logoTextOffsetX.change(updateSVG)
     $logoTextOffsetY.change(updateSVG)
+    $logoSizeX.change(updateSVG)
+    $logoSizeY.change(updateSVG)
 }
 
 
