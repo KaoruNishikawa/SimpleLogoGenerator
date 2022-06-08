@@ -2,6 +2,6 @@
     width: min(100%, 20em);
 }
 
-#logo-text-size {
+.short-input {
     width: 3em;
 }
