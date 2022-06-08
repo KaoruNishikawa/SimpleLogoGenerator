@@ -10,7 +10,7 @@ async function loadFontList() {
 
 function getFontURL(fontList, idx, variant) {
     const url = fontList[idx].files[variant]
-    return url.replace(/http:/, "https:")
+    return url.replace(/^http:/, "https:")
 }
 
 
