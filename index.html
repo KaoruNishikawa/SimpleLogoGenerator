@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<header>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <link rel="stylesheet" href="./src/index.css" />
+    <title>Simple Logo Generator</title>
+</header>
+
+<body>
+    <h1>Simple Logo Generator</h1>
+    <div id="logo-options">
+        <p>Font
+            <label><select id="font-family"></select></label>
+            <label><select id="font-variants"></select></label>
+        </p>
+        <p>Color
+            <label><input id="logo-text-color1" type="color" value="#FF5599"></label>
+            &rarr;
+            <label><input id="logo-text-color2" type="color" value="#55FFFF"></label>
+            <label><input id="logo-grad-angle" type="number" value="45" class="short-input">deg</label>
+            <label><input id="logo-grad-shrink" type="range" min="0" max="50" value="0" step="1"></label>
+        </p>
+        <p>Offset
+            <label>dX<input id="logo-text-offset-x" type="number" value="0" class="short-input">%</label>
+            <label>dY<input id="logo-text-offset-y" type="number" value="0" class="short-input">%</label>
+        </p>
+        <p>Text
+            <label><input id="logo-text" value="logo"></label>
+            <label><input id="logo-text-size" type="number" value="20" class="short-input"> pt</label>
+        </p>
+        <p>Background
+            <label><input id="logo-bg-color1" type="color" value="#003344"></label>
+            &rarr;
+            <label><input id="logo-bg-color2" type="color" value="#005533"></label>
+            <label><input id="logo-bg-grad-angle" type="number" value="45" class="short-input">deg</label>
+            <label><input id="logo-bg-grad-shrink" type="range" min="0" max="50" value="0" step="1"></label>
+        </p>
+    </div>
+    <div id="svg-image"></div>
+    <div id="font-warning"></div>
+    <div id="logo-save">
+        <label><select id="file-format"></select></label>
+        <label><button id="download">Download</button></label>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.3.1.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/opentype.js@latest/dist/opentype.min.js"></script>
+
+    <script type="module" src="./src/index.js"></script>
+</body>
+
+</html>

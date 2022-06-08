@@ -1,0 +1,7 @@
+#svg-image {
+    width: min(100%, 20em);
+}
+
+.short-input {
+    width: 3em;
+}
