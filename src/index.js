@@ -51,7 +51,7 @@ async function main() {
         $("<option>").attr("value", idx).text(fontList[idx].family)
             .appendTo($fontFamilySelect)
     }
-    for (let extension of ["svg", "png", "jpg"]) {
+    for (let extension of ["svg", "png", "jpeg"]) {
         $("<option>").attr("value", extension).text(extension)
             .appendTo($fileFormatSelect)
     }
