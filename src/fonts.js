@@ -2,6 +2,7 @@
 
 
 /**
+ * Format of font data, downloaded from Google Fonts.
  * @typedef FontData
  * @property {string} family - Name of the font family.
  * @property {Array.<string>} variants - Names of font variants.
@@ -17,7 +18,7 @@
  */
 /**
  * Get Google font informations.
- * @returns {Array.<FontData>} Font data, such as file URL, category, etc.
+ * @returns {Promise.<Array.<FontData>>} Font data, such as file URL, category, etc.
  */
 async function loadFontList() {
     const rawData = await fetch("./font-list.json")
@@ -42,7 +43,7 @@ function getFontURL(fontList, idx, variant) {
 /**
  * Try getting license terms from .ttf file.
  * @param {Blob} fontFile - File of MIME type font/ttf.
- * @returns {string} Extracted license terms.
+ * @returns {Promise.<string>} Extracted license terms.
  */
 async function getLicense(fontFile) {
     const buffer = await fontFile.arrayBuffer()
@@ -71,8 +72,9 @@ function readAsDataURL(blob) {
 /**
  * If the license allows, convert font file (.ttf) to base64 string, to embed in svg.
  * @param {string} fontURL - URL to the font file.
- * @returns {string} URL containing base64 data, in CSS format. If license doesn't allow
- * file modification/redistribution, original URL is returned in the same format.
+ * @returns {Promise.<string>} URL containing base64 data, in CSS format. If license 
+ * doesn't allow file modification/redistribution, original URL is returned in the same
+ * format.
  */
 async function ttfToBase64IfLicenseAllows(fontURL) {
     $("#font-warning").empty()
@@ -101,10 +103,10 @@ async function ttfToBase64IfLicenseAllows(fontURL) {
         }
     }
     console.warn("The font cannot be converted to Base64, due to its license terms.")
-    $("#font-warning").text(
+    $("#messages").append($("<p>").text(
         "Font file cannot be embedded,\
-         so the logo may look different depending on environment."
-    )
+        so the logo may look different depending on environment."
+    ))
     return `url("${fontURL}") format("truetype")`
 }
 

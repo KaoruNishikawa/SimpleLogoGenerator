@@ -5,3 +5,25 @@
 .short-input {
     width: 3em;
 }
+
+td {
+    border: 1px solid #ccc;
+    padding: 3px;
+}
+
+table {
+    border: 1px solid #ccc;
+}
+
+h3 {
+    margin-bottom: 0.3em;
+}
+
+#svg-image {
+    margin: 0.5em 0;
+}
+
+#messages {
+    height: 3em;
+    overflow-y: scroll;
+}
