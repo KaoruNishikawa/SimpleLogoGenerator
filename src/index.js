@@ -33,9 +33,8 @@ async function main() {
                 gradAngleDeg: elem.logoBgGradAngle,
                 opacity: elem.logoBgOpacity,
             },
-            size: [elem.logoSizeX, elem.logoSizeX],
+            size: [elem.logoSizeX, elem.logoSizeY],
         })
-        console.log($("#messages.generating"))
         $(".generating").remove()
         $("#svg-image").empty().append(svgLogo)
 
