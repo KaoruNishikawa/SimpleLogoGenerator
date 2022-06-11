@@ -17,11 +17,12 @@ async function main() {
     const $logoTextColor2 = $("#logo-text-color2")
     const $logoTextSize = $("#logo-text-size")
     const $logoGradAngle = $("#logo-grad-angle")
-    const $logoGradShrink = $("#logo-grad-shrink")
+    const $logoGradWidth = $("#logo-grad-width")
     const $logoBgColor1 = $("#logo-bg-color1")
     const $logoBgColor2 = $("#logo-bg-color2")
     const $logoBgGradAngle = $("#logo-bg-grad-angle")
-    const $logoBgGradShrink = $("#logo-bg-grad-shrink")
+    const $logoBgGradWidth = $("#logo-bg-grad-width")
+    const $logoBgOpacity = $("#logo-bg-opacity")
     const $logoTextOffsetX = $("#logo-text-offset-x")
     const $logoTextOffsetY = $("#logo-text-offset-y")
     const $download = $("#download")
@@ -40,7 +41,7 @@ async function main() {
             textStyle: {
                 color1: $logoTextColor1[0].value,
                 color2: $logoTextColor2[0].value,
-                gradShrink: $logoGradShrink[0].value,
+                gradWidth: parseInt($logoGradWidth[0].value),
                 gradAngleDeg: $logoGradAngle[0].value,
                 size: $logoTextSize[0].value + "pt",
                 offset: [$logoTextOffsetX[0].value, $logoTextOffsetY[0].value]
@@ -49,8 +50,9 @@ async function main() {
             bgStyle: {
                 color1: $logoBgColor1[0].value,
                 color2: $logoBgColor2[0].value,
-                gradShrink: $logoBgGradShrink[0].value,
+                gradWidth: parseInt($logoBgGradWidth[0].value),
                 gradAngleDeg: $logoBgGradAngle[0].value,
+                opacity: $logoBgOpacity[0].value,
             },
             size: [$logoSizeX[0].value, $logoSizeY[0].value].map(Math.round),
         })

@@ -43,15 +43,16 @@ function getSquareCornersInPercent({ center = [0, 0], angleDeg }) {
  * @param {Object} logoParams.textStyle - Style of logo text.
  * @param {string} logoParams.textStyle.color1 - Color of the text.
  * @param {string} [logoParams.textStyle.color2] - Text color, at the end of gradient.
- * @param {int} logoParams.textStyle.gradShrink - Starting point of gradient, [0, 50]%.
+ * @param {int} logoParams.textStyle.gradWidth - Starting point of gradient, [0, 50]%.
  * @param {number} logoParams.textStyle.gradAngleDeg - Angle of color gradient, in deg.
  * @param {string |int} logoParams.textStyle.size - Font size.
  * @param {[int, int]} logoParams.textStyle.offset - [x, y] offset of the text, in %.
  * @param {Object} logoParams.bgStyle - Style of logo background.
  * @param {string} logoParams.bgStyle.color1 - Color of the background.
  * @param {string} [logoParams.bgStyle.color2] - Background color, at the end of gradient.
- * @param {int} logoParams.bgStyle.gradShrink - Starting point of gradient, [0, 50]%.
+ * @param {int} logoParams.bgStyle.gradWidth - Starting point of gradient, [0, 50]%.
  * @param {number} logoParams.bgStyle.gradAngleDeg - Angle of color gradient, in deg.
+ * @param {int} logoParams.bgStyle.opacity - Opacity of the background.
  * @param {[int, int]} logoParams.size - [x, y] size of the logo image, in px.
  * @returns {Promise.<SVGElement>} Generated logo.
  */
@@ -93,12 +94,12 @@ async function generateSVG({ text, fontURL, textStyle, bgStyle, size }) {
             })).append(
                 getNode("stop", {
                     "stop-color": textStyle.color1,
-                    offset: `${textStyle.gradShrink}%`
+                    offset: `${50 - textStyle.gradWidth}%`
                 })
             ).append(
                 getNode("stop", {
                     "stop-color": textStyle.color2 || textStyle.color1,
-                    offset: `${100 - textStyle.gradShrink}%`
+                    offset: `${50 + textStyle.gradWidth}%`
                 })
             ),
             $(getNode("linearGradient", {
@@ -108,18 +109,20 @@ async function generateSVG({ text, fontURL, textStyle, bgStyle, size }) {
             })).append(
                 getNode("stop", {
                     "stop-color": bgStyle.color1,
-                    offset: `${bgStyle.gradShrink}%`
+                    offset: `${50 - bgStyle.gradWidth}%`
                 })
             ).append(
                 getNode("stop", {
                     "stop-color": bgStyle.color2 || bgStyle.color1,
-                    offset: `${100 - bgStyle.gradShrink}%`
+                    offset: `${50 + bgStyle.gradWidth}%`
                 })
             ),
         )[0],
         getNode("style", {}, styles),
         getNode("rect", {
-            x: 0, y: 0, width: "100%", height: "100%", fill: "url(#bg-gradient)"
+            x: 0, y: 0,
+            width: "100%", height: "100%",
+            fill: "url(#bg-gradient)", "fill-opacity": bgStyle.opacity + "%",
         }),
         getNode("text", textAttrs, text)
     ]
