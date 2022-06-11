@@ -166,7 +166,8 @@ async function download(svgElem, typeCallable) {
 
         const extension = /[a-z]*$/.exec(type)[0]  // For MIME type format. Not used.
         const a = $("<a>").attr({
-            download: `${elem.logoText}-logo.${extension}`, href: $canvas[0].toDataURL()
+            download: `${elem.logoText}-logo.${extension}`,
+            href: $canvas[0].toDataURL(`image/${extension}`)
         })[0]
         a.click()
         a.remove()
