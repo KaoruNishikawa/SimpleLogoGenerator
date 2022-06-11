@@ -12,39 +12,78 @@
 <body>
     <h1>Simple Logo Generator</h1>
     <div id="logo-options">
-        <p>Size
-            <label>X=<input id="logo-size-X" type="number" value="80" class="short-input">px</label>
-            <label>Y=<input id="logo-size-Y" type="number" value="80" class="short-input">px</label>
-        </p>
-        <p>Font
-            <label><select id="font-family"></select></label>
-            <label><select id="font-variants"></select></label>
-        </p>
-        <p>Color
-            <label><input id="logo-text-color1" type="color" value="#FF5599"></label>
-            &rarr;
-            <label><input id="logo-text-color2" type="color" value="#55FFFF"></label>
-            <label><input id="logo-grad-angle" type="number" value="45" class="short-input">deg</label>
-            <label><input id="logo-grad-shrink" type="range" min="0" max="50" value="0" step="1"></label>
-        </p>
-        <p>Offset
-            <label>dX<input id="logo-text-offset-x" type="number" value="0" class="short-input">%</label>
-            <label>dY<input id="logo-text-offset-y" type="number" value="0" class="short-input">%</label>
-        </p>
-        <p>Text
-            <label><input id="logo-text" value="logo"></label>
-            <label><input id="logo-text-size" type="number" value="20" class="short-input"> pt</label>
-        </p>
-        <p>Background
-            <label><input id="logo-bg-color1" type="color" value="#003344"></label>
-            &rarr;
-            <label><input id="logo-bg-color2" type="color" value="#005533"></label>
-            <label><input id="logo-bg-grad-angle" type="number" value="45" class="short-input">deg</label>
-            <label><input id="logo-bg-grad-shrink" type="range" min="0" max="50" value="0" step="1"></label>
-        </p>
+        <h3>Foreground</h3>
+        <table>
+            <tr>
+                <td>Text</td>
+                <td><label><input id="logo-text" value="logo"></label></td>
+            </tr>
+            <tr>
+                <td>Logo Size</td>
+                <td>
+                    <label><input id="logo-size-x" type="number" value="80" class="short-input">px</label>
+                    &times;
+                    <label><input id="logo-size-y" type="number" value="80" class="short-input">px</label>
+                </td>
+            </tr>
+            <tr>
+                <td rowspan="2">Font</td>
+                <td>
+                    <label><select id="font-family"></select></label>
+                    <label><select id="font-variants"></select></label>
+                </td>
+            </tr>
+            <tr>
+                <td><label><input id="logo-text-size" type="number" value="20" class="short-input"> pt</label></td>
+            </tr>
+            <tr>
+                <td rowspan="3">Color Gradient</td>
+                <td>
+                    <label><input id="logo-text-color1" type="color" value="#FF5599"></label>
+                    &rarr;
+                    <label><input id="logo-text-color2" type="color" value="#55FFFF"></label>
+                </td>
+            </tr>
+            <tr>
+                <td><label>angle=<input id="logo-grad-angle" type="number" value="45" class="short-input">deg</label></td>
+            </tr>
+            <tr>
+                <td><label>width<input id="logo-grad-width" type="range" min="0" max="50" value="35" step="1"></label></td>
+            </tr>
+            <tr>
+                <td>Offset</td>
+                <td>
+                    <label><input id="logo-text-offset-x" type="number" value="0" class="short-input">%</label>
+                    &times;
+                    <label><input id="logo-text-offset-y" type="number" value="0" class="short-input">%</label>
+                </td>
+            </tr>
+        </table>
+
+        <h3>Background</h3>
+        <table>
+            <tr>
+                <td rowspan="3">Color Gradient</td>
+                <td>
+                    <label><input id="logo-bg-color1" type="color" value="#003344"></label>
+                    &rarr;
+                    <label><input id="logo-bg-color2" type="color" value="#005533"></label>
+                </td>
+            </tr>
+            <tr>
+                <td><label>angle=<input id="logo-bg-grad-angle" type="number" value="45" class="short-input">deg</label></td>
+            </tr>
+            <tr>
+                <td><label>width<input id="logo-bg-grad-width" type="range" min="0" max="50" value="50" step="1"></label></td>
+            </tr>
+            <tr>
+                <td>Opacity</td>
+                <td><label><input id="logo-bg-opacity" type="range" min="0" max="255" value="255" step="1"></label></td>
+            </tr>
+        </table>
     </div>
     <div id="svg-image"></div>
-    <div id="font-warning"></div>
+    <div id="messages"></div>
     <div id="logo-save">
         <label><select id="file-format"></select></label>
         <label><button id="download">Download</button></label>
