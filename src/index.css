@@ -22,3 +22,8 @@ h3 {
 #svg-image {
     margin: 0.5em 0;
 }
+
+#messages {
+    height: 3em;
+    overflow-y: scroll;
+}

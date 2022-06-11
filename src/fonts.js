@@ -103,10 +103,10 @@ async function ttfToBase64IfLicenseAllows(fontURL) {
         }
     }
     console.warn("The font cannot be converted to Base64, due to its license terms.")
-    $("#font-warning").text(
+    $("#messages").append($("<p>").text(
         "Font file cannot be embedded,\
-         so the logo may look different depending on environment."
-    )
+        so the logo may look different depending on environment."
+    ))
     return `url("${fontURL}") format("truetype")`
 }
 

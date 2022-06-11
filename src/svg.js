@@ -1,5 +1,6 @@
 "use strict"
 
+import { elem } from "./elements.js"
 import * as fonts from "./fonts.js"
 
 
@@ -52,7 +53,7 @@ function getSquareCornersInPercent({ center = [0, 0], angleDeg }) {
  * @param {string} [logoParams.bgStyle.color2] - Background color, at the end of gradient.
  * @param {int} logoParams.bgStyle.gradWidth - Starting point of gradient, [0, 50]%.
  * @param {number} logoParams.bgStyle.gradAngleDeg - Angle of color gradient, in deg.
- * @param {int} logoParams.bgStyle.opacity - Opacity of the background.
+ * @param {number | string} logoParams.bgStyle.opacity - Opacity of the background.
  * @param {[int, int]} logoParams.size - [x, y] size of the logo image, in px.
  * @returns {Promise.<SVGElement>} Generated logo.
  */
@@ -122,7 +123,7 @@ async function generateSVG({ text, fontURL, textStyle, bgStyle, size }) {
         getNode("rect", {
             x: 0, y: 0,
             width: "100%", height: "100%",
-            fill: "url(#bg-gradient)", "fill-opacity": bgStyle.opacity + "%",
+            fill: "url(#bg-gradient)", "fill-opacity": bgStyle.opacity,
         }),
         getNode("text", textAttrs, text)
     ]
@@ -147,7 +148,7 @@ async function download(svgElem, typeCallable) {
         const data = await svgBlob.text()
         const url = "data:" + '<?xml version="1.0" standalone="no"?>\r\n'
             + svgBlob.type + "," + encodeURIComponent(data)
-        const a = $("<a>").attr({ download: "simple-logo.svg", href: url })[0]
+        const a = $("<a>").attr({ download: `${elem.logoText}-logo.svg`, href: url })[0]
         a.click()
         a.remove()
         return
@@ -165,7 +166,7 @@ async function download(svgElem, typeCallable) {
 
         const extension = /[a-z]*$/.exec(type)[0]  // For MIME type format. Not used.
         const a = $("<a>").attr({
-            download: `simple-logo.${extension}`, href: $canvas[0].toDataURL()
+            download: `${elem.logoText}-logo.${extension}`, href: $canvas[0].toDataURL()
         })[0]
         a.click()
         a.remove()
