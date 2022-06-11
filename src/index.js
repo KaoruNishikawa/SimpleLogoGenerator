@@ -85,6 +85,8 @@ async function main() {
         updateSVG()
     }).change()
     $("#logo-options").change(updateSVG)
+
+    $logoTextInput.focus()
 }
 
 
