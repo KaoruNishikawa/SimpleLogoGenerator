@@ -18647,14 +18647,14 @@
       "subsets": [
         "emoji"
       ],
-      "version": "v26",
-      "lastModified": "2022-07-12",
+      "version": "v31",
+      "lastModified": "2022-09-08",
       "files": {
-        "300": "http://fonts.gstatic.com/s/notoemoji/v26/bMrnmSyK7YY-MEu6aWjPDs-ar6uWaGWuob_10jwvS-FGJCMY.ttf",
-        "regular": "http://fonts.gstatic.com/s/notoemoji/v26/bMrnmSyK7YY-MEu6aWjPDs-ar6uWaGWuob-r0jwvS-FGJCMY.ttf",
-        "500": "http://fonts.gstatic.com/s/notoemoji/v26/bMrnmSyK7YY-MEu6aWjPDs-ar6uWaGWuob-Z0jwvS-FGJCMY.ttf",
-        "600": "http://fonts.gstatic.com/s/notoemoji/v26/bMrnmSyK7YY-MEu6aWjPDs-ar6uWaGWuob911TwvS-FGJCMY.ttf",
-        "700": "http://fonts.gstatic.com/s/notoemoji/v26/bMrnmSyK7YY-MEu6aWjPDs-ar6uWaGWuob9M1TwvS-FGJCMY.ttf"
+        "300": "http://fonts.gstatic.com/s/notoemoji/v31/bMrnmSyK7YY-MEu6aWjPDs-ar6uWaGWuob_10jwvS-FGJCMY.ttf",
+        "regular": "http://fonts.gstatic.com/s/notoemoji/v31/bMrnmSyK7YY-MEu6aWjPDs-ar6uWaGWuob-r0jwvS-FGJCMY.ttf",
+        "500": "http://fonts.gstatic.com/s/notoemoji/v31/bMrnmSyK7YY-MEu6aWjPDs-ar6uWaGWuob-Z0jwvS-FGJCMY.ttf",
+        "600": "http://fonts.gstatic.com/s/notoemoji/v31/bMrnmSyK7YY-MEu6aWjPDs-ar6uWaGWuob911TwvS-FGJCMY.ttf",
+        "700": "http://fonts.gstatic.com/s/notoemoji/v31/bMrnmSyK7YY-MEu6aWjPDs-ar6uWaGWuob9M1TwvS-FGJCMY.ttf"
       },
       "category": "sans-serif",
       "kind": "webfonts#webfont"
@@ -29415,10 +29415,10 @@
         "latin",
         "latin-ext"
       ],
-      "version": "v49",
-      "lastModified": "2022-09-06",
+      "version": "v54",
+      "lastModified": "2022-09-08",
       "files": {
-        "regular": "http://fonts.gstatic.com/s/stalinistone/v49/MQpS-WezM9W4Dd7D3B7I-UT7eZ-UPyacPbo.ttf"
+        "regular": "http://fonts.gstatic.com/s/stalinistone/v54/MQpS-WezM9W4Dd7D3B7I-UT7eZ-UPyacPbo.ttf"
       },
       "category": "display",
       "kind": "webfonts#webfont"
