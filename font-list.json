@@ -18647,14 +18647,14 @@
       "subsets": [
         "emoji"
       ],
-      "version": "v31",
-      "lastModified": "2022-09-08",
+      "version": "v32",
+      "lastModified": "2022-09-13",
       "files": {
-        "300": "http://fonts.gstatic.com/s/notoemoji/v31/bMrnmSyK7YY-MEu6aWjPDs-ar6uWaGWuob_10jwvS-FGJCMY.ttf",
-        "regular": "http://fonts.gstatic.com/s/notoemoji/v31/bMrnmSyK7YY-MEu6aWjPDs-ar6uWaGWuob-r0jwvS-FGJCMY.ttf",
-        "500": "http://fonts.gstatic.com/s/notoemoji/v31/bMrnmSyK7YY-MEu6aWjPDs-ar6uWaGWuob-Z0jwvS-FGJCMY.ttf",
-        "600": "http://fonts.gstatic.com/s/notoemoji/v31/bMrnmSyK7YY-MEu6aWjPDs-ar6uWaGWuob911TwvS-FGJCMY.ttf",
-        "700": "http://fonts.gstatic.com/s/notoemoji/v31/bMrnmSyK7YY-MEu6aWjPDs-ar6uWaGWuob9M1TwvS-FGJCMY.ttf"
+        "300": "http://fonts.gstatic.com/s/notoemoji/v32/bMrnmSyK7YY-MEu6aWjPDs-ar6uWaGWuob_10jwvS-FGJCMY.ttf",
+        "regular": "http://fonts.gstatic.com/s/notoemoji/v32/bMrnmSyK7YY-MEu6aWjPDs-ar6uWaGWuob-r0jwvS-FGJCMY.ttf",
+        "500": "http://fonts.gstatic.com/s/notoemoji/v32/bMrnmSyK7YY-MEu6aWjPDs-ar6uWaGWuob-Z0jwvS-FGJCMY.ttf",
+        "600": "http://fonts.gstatic.com/s/notoemoji/v32/bMrnmSyK7YY-MEu6aWjPDs-ar6uWaGWuob911TwvS-FGJCMY.ttf",
+        "700": "http://fonts.gstatic.com/s/notoemoji/v32/bMrnmSyK7YY-MEu6aWjPDs-ar6uWaGWuob9M1TwvS-FGJCMY.ttf"
       },
       "category": "sans-serif",
       "kind": "webfonts#webfont"
