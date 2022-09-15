@@ -1125,6 +1125,23 @@
       "kind": "webfonts#webfont"
     },
     {
+      "family": "Amiri Quran",
+      "variants": [
+        "regular"
+      ],
+      "subsets": [
+        "arabic",
+        "latin"
+      ],
+      "version": "v7",
+      "lastModified": "2022-09-14",
+      "files": {
+        "regular": "http://fonts.gstatic.com/s/amiriquran/v7/_Xmo-Hk0rD6DbUL4_vH8Zq5t7Cycsu-2.ttf"
+      },
+      "category": "serif",
+      "kind": "webfonts#webfont"
+    },
+    {
       "family": "Amita",
       "variants": [
         "regular",
@@ -1951,6 +1968,26 @@
       "files": {
         "regular": "http://fonts.gstatic.com/s/arefruqaa/v23/WwkbxPW1E165rajQKDulEIAiVNo5xNY.ttf",
         "700": "http://fonts.gstatic.com/s/arefruqaa/v23/WwkYxPW1E165rajQKDulKDwNcNIS2N_7Bdk.ttf"
+      },
+      "category": "serif",
+      "kind": "webfonts#webfont"
+    },
+    {
+      "family": "Aref Ruqaa Ink",
+      "variants": [
+        "regular",
+        "700"
+      ],
+      "subsets": [
+        "arabic",
+        "latin",
+        "latin-ext"
+      ],
+      "version": "v5",
+      "lastModified": "2022-09-14",
+      "files": {
+        "regular": "http://fonts.gstatic.com/s/arefruqaaink/v5/1q2fY5WOGUFlt84GTOkP6Kdx72ThVIGpgnxL.ttf",
+        "700": "http://fonts.gstatic.com/s/arefruqaaink/v5/1q2cY5WOGUFlt84GTOkP6Kdx71xde6WhqWBCyxWn.ttf"
       },
       "category": "serif",
       "kind": "webfonts#webfont"
@@ -4450,6 +4487,24 @@
       "kind": "webfonts#webfont"
     },
     {
+      "family": "Blaka Ink",
+      "variants": [
+        "regular"
+      ],
+      "subsets": [
+        "arabic",
+        "latin",
+        "latin-ext"
+      ],
+      "version": "v5",
+      "lastModified": "2022-09-14",
+      "files": {
+        "regular": "http://fonts.gstatic.com/s/blakaink/v5/AlZy_zVVtpj22Znag2chdXf4XB0Tow.ttf"
+      },
+      "category": "display",
+      "kind": "webfonts#webfont"
+    },
+    {
       "family": "Blinker",
       "variants": [
         "100",
@@ -4875,6 +4930,24 @@
       "kind": "webfonts#webfont"
     },
     {
+      "family": "Bungee Spice",
+      "variants": [
+        "regular"
+      ],
+      "subsets": [
+        "latin",
+        "latin-ext",
+        "vietnamese"
+      ],
+      "version": "v8",
+      "lastModified": "2022-09-14",
+      "files": {
+        "regular": "http://fonts.gstatic.com/s/bungeespice/v8/nwpTtK2nIhxE0q-IwgSpZBqCzyI-aMPF7Q.ttf"
+      },
+      "category": "display",
+      "kind": "webfonts#webfont"
+    },
+    {
       "family": "Butcherman",
       "variants": [
         "regular"
@@ -5044,6 +5117,38 @@
         "900": "http://fonts.gstatic.com/s/cairo/v20/SLXVc1nY6HkvangtZmpcWmhzfH5l8G8sQSaT0J0vRQ.ttf"
       },
       "category": "sans-serif",
+      "kind": "webfonts#webfont"
+    },
+    {
+      "family": "Cairo Play",
+      "variants": [
+        "200",
+        "300",
+        "regular",
+        "500",
+        "600",
+        "700",
+        "800",
+        "900"
+      ],
+      "subsets": [
+        "arabic",
+        "latin",
+        "latin-ext"
+      ],
+      "version": "v5",
+      "lastModified": "2022-09-14",
+      "files": {
+        "200": "http://fonts.gstatic.com/s/cairoplay/v5/wXKEE3QSpo4vpRz_mz6FP-8iaauCLt_Hjopv3miu5IvcJo49mOo1EnYq9yXa8GvzaA.ttf",
+        "300": "http://fonts.gstatic.com/s/cairoplay/v5/wXKEE3QSpo4vpRz_mz6FP-8iaauCLt_Hjopv3miu5IvcJo49mOo1zHYq9yXa8GvzaA.ttf",
+        "regular": "http://fonts.gstatic.com/s/cairoplay/v5/wXKEE3QSpo4vpRz_mz6FP-8iaauCLt_Hjopv3miu5IvcJo49mOo1knYq9yXa8GvzaA.ttf",
+        "500": "http://fonts.gstatic.com/s/cairoplay/v5/wXKEE3QSpo4vpRz_mz6FP-8iaauCLt_Hjopv3miu5IvcJo49mOo1oHYq9yXa8GvzaA.ttf",
+        "600": "http://fonts.gstatic.com/s/cairoplay/v5/wXKEE3QSpo4vpRz_mz6FP-8iaauCLt_Hjopv3miu5IvcJo49mOo1THEq9yXa8GvzaA.ttf",
+        "700": "http://fonts.gstatic.com/s/cairoplay/v5/wXKEE3QSpo4vpRz_mz6FP-8iaauCLt_Hjopv3miu5IvcJo49mOo1dXEq9yXa8GvzaA.ttf",
+        "800": "http://fonts.gstatic.com/s/cairoplay/v5/wXKEE3QSpo4vpRz_mz6FP-8iaauCLt_Hjopv3miu5IvcJo49mOo1EnEq9yXa8GvzaA.ttf",
+        "900": "http://fonts.gstatic.com/s/cairoplay/v5/wXKEE3QSpo4vpRz_mz6FP-8iaauCLt_Hjopv3miu5IvcJo49mOo1O3Eq9yXa8GvzaA.ttf"
+      },
+      "category": "display",
       "kind": "webfonts#webfont"
     },
     {
@@ -18148,6 +18253,26 @@
       "kind": "webfonts#webfont"
     },
     {
+      "family": "Nabla",
+      "variants": [
+        "regular"
+      ],
+      "subsets": [
+        "cyrillic-ext",
+        "latin",
+        "latin-ext",
+        "math",
+        "vietnamese"
+      ],
+      "version": "v6",
+      "lastModified": "2022-09-14",
+      "files": {
+        "regular": "http://fonts.gstatic.com/s/nabla/v6/j8_D6-LI0Lvpe7Makz5UhJt9C3uqg_X_75gyGS4jAxsNIjrRNRBUFFR_198.ttf"
+      },
+      "category": "display",
+      "kind": "webfonts#webfont"
+    },
+    {
       "family": "Nanum Brush Script",
       "variants": [
         "regular"
@@ -18633,6 +18758,22 @@
         "700italic": "http://fonts.gstatic.com/s/noticiatext/v15/VuJrdNDF2Yv9qppOePKYRP12YwPhumvVjjTkeMnz.ttf"
       },
       "category": "serif",
+      "kind": "webfonts#webfont"
+    },
+    {
+      "family": "Noto Color Emoji",
+      "variants": [
+        "regular"
+      ],
+      "subsets": [
+        "emoji"
+      ],
+      "version": "v22",
+      "lastModified": "2022-09-14",
+      "files": {
+        "regular": "http://fonts.gstatic.com/s/notocoloremoji/v22/Yq6P-KqIXTD0t4D9z1ESnKM3-HpFab5s79iz64w.ttf"
+      },
+      "category": "sans-serif",
       "kind": "webfonts#webfont"
     },
     {
@@ -26050,6 +26191,50 @@
         "500": "http://fonts.gstatic.com/s/reemkufi/v18/2sDPZGJLip7W2J7v7wQZZE1I0yCmYzzQttRnEGGf3qGuvM4.ttf",
         "600": "http://fonts.gstatic.com/s/reemkufi/v18/2sDPZGJLip7W2J7v7wQZZE1I0yCmYzzQtjhgEGGf3qGuvM4.ttf",
         "700": "http://fonts.gstatic.com/s/reemkufi/v18/2sDPZGJLip7W2J7v7wQZZE1I0yCmYzzQtgFgEGGf3qGuvM4.ttf"
+      },
+      "category": "sans-serif",
+      "kind": "webfonts#webfont"
+    },
+    {
+      "family": "Reem Kufi Fun",
+      "variants": [
+        "regular",
+        "500",
+        "600",
+        "700"
+      ],
+      "subsets": [
+        "arabic",
+        "latin",
+        "latin-ext",
+        "vietnamese"
+      ],
+      "version": "v4",
+      "lastModified": "2022-09-14",
+      "files": {
+        "regular": "http://fonts.gstatic.com/s/reemkufifun/v4/uK_m4rOFYukkmyUEbF43fIryZEk5qRZ8nrKChoYj3nCgrvqZzZXq.ttf",
+        "500": "http://fonts.gstatic.com/s/reemkufifun/v4/uK_m4rOFYukkmyUEbF43fIryZEk5qRZ8nrKChoYR3nCgrvqZzZXq.ttf",
+        "600": "http://fonts.gstatic.com/s/reemkufifun/v4/uK_m4rOFYukkmyUEbF43fIryZEk5qRZ8nrKChob92XCgrvqZzZXq.ttf",
+        "700": "http://fonts.gstatic.com/s/reemkufifun/v4/uK_m4rOFYukkmyUEbF43fIryZEk5qRZ8nrKChobE2XCgrvqZzZXq.ttf"
+      },
+      "category": "sans-serif",
+      "kind": "webfonts#webfont"
+    },
+    {
+      "family": "Reem Kufi Ink",
+      "variants": [
+        "regular"
+      ],
+      "subsets": [
+        "arabic",
+        "latin",
+        "latin-ext",
+        "vietnamese"
+      ],
+      "version": "v4",
+      "lastModified": "2022-09-14",
+      "files": {
+        "regular": "http://fonts.gstatic.com/s/reemkufiink/v4/oPWJ_kJmmu8hCvB9iFumxZSnRj5dQnSX1ko.ttf"
       },
       "category": "sans-serif",
       "kind": "webfonts#webfont"
