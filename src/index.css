@@ -19,8 +19,9 @@ h3 {
     margin-bottom: 0.3em;
 }
 
-#svg-image {
-    margin: 0.5em 0;
+#generated-image {
+    margin: 0 1em;
+    width: max(30%, 15em);
 }
 
 #messages {
