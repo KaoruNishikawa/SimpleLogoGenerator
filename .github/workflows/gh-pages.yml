@@ -11,8 +11,18 @@ jobs:
     name: Publish the pages
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: peaceiris/actions-gh-pages@v3
+      - name: Make the scripts available to the workflow
+        uses: actions/checkout@v2
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
+      - name: Build the pages
+        run: |
+          npm install
+          npm run build
+      - name: Deploy the result
+        uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./
+          publish_dir: ./dist/
