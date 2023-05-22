@@ -1,3 +1,5 @@
+import React from "react";
+
 import { Dimension, Font, LogoProperty, RectangleCorners } from "./types";
 import { getBase64Font, getFontURL } from "./fonts/fonts";
 
@@ -30,19 +32,25 @@ function getSquareCornersInPercent(
 }
 
 
-function SVGLogo(props: { property: LogoProperty }) {
+function SVGLogo(props: { id: string, property: LogoProperty }) {
     const { property } = props;
+    const [fontURL, setFontURL] = React.useState<string | null>(null);
 
-    function getFont(font: Font) {
-        const url = getFontURL(font.familyIdx, font.variantIdx);
-        return getBase64Font(url);
-    }
+    React.useEffect(() => {
+        async function getFont() {
+            const url = getFontURL(property.font.familyIdx, property.font.variantIdx);
+            const loaded = await getBase64Font(url);
+            setFontURL(loaded.base64);
+        }
+        getFont();
+    }, [props.property.font])
 
     return (
         <svg
             xmlns="http://www.w3.org/2000/svg"
             viewBox={`0 0 ${property.size.x} ${property.size.y}`}
             width="100%"
+            id={props.id}
         >
             <defs>
                 <linearGradient
@@ -76,13 +84,13 @@ function SVGLogo(props: { property: LogoProperty }) {
             </defs>
             <style>
                 {`@font-face {
-                    font-family: "custom"
-                    src: ${getFont(property.font)}
+                    font-family: "custom";
+                    src: ${fontURL};
                 }
                 text {
-                    font: ${property.font.size} "custom"
+                    font: ${property.font.size}pt custom;
                 }
-                `}
+                `.replace(/ {2,}|[\n\r]/g, " ")}
             </style>
             <rect
                 x={0}

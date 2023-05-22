@@ -76,16 +76,20 @@ function LogoFont(props: { font: Font, setFont: (font: Font) => void }) {
     const [variant, setVariant] = React.useState<string[]>(initVariants);
     const [disabled, setDisabled] = React.useState<boolean>(initVariants.length === 0);
 
+    const [variantSelect, setVariantSelect] = React.useState<string>(initVariants[0]);
+
     function handleChangeFamily(e: React.ChangeEvent<HTMLSelectElement>) {
         const newFamilyIdx = parseInt(e.target.value);
         const newVariants = fontList[newFamilyIdx].variants;
         setVariant(newVariants);
         setDisabled(newVariants.length <= 1);
+        setVariantSelect(newVariants[0]);
         props.setFont({ ...props.font, familyIdx: newFamilyIdx, variantIdx: 0 });
     }
 
     function handleChangeVariant(e: React.ChangeEvent<HTMLSelectElement>) {
-        const newVariantIdx = parseInt(e.target.value);
+        const newVariantIdx = e.target.selectedIndex;
+        setVariantSelect(e.target.value);
         props.setFont({ ...props.font, variantIdx: newVariantIdx });
     }
 
@@ -103,11 +107,17 @@ function LogoFont(props: { font: Font, setFont: (font: Font) => void }) {
             <tr>
                 <td rowSpan={2}>Font</td>
                 <td>
-                    <select id="font-family" onChange={handleChangeFamily}>{fontFamily}</select>
+                    <select
+                        id="font-family"
+                        onChange={handleChangeFamily}
+                    >
+                        {fontFamily}
+                    </select>
                     <select
                         id="font-variants"
                         onChange={handleChangeVariant}
                         disabled={disabled}
+                        value={variantSelect}
                     >
                         {variant.map((v, i) => <option key={i}>{v}</option>)}
                     </select>
