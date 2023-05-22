@@ -6,6 +6,14 @@
     width: 3em;
 }
 
+.flex {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: center;
+}
+
 td {
     border: 1px solid #ccc;
     padding: 3px;
