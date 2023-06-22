@@ -1,0 +1,48 @@
+.range-input[type="range"] {
+    -webkit-appearance: none;
+    appearance: none;
+    outline: none;
+    width: 70%;
+    border: none;
+    overflow: hidden;
+
+    @mixin slider-thumb {
+        width: 16px;
+        height: 16px;
+        background: #235599;
+        border-radius: 3px;
+        cursor: pointer;
+        -webkit-appearance: none;
+        appearance: none;
+        box-shadow: 0 0 2px 2px rgb(117, 159, 255),
+            -105px 0 0 100px #6080ab;
+        margin-top: -1px;
+    }
+
+    @mixin slider-track {
+        border: 1px solid #ccc;
+        height: 16px;
+        border-radius: 2px;
+        color: #235599;
+    }
+
+    &::-webkit-slider-runnable-track {
+        @include slider-track;
+    }
+
+    &::-moz-range-track {
+        @include slider-track;
+    }
+
+    &::-webkit-slider-thumb {
+        @include slider-thumb;
+    }
+
+    &::-moz-range-thumb {
+        @include slider-thumb;
+    }
+
+    &::-moz-range-progress {
+        background-color: #235599;
+    }
+}

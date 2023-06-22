@@ -15,7 +15,8 @@ jobs:
         env:
           GOOGLE_FONTS_API_KEY: ${{ secrets.GOOGLE_FONTS_API_KEY }}
         run: |
-          curl -o ./font-list.json "https://www.googleapis.com/webfonts/v1/webfonts?key=${GOOGLE_FONTS_API_KEY}"
+          curl -o ./src/assets/font-list.json \
+            "https://www.googleapis.com/webfonts/v1/webfonts?key=${GOOGLE_FONTS_API_KEY}"
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v3
         with:

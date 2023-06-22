@@ -2,7 +2,7 @@ import React from "react";
 
 
 function DownloadableSVG(props: {
-    fileName: string, children: React.ReactNode, options?: string[], nodeId: string
+    fileName: string, children: React.ReactNode, formats?: string[], nodeId: string
 }) {
     if (React.Children.count(props.children) !== 1) {
         throw new Error("Downloadable component must have exactly one child");
@@ -62,7 +62,7 @@ function DownloadableSVG(props: {
             {props.children}
             <form onSubmit={handleSubmit}>
                 <select name="file-format">
-                    {(props.options || []).map(
+                    {(props.formats || []).map(
                         (format) => <option key={format}>{format}</option>
                     )}
                 </select>
@@ -73,4 +73,4 @@ function DownloadableSVG(props: {
 }
 
 
-export { DownloadableSVG };
+export default DownloadableSVG;
