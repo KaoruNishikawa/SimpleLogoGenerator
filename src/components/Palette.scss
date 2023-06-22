@@ -1,0 +1,26 @@
+.palette {
+    & table {
+        border-collapse: collapse;
+        border: 1px solid #dfd;
+        background-color: #ddffdd;
+        width: 100%;
+        box-shadow: 2px 2px 2px #888;
+    }
+
+    & td {
+        border: 1px solid rgb(178, 231, 178);
+        padding: 3px;
+    }
+
+    & input {
+        border: 1px solid #ccc;
+
+        &[type="number"] {
+            width: 3em;
+        }
+
+        &[type="text"] {
+            width: 10em;
+        }
+    }
+}

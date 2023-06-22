@@ -2,17 +2,19 @@ import React from "react";
 
 import { Palette } from "./Palette";
 import { Preview } from "./Preview";
-import { LogoProperty, LogoPropertySetter } from "./types";
+import { LogoProperty, LogoPropertySetter } from "../types";
+import defaults from "../defaultProperties";
 
 
-function Container(props: { defaults: LogoProperty }) {
-    const [text, setText] = React.useState(props.defaults.text);
-    const [size, setSize] = React.useState(props.defaults.size);
-    const [font, setFont] = React.useState(props.defaults.font);
-    const [textColor, setTextColor] = React.useState(props.defaults.textColor);
-    const [textOffset, setTextOffset] = React.useState(props.defaults.textOffset);
-    const [bgColor, setBgColor] = React.useState(props.defaults.bgColor);
-    const [bgOpacity, setBgOpacity] = React.useState(props.defaults.bgOpacity);
+// TODO: parse URL query string
+function Container() {
+    const [text, setText] = React.useState(defaults.text);
+    const [size, setSize] = React.useState(defaults.size);
+    const [font, setFont] = React.useState(defaults.font);
+    const [textColor, setTextColor] = React.useState(defaults.textColor);
+    const [textOffset, setTextOffset] = React.useState(defaults.textOffset);
+    const [bgColor, setBgColor] = React.useState(defaults.bgColor);
+    const [bgOpacity, setBgOpacity] = React.useState(defaults.bgOpacity);
 
     const property: LogoProperty = {
         text: text,
@@ -43,4 +45,4 @@ function Container(props: { defaults: LogoProperty }) {
 }
 
 
-export { Container };
+export default Container;

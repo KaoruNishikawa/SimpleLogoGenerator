@@ -1,7 +1,7 @@
-import { items } from "../../font-list.json"
-import { FontFile, FontList } from "../types";
+import { items } from "../../assets/font-list.json"
+import { FontFile, FontList } from "../../types";
 import { modificationAllowed, licensesWhichAllowModification } from "./license";
-import { readAsDataURL } from "../lib/file";
+import { readAsDataURL } from "../../lib/file";
 
 const fontList = items as FontList;
 
@@ -17,6 +17,7 @@ async function getBase64Font(url: string): Promise<FontFile> {
     const fontBlob = await font.blob();
 
     const modifiable = await modificationAllowed(fontBlob);
+    console.warn("add license notice")
     if (!modifiable) {
         console.warn("The font cannot be converted to Base64, due to its license terms.");
         return { url, base64: null };

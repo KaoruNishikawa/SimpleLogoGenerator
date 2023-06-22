@@ -1,7 +1,7 @@
-import { LogoProperty, LogoPropertySetter } from "./types";
+import { LogoProperty, LogoPropertySetter } from "../types/types";
 import { SVGLogo } from "./SVGLogo";
-// import { SaveButton } from "./SaveButton";
-import { DownloadableSVG } from "./DownloadableSVG";
+import { DownloadableSVG } from ".";
+import "./Preview.scss";
 
 
 const supportedFileFormats = [
@@ -12,11 +12,11 @@ const supportedFileFormats = [
 
 function Preview(props: { property: LogoProperty }) {
     return (
-        <div>
+        <div className="preview">
             <div id="svg-image">
                 <DownloadableSVG
                     fileName={props.property.text}
-                    options={supportedFileFormats}
+                    formats={supportedFileFormats}
                     nodeId="svg-logo"
                 >
                     <SVGLogo property={props.property} id="svg-logo" />

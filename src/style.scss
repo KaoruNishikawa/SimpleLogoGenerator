@@ -1,0 +1,62 @@
+:root {
+    background-color: #f0f7ff;
+    color: #235599;
+    font-family: "Times New Roman", Times, serif;
+}
+
+
+.flex {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+
+select {
+    border: 1px solid #ccc;
+    background-color: #eef;
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px #888;
+    margin: 0 .3em .5em .3em;
+}
+
+caption {
+    font-weight: bold;
+    margin-top: .5em;
+}
+
+
+input[type="submit"] {
+    background-color: #eef;
+    border: 3px outset #ccc;
+    border-radius: 5px;
+}
+
+
+#svg-image {
+    width: 100%;
+    height: 100%;
+
+    & svg {
+        width: 100%;
+        height: 100%;
+    }
+}
+
+#messages {
+    height: 3em;
+    overflow-y: scroll;
+}
+
+.small {
+    font-size: .7em;
+    vertical-align: middle;
+}
+
+.git-link {
+    width: 1.6em;
+    height: 1.6em;
+    margin: 5px 0 0 5px;
+}

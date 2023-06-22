@@ -1,7 +1,7 @@
 import React from "react";
 
-import { Dimension, Font, LogoProperty, RectangleCorners } from "./types";
-import { getBase64Font, getFontURL } from "./fonts/fonts";
+import { Dimension, Font, LogoProperty, RectangleCorners } from "../types/types";
+import { getBase64Font, getFontURL } from "../features/fonts/fonts";
 
 
 function Text(props: { text: string, size: Dimension, offset: Dimension }) {
