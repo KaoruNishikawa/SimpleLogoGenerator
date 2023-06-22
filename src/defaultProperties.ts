@@ -1,4 +1,4 @@
-import { LogoProperty } from "./types/types";
+import { LogoProperty } from "./types";
 
 
 const defaultProperty: LogoProperty = {

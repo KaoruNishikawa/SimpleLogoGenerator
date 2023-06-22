@@ -1,4 +1,4 @@
-import { LogoProperty, LogoPropertySetter } from "../types/types";
+import { LogoProperty, LogoPropertySetter } from "../types";
 import { SVGLogo } from "./SVGLogo";
 import { DownloadableSVG } from ".";
 import "./Preview.scss";
