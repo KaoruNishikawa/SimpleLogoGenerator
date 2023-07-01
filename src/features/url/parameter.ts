@@ -1,3 +1,6 @@
+import { urlPropKey } from "../../types";
+
+
 class URLParameter {
     params: URLSearchParams;
 
@@ -5,26 +8,31 @@ class URLParameter {
         this.params = new URLSearchParams(window.location.search);
     }
 
-    get(key: string, defaultValue?: any): string;
-    get(key: string, defaultValue?: any): string | undefined {
+    get(key: urlPropKey, defaultValue: any): string | any;
+    get(key: urlPropKey, defaultValue?: any): string | any | undefined {
         const value = this.params.get(key);
-        return value !== undefined ? value : defaultValue;
+        return value != undefined ? value : defaultValue;
     }
 
-    getInt(key: string, defaultValue?: number): number;
-    getInt(key: string, defaultValue?: number): number | undefined {
+    getInt(key: urlPropKey, defaultValue: number): number;
+    getInt(key: urlPropKey, defaultValue?: number): number | undefined {
         const value = this.get(key, defaultValue);
         return value ? parseInt(value) : undefined;
     }
 
-    getJSON(key: string, defaultValue?: any): any;
-    getJSON(key: string, defaultValue?: any): any | undefined {
+    getJSON(key: urlPropKey, defaultValue: any): any;
+    getJSON(key: urlPropKey, defaultValue?: any): any | undefined {
         const value = this.get(key, defaultValue);
-        return value ? JSON.parse(value) : undefined;
+        if (typeof value === "string") {
+            return JSON.parse(value);
+        }
+        return value || undefined;
     }
 
-    set(key: string, value: any): string {
-        this.params.set(key, JSON.stringify(value));
+    set(key: urlPropKey, value: any): string {
+        const stringValue = typeof value === "string"
+            ? value : JSON.stringify(value);
+        this.params.set(key, stringValue);
         return this.params.toString();
     }
 }
