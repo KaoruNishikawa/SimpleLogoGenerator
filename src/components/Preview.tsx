@@ -34,7 +34,7 @@ function Preview(props: { property: LogoProperty }) {
                 </DownloadableSVG>
             </div>
             <div id="messages"></div>
-            <CopyableText text={`${document.location.origin}?${search}`} />
+            <CopyableText text={`${document.location.href.split("?")[0]}?${search}`} />
         </div>
     );
 }
