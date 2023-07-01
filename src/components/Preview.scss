@@ -1,7 +1,8 @@
 .preview {
     width: max(15em, min(30vw, 30vh));
     height: max(15em, min(30vw, 30vh));
-    background: linear-gradient(45deg, #ccc 25%, transparent 25%, transparent 75%, #ccc 75%),
+    background:
+        linear-gradient(45deg, #ccc 25%, transparent 25%, transparent 75%, #ccc 75%),
         linear-gradient(45deg, #ccc 25%, transparent 25%, transparent 75%, #ccc 75%);
     background-size: 1em 1em;
     background-position: 0 0, .5em .5em;

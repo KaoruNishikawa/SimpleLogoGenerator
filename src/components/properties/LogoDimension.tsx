@@ -1,4 +1,7 @@
+import React from "react";
+
 import { Dimension } from "../../types";
+
 
 function LogoDimension(
     props: { size: Dimension, setSize: (size: Dimension) => void }

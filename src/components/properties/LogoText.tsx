@@ -12,7 +12,12 @@ function LogoText(
         <tr>
             <td>Text</td>
             <td>
-                <input id="logo-text" value={props.text} onChange={handleChange} />
+                <input
+                    type="text"
+                    id="logo-text"
+                    value={props.text}
+                    onChange={handleChange}
+                />
             </td>
         </tr>
     )
