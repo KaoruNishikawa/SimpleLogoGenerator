@@ -28,10 +28,34 @@ caption {
 }
 
 
-input[type="submit"] {
-    background-color: #eef;
-    border: 3px outset #ccc;
-    border-radius: 5px;
+input {
+    &[type="submit"] {
+        background-color: #eef;
+        border: 3px outset #ccc;
+        border-radius: 5px;
+    }
+
+    &[type="number"],
+    &[type="text"] {
+        background-color: #fffb;
+        border: none;
+        border-bottom: 2px solid #ccc;
+        text-align: center;
+        vertical-align: middle;
+
+        &:focus {
+            outline: none;
+            border-bottom: 2px solid #235599;
+            background-color: #FFF;
+        }
+    }
+}
+
+
+.unit,
+.sep {
+    font-family: monospace;
+    margin: 0 .3em;
 }
 
 

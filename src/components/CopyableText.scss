@@ -1,0 +1,32 @@
+.copiable-text {
+    display: flex;
+    background-color: #eef;
+    width: 100%;
+    overflow-x: scroll;
+    padding: 3px;
+    border: 2px solid #777;
+    border-radius: 4px;
+
+    & input[type="text"] {
+        width: calc(100% - 2.1em);
+        border: none;
+        background-color: transparent;
+        overflow-x: scroll;
+    }
+
+    & button {
+        font-family: monospace;
+        background-color: transparent;
+        width: 2em;
+        border: none;
+        cursor: pointer;
+
+        & svg {
+            --color: #777;
+        }
+
+        &:focus {
+            outline: none;
+        }
+    }
+}
