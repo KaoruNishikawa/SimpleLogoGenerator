@@ -17,7 +17,6 @@ async function getBase64Font(url: string): Promise<FontFile> {
     const fontBlob = await font.blob();
 
     const modifiable = await modificationAllowed(fontBlob);
-    console.warn("add license notice")
     if (!modifiable) {
         console.warn("The font cannot be converted to Base64, due to its license terms.");
         return { url, base64: null };
