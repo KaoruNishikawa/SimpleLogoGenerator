@@ -32,24 +32,29 @@ function getSquareCornersInPercent(
 }
 
 
-function SVGLogo(props: { id: string, property: LogoProperty }) {
+function SVGLogo(props: {
+    id: string,
+    property: LogoProperty,
+    fontURL: string | null,
+    setFontURL: (url: string | null) => void
+}) {
     const { property } = props;
-    const [fontURL, setFontURL] = React.useState<string | null>(null);
 
     React.useEffect(() => {
         async function getFont() {
             const url = getFontURL(property.font.familyIdx, property.font.variantIdx);
             const loaded = await getBase64Font(url);
-            setFontURL(loaded.base64);
+            props.setFontURL(loaded.base64);
         }
         getFont();
-    }, [props.property.font])
+    }, [property.font])
 
     return (
         <svg
             xmlns="http://www.w3.org/2000/svg"
             viewBox={`0 0 ${property.size.x} ${property.size.y}`}
             width="100%"
+            height="100%"
             id={props.id}
         >
             <defs>
@@ -85,7 +90,7 @@ function SVGLogo(props: { id: string, property: LogoProperty }) {
             <style>
                 {`@font-face {
                     font-family: "custom";
-                    src: ${fontURL};
+                    src: ${props.fontURL};
                 }
                 text {
                     font: ${property.font.size}pt custom;

@@ -1,13 +1,11 @@
 import React from "react";
 
+import "./DownloadSVG.scss";
 
-function DownloadableSVG(props: {
-    fileName: string, children: React.ReactNode, formats?: string[], nodeId: string
+
+function DownloadSVG(props: {
+    fileName: string, formats?: string[], nodeId: string
 }) {
-    if (React.Children.count(props.children) !== 1) {
-        throw new Error("Downloadable component must have exactly one child");
-    }
-
     async function download(format: string): Promise<void> {
         const $svgElement = document.getElementById(
             props.nodeId
@@ -58,19 +56,16 @@ function DownloadableSVG(props: {
     }
 
     return (
-        <>
-            {props.children}
-            <form onSubmit={handleSubmit}>
-                <select name="file-format">
-                    {(props.formats || []).map(
-                        (format) => <option key={format}>{format}</option>
-                    )}
-                </select>
-                <input type="submit" value="Save" />
-            </form>
-        </>
+        <form onSubmit={handleSubmit} className="svg-save-form">
+            <select name="file-format">
+                {(props.formats || []).map(
+                    (format) => <option key={format}>{format}</option>
+                )}
+            </select>
+            <input type="submit" value="Save" />
+        </form >
     )
 }
 
 
-export default DownloadableSVG;
+export default DownloadSVG;
