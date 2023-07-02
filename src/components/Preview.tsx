@@ -1,6 +1,8 @@
+import React from "react";
+
 import { LogoProperty } from "../types";
 import { SVGLogo } from "./SVGLogo";
-import { DownloadableSVG } from ".";
+import { DownloadSVG } from ".";
 import CopyableText from "./CopyableText";
 import { URLParameter } from "../features/url";
 import "./Preview.scss";
@@ -22,18 +24,28 @@ function Preview(props: { property: LogoProperty }) {
     currentPropURL.set("bgColor", props.property.bgColor);
     const search = currentPropURL.set("bgOpacity", props.property.bgOpacity)
 
+    // Not null, to prevent #messages flashing
+    const [fontURL, setFontURL] = React.useState<string | null>("");
+
     return (
         <div className="preview">
             <div id="svg-image">
-                <DownloadableSVG
-                    fileName={props.property.text}
-                    formats={supportedFileFormats}
-                    nodeId="svg-logo"
-                >
-                    <SVGLogo property={props.property} id="svg-logo" />
-                </DownloadableSVG>
+                <SVGLogo
+                    property={props.property}
+                    fontURL={fontURL}
+                    setFontURL={setFontURL}
+                    id="svg-logo"
+                />
+
             </div>
-            <div id="messages"></div>
+            <DownloadSVG
+                fileName={props.property.text}
+                formats={supportedFileFormats}
+                nodeId="svg-logo"
+            />
+            <div id="messages">
+                {fontURL === null ? "This font cannot be embedded due to its license terms." : ""}
+            </div>
             <CopyableText text={`${document.location.href.split("?")[0]}?${search}`} />
         </div>
     );

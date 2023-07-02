@@ -8,5 +8,16 @@
     background-position: 0 0, .5em .5em;
 
     /* somehow space not created for form elements */
-    margin-bottom: 7em;
+    margin-bottom: 9em;
+
+    & #messages {
+        color: #F33;
+        height: 3em;
+        overflow-y: scroll;
+    }
+
+    & #svg-image {
+        width: 100%;
+        height: 100%;
+    }
 }
