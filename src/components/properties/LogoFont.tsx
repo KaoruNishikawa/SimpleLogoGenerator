@@ -34,7 +34,9 @@ function LogoFont(
     }
 
     const fontFamily = fontList.map((font, idx) => (
-        <option key={idx} value={idx}>{font.family}</option>
+        <option key={idx} value={idx} selected={props.font.familyIdx === idx}>
+            {font.family}
+        </option>
     ));
 
     return (
