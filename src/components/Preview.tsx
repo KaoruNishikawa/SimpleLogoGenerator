@@ -45,7 +45,13 @@ function Preview(props: { property: LogoProperty }) {
                 nodeRef={svgElement}
             />
             <div id="messages">
-                {fontURL === null ? "This font cannot be embedded due to its license terms." : ""}
+                <span>
+                    {
+                        fontURL === null
+                            ? "This font cannot be embedded due to its license terms."
+                            : ""
+                    }
+                </span>
             </div>
             <CopyableText text={`${document.location.href.split("?")[0]}?${search}`} />
         </div>
