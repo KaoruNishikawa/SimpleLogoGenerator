@@ -37,6 +37,7 @@ function SVGLogo(props: {
     property: LogoProperty,
     fontURL: string | null,
     setFontURL: (url: string | null) => void
+    svgElementRef: React.RefObject<SVGSVGElement>
 }) {
     const { property } = props;
 
@@ -56,6 +57,7 @@ function SVGLogo(props: {
             width="100%"
             height="100%"
             id={props.id}
+            ref={props.svgElementRef}
         >
             <defs>
                 <linearGradient

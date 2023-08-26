@@ -4,14 +4,12 @@ import "./DownloadSVG.scss";
 
 
 function DownloadSVG(props: {
-    fileName: string, formats?: string[], nodeId: string
+    fileName: string, formats?: string[], nodeRef: React.RefObject<SVGSVGElement>
 }) {
     async function download(format: string): Promise<void> {
-        const $svgElement = document.getElementById(
-            props.nodeId
-        ) as any as SVGGraphicsElement;
+        const $svgElement = props.nodeRef.current;
         if (!$svgElement) {
-            throw new Error(`No element with id '${props.nodeId}'`);
+            throw new Error(`No SVG element found.`);
         }
 
         const data = new XMLSerializer().serializeToString($svgElement);
@@ -30,7 +28,7 @@ function DownloadSVG(props: {
             const url = URL.createObjectURL(svgBlob);
             const img = new Image();
             img.addEventListener("load", () => {
-                const bbox = ($svgElement as SVGGraphicsElement).getBBox();
+                const bbox = $svgElement.getBBox();
                 const $canvas = document.createElement("canvas");
                 $canvas.width = bbox.width;
                 $canvas.height = bbox.height;

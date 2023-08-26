@@ -1,8 +1,7 @@
 .copiable-text {
     display: flex;
-    background-color: #eef;
+    background-color: var(--button-like-bg-color);
     width: 100%;
-    overflow-x: scroll;
     padding: 3px;
     border: 2px solid #777;
     border-radius: 4px;
