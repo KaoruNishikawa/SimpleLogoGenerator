@@ -26,6 +26,7 @@ function Preview(props: { property: LogoProperty }) {
 
     // Not null, to prevent #messages flashing
     const [fontURL, setFontURL] = React.useState<string | null>("");
+    const svgElement = React.useRef<SVGSVGElement>(null);
 
     return (
         <div className="preview">
@@ -35,13 +36,13 @@ function Preview(props: { property: LogoProperty }) {
                     fontURL={fontURL}
                     setFontURL={setFontURL}
                     id="svg-logo"
+                    svgElementRef={svgElement}
                 />
-
             </div>
             <DownloadSVG
                 fileName={props.property.text}
                 formats={supportedFileFormats}
-                nodeId="svg-logo"
+                nodeRef={svgElement}
             />
             <div id="messages">
                 {fontURL === null ? "This font cannot be embedded due to its license terms." : ""}
