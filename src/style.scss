@@ -1,9 +1,12 @@
 :root {
-    background-color: #f0f7ff;
-    color: #235599;
+    --bg-color: #f0f7ff;
+    --key-color: #235599;
+    --border-color: #ccc;
+    --button-like-bg-color: #eef;
+    background-color: var(--bg-color);
+    color: var(--key-color);
     font-family: "Times New Roman", Times, serif;
 }
-
 
 .flex {
     display: flex;
@@ -13,10 +16,10 @@
     align-items: center;
 }
 
-
 select {
-    border: 1px solid #ccc;
-    background-color: #eef;
+    border: 1px solid var(--border-color);
+    background-color: var(--button-like-bg-color);
+    color: var(--key-color);
     border-radius: 5px;
     box-shadow: 2px 2px 2px #888;
     margin: 0 .3em .5em .3em;
@@ -27,11 +30,12 @@ caption {
     margin-top: .5em;
 }
 
-
 input {
+    color: var(--key-color);
+
     &[type="submit"] {
-        background-color: #eef;
-        border: 3px outset #ccc;
+        background-color: var(--button-like-bg-color);
+        border: 3px outset var(--border-color);
         border-radius: 5px;
     }
 
@@ -39,18 +43,17 @@ input {
     &[type="text"] {
         background-color: #fffb;
         border: none;
-        border-bottom: 2px solid #ccc;
+        border-bottom: 2px solid var(--border-color);
         text-align: center;
         vertical-align: middle;
 
         &:focus {
             outline: none;
-            border-bottom: 2px solid #235599;
+            border-bottom: 2px solid var(--key-color);
             background-color: #FFF;
         }
     }
 }
-
 
 .unit,
 .sep {
