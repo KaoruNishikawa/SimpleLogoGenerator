@@ -28871,27 +28871,27 @@
         "800"
       ],
       "subsets": [
+        "emoji",
         "latin",
         "latin-ext",
         "math",
-        "symbols",
         "vietnamese"
       ],
-      "version": "v3",
-      "lastModified": "2023-10-19",
+      "version": "v6",
+      "lastModified": "2023-12-04",
       "files": {
-        "100": "http://fonts.gstatic.com/s/playpensans/v3/dg43_pj1p6gXP0gzAZgm4c8XQArSU7ACQSn4IvRgunQ9Ffmme0w.ttf",
-        "200": "http://fonts.gstatic.com/s/playpensans/v3/dg43_pj1p6gXP0gzAZgm4c8XQArSU7ACQSn4InRhunQ9Ffmme0w.ttf",
-        "300": "http://fonts.gstatic.com/s/playpensans/v3/dg43_pj1p6gXP0gzAZgm4c8XQArSU7ACQSn4IqphunQ9Ffmme0w.ttf",
-        "regular": "http://fonts.gstatic.com/s/playpensans/v3/dg43_pj1p6gXP0gzAZgm4c8XQArSU7ACQSn4IvRhunQ9Ffmme0w.ttf",
-        "500": "http://fonts.gstatic.com/s/playpensans/v3/dg43_pj1p6gXP0gzAZgm4c8XQArSU7ACQSn4IsZhunQ9Ffmme0w.ttf",
-        "600": "http://fonts.gstatic.com/s/playpensans/v3/dg43_pj1p6gXP0gzAZgm4c8XQArSU7ACQSn4IipmunQ9Ffmme0w.ttf",
-        "700": "http://fonts.gstatic.com/s/playpensans/v3/dg43_pj1p6gXP0gzAZgm4c8XQArSU7ACQSn4IhNmunQ9Ffmme0w.ttf",
-        "800": "http://fonts.gstatic.com/s/playpensans/v3/dg43_pj1p6gXP0gzAZgm4c8XQArSU7ACQSn4InRmunQ9Ffmme0w.ttf"
+        "100": "http://fonts.gstatic.com/s/playpensans/v6/dg43_pj1p6gXP0gzAZgm4c8XQArSU7ACQSn4IvRgunQ9Ffmme0w.ttf",
+        "200": "http://fonts.gstatic.com/s/playpensans/v6/dg43_pj1p6gXP0gzAZgm4c8XQArSU7ACQSn4InRhunQ9Ffmme0w.ttf",
+        "300": "http://fonts.gstatic.com/s/playpensans/v6/dg43_pj1p6gXP0gzAZgm4c8XQArSU7ACQSn4IqphunQ9Ffmme0w.ttf",
+        "regular": "http://fonts.gstatic.com/s/playpensans/v6/dg43_pj1p6gXP0gzAZgm4c8XQArSU7ACQSn4IvRhunQ9Ffmme0w.ttf",
+        "500": "http://fonts.gstatic.com/s/playpensans/v6/dg43_pj1p6gXP0gzAZgm4c8XQArSU7ACQSn4IsZhunQ9Ffmme0w.ttf",
+        "600": "http://fonts.gstatic.com/s/playpensans/v6/dg43_pj1p6gXP0gzAZgm4c8XQArSU7ACQSn4IipmunQ9Ffmme0w.ttf",
+        "700": "http://fonts.gstatic.com/s/playpensans/v6/dg43_pj1p6gXP0gzAZgm4c8XQArSU7ACQSn4IhNmunQ9Ffmme0w.ttf",
+        "800": "http://fonts.gstatic.com/s/playpensans/v6/dg43_pj1p6gXP0gzAZgm4c8XQArSU7ACQSn4InRmunQ9Ffmme0w.ttf"
       },
       "category": "handwriting",
       "kind": "webfonts#webfont",
-      "menu": "http://fonts.gstatic.com/s/playpensans/v3/dg43_pj1p6gXP0gzAZgm4c8XQArSU7ACQSn4IvRhinU3EQ.ttf"
+      "menu": "http://fonts.gstatic.com/s/playpensans/v6/dg43_pj1p6gXP0gzAZgm4c8XQArSU7ACQSn4IvRhinU3EQ.ttf"
     },
     {
       "family": "Plus Jakarta Sans",
