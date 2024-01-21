@@ -52,6 +52,10 @@ input {
             border-bottom: 2px solid var(--key-color);
             background-color: #FFF;
         }
+
+        &:disabled {
+            color: var(--key-color);
+        }
     }
 }
 
