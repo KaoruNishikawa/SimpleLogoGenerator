@@ -11543,21 +11543,21 @@
         "latin-ext",
         "vietnamese"
       ],
-      "version": "v11",
-      "lastModified": "2024-04-12",
+      "version": "v12",
+      "lastModified": "2024-04-17",
       "files": {
-        "regular": "https://fonts.gstatic.com/s/gelasio/v11/cIfiMaFfvUQxTTqS3iKJkLGbI41wQL8Ilycs-TDO8Aba.ttf",
-        "500": "https://fonts.gstatic.com/s/gelasio/v11/cIfiMaFfvUQxTTqS3iKJkLGbI41wQL86lycs-TDO8Aba.ttf",
-        "600": "https://fonts.gstatic.com/s/gelasio/v11/cIfiMaFfvUQxTTqS3iKJkLGbI41wQL_WkCcs-TDO8Aba.ttf",
-        "700": "https://fonts.gstatic.com/s/gelasio/v11/cIfiMaFfvUQxTTqS3iKJkLGbI41wQL_vkCcs-TDO8Aba.ttf",
-        "italic": "https://fonts.gstatic.com/s/gelasio/v11/cIfsMaFfvUQxTTqS9Cu7b2nySBfeR6rA1M9v8zTs9RbanYs.ttf",
-        "500italic": "https://fonts.gstatic.com/s/gelasio/v11/cIfsMaFfvUQxTTqS9Cu7b2nySBfeR6rA1P1v8zTs9RbanYs.ttf",
-        "600italic": "https://fonts.gstatic.com/s/gelasio/v11/cIfsMaFfvUQxTTqS9Cu7b2nySBfeR6rA1BFo8zTs9RbanYs.ttf",
-        "700italic": "https://fonts.gstatic.com/s/gelasio/v11/cIfsMaFfvUQxTTqS9Cu7b2nySBfeR6rA1Cho8zTs9RbanYs.ttf"
+        "regular": "https://fonts.gstatic.com/s/gelasio/v12/cIfiMaFfvUQxTTqS3iKJkLGbI41wQL8Ilycs-TDO8Aba.ttf",
+        "500": "https://fonts.gstatic.com/s/gelasio/v12/cIfiMaFfvUQxTTqS3iKJkLGbI41wQL86lycs-TDO8Aba.ttf",
+        "600": "https://fonts.gstatic.com/s/gelasio/v12/cIfiMaFfvUQxTTqS3iKJkLGbI41wQL_WkCcs-TDO8Aba.ttf",
+        "700": "https://fonts.gstatic.com/s/gelasio/v12/cIfiMaFfvUQxTTqS3iKJkLGbI41wQL_vkCcs-TDO8Aba.ttf",
+        "italic": "https://fonts.gstatic.com/s/gelasio/v12/cIfsMaFfvUQxTTqS9Cu7b2nySBfeR6rA1M9v8zTs9RbanYs.ttf",
+        "500italic": "https://fonts.gstatic.com/s/gelasio/v12/cIfsMaFfvUQxTTqS9Cu7b2nySBfeR6rA1P1v8zTs9RbanYs.ttf",
+        "600italic": "https://fonts.gstatic.com/s/gelasio/v12/cIfsMaFfvUQxTTqS9Cu7b2nySBfeR6rA1BFo8zTs9RbanYs.ttf",
+        "700italic": "https://fonts.gstatic.com/s/gelasio/v12/cIfsMaFfvUQxTTqS9Cu7b2nySBfeR6rA1Cho8zTs9RbanYs.ttf"
       },
       "category": "serif",
       "kind": "webfonts#webfont",
-      "menu": "https://fonts.gstatic.com/s/gelasio/v11/cIfiMaFfvUQxTTqS3iKJkLGbI41wQL8Ilxct8zQ.ttf"
+      "menu": "https://fonts.gstatic.com/s/gelasio/v12/cIfiMaFfvUQxTTqS3iKJkLGbI41wQL8Ilxct8zQ.ttf"
     },
     {
       "family": "Gemunu Libre",
