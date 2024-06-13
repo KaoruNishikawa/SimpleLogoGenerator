@@ -160,7 +160,7 @@ function AngleInput(props:
             onMouseDown={handleMouseDown}
             tabIndex={0}
         >
-            <input type="number" value={value} {...attrs} tabIndex={-1} />
+            <input type="number" value={value} {...attrs} tabIndex={-1} readOnly />
             <span
                 className="pivot"
                 style={{ transform: `rotate(${-value + 90}deg)` }}

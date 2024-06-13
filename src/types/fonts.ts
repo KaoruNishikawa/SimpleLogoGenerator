@@ -17,8 +17,8 @@ interface FontProperty {
 type FontList = Array<FontProperty>;
 
 interface Font {
-    familyIdx: number;
-    variantIdx: number;
+    family: string;
+    variant: string;
     size: number;
 }
 

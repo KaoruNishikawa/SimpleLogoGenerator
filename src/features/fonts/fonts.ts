@@ -5,10 +5,9 @@ import { readAsDataURL } from "../../lib/file";
 
 const fontList = items as FontList;
 
-function getFontURL(familyIdx: number, variantIdx: number): string {
-    const family = fontList[familyIdx];
-    const variant = family.variants[variantIdx];
-    const url = family.files[variant] as string;
+function getFontURL(family: string, variant: string): string {
+    const familyInfo = fontList.find(f => f.family === family) || fontList[0];
+    const url = familyInfo.files[variant] || Object.values(familyInfo.files)[0];
     return url.replace(/^http:/, "https:");
 }
 

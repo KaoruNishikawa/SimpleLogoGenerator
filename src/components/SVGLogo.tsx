@@ -43,7 +43,7 @@ function SVGLogo(props: {
 
     React.useEffect(() => {
         async function getFont() {
-            const url = getFontURL(property.font.familyIdx, property.font.variantIdx);
+            const url = getFontURL(property.font.family, property.font.variant);
             const loaded = await getBase64Font(url);
             props.setFontURL(loaded.base64);
         }
