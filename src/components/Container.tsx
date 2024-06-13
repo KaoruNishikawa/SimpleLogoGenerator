@@ -6,8 +6,8 @@ import { LogoProperty, LogoPropertySetter } from "../types";
 import defaults from "../defaultProperties";
 
 
-// TODO: parse URL query string
 function Container() {
+    console.debug("Parameters:", defaults)
     const [text, setText] = React.useState(defaults.text);
     const [size, setSize] = React.useState(defaults.size);
     const [font, setFont] = React.useState(defaults.font);
