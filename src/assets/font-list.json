@@ -8350,14 +8350,14 @@
         "latin",
         "latin-ext"
       ],
-      "version": "v21",
-      "lastModified": "2023-08-25",
+      "version": "v22",
+      "lastModified": "2024-07-08",
       "files": {
-        "regular": "https://fonts.gstatic.com/s/cutive/v21/NaPZcZ_fHOhV3Ip7T_hDoyqlZQ.ttf"
+        "regular": "https://fonts.gstatic.com/s/cutive/v22/NaPZcZ_fHOhV3Ip7T_hDoyqlZQ.ttf"
       },
       "category": "serif",
       "kind": "webfonts#webfont",
-      "menu": "https://fonts.gstatic.com/s/cutive/v21/NaPZcZ_fHOhV3IpLTvJH.ttf"
+      "menu": "https://fonts.gstatic.com/s/cutive/v22/NaPZcZ_fHOhV3IpLTvJH.ttf"
     },
     {
       "family": "Cutive Mono",
@@ -19588,6 +19588,26 @@
       "menu": "https://fonts.gstatic.com/s/mallanna/v14/hv-Vlzx-KEQb84YaDFwyGTA.ttf"
     },
     {
+      "family": "Maname",
+      "variants": [
+        "regular"
+      ],
+      "subsets": [
+        "latin",
+        "latin-ext",
+        "sinhala",
+        "vietnamese"
+      ],
+      "version": "v1",
+      "lastModified": "2024-07-08",
+      "files": {
+        "regular": "https://fonts.gstatic.com/s/maname/v1/gNMFW3J8RpCx9my42FkGGI6q_Q.ttf"
+      },
+      "category": "serif",
+      "kind": "webfonts#webfont",
+      "menu": "https://fonts.gstatic.com/s/maname/v1/gNMFW3J8RpCx9myI2VMC.ttf"
+    },
+    {
       "family": "Mandali",
       "variants": [
         "regular"
@@ -30026,6 +30046,60 @@
       "menu": "https://fonts.gstatic.com/s/playpensans/v13/dg43_pj1p6gXP0gzAZgm4c8XQArSU7ACQSn4IvRhinU3EQ.ttf"
     },
     {
+      "family": "Playwrite AR",
+      "variants": [
+        "100",
+        "200",
+        "300",
+        "regular"
+      ],
+      "subsets": [
+        "latin"
+      ],
+      "version": "v1",
+      "lastModified": "2024-07-08",
+      "files": {
+        "100": "https://fonts.gstatic.com/s/playwritear/v1/VEMjRohisJz5pTCzruCNjWbfp_N-aNWqYgKS-fteqf-ES67xIO8.ttf",
+        "200": "https://fonts.gstatic.com/s/playwritear/v1/VEMjRohisJz5pTCzruCNjWbfp_N-aNWqYgKS-Xtfqf-ES67xIO8.ttf",
+        "300": "https://fonts.gstatic.com/s/playwritear/v1/VEMjRohisJz5pTCzruCNjWbfp_N-aNWqYgKS-aVfqf-ES67xIO8.ttf",
+        "regular": "https://fonts.gstatic.com/s/playwritear/v1/VEMjRohisJz5pTCzruCNjWbfp_N-aNWqYgKS-ftfqf-ES67xIO8.ttf"
+      },
+      "category": "handwriting",
+      "kind": "webfonts#webfont",
+      "menu": "https://fonts.gstatic.com/s/playwritear/v1/VEMjRohisJz5pTCzruCNjWbfp_N-aNWqYgKS-ftfmf6OTw.ttf"
+    },
+    {
+      "family": "Playwrite AT",
+      "variants": [
+        "100",
+        "200",
+        "300",
+        "regular",
+        "100italic",
+        "200italic",
+        "300italic",
+        "italic"
+      ],
+      "subsets": [
+        "latin"
+      ],
+      "version": "v1",
+      "lastModified": "2024-07-08",
+      "files": {
+        "100": "https://fonts.gstatic.com/s/playwriteat/v1/Gw6owc7n6kfJN4fVoKON7HIEBRSfb0U2uGBm2M77d03MLIHJ-rk.ttf",
+        "200": "https://fonts.gstatic.com/s/playwriteat/v1/Gw6owc7n6kfJN4fVoKON7HIEBRSfb0U2uGBm2E76d03MLIHJ-rk.ttf",
+        "300": "https://fonts.gstatic.com/s/playwriteat/v1/Gw6owc7n6kfJN4fVoKON7HIEBRSfb0U2uGBm2JD6d03MLIHJ-rk.ttf",
+        "regular": "https://fonts.gstatic.com/s/playwriteat/v1/Gw6owc7n6kfJN4fVoKON7HIEBRSfb0U2uGBm2M76d03MLIHJ-rk.ttf",
+        "100italic": "https://fonts.gstatic.com/s/playwriteat/v1/Gw6uwc7n6kfJN4fVoKON7HIuDCZgtyxdIs5hzQa5nw_GKKPM6rkyVg.ttf",
+        "200italic": "https://fonts.gstatic.com/s/playwriteat/v1/Gw6uwc7n6kfJN4fVoKON7HIuDCZgtyxdIs5hzQa5Hw7GKKPM6rkyVg.ttf",
+        "300italic": "https://fonts.gstatic.com/s/playwriteat/v1/Gw6uwc7n6kfJN4fVoKON7HIuDCZgtyxdIs5hzQa5wQ7GKKPM6rkyVg.ttf",
+        "italic": "https://fonts.gstatic.com/s/playwriteat/v1/Gw6uwc7n6kfJN4fVoKON7HIuDCZgtyxdIs5hzQa5nw7GKKPM6rkyVg.ttf"
+      },
+      "category": "handwriting",
+      "kind": "webfonts#webfont",
+      "menu": "https://fonts.gstatic.com/s/playwriteat/v1/Gw6owc7n6kfJN4fVoKON7HIEBRSfb0U2uGBm2M76R0zGKA.ttf"
+    },
+    {
       "family": "Playwrite AU NSW",
       "variants": [
         "100",
@@ -30141,6 +30215,52 @@
       "menu": "https://fonts.gstatic.com/s/playwriteauvic/v4/bWtu7enUfwn0Hf1zjprKOJdcDy8rxwC1ltAeNDAAd4fTaYK1AhY.ttf"
     },
     {
+      "family": "Playwrite BE VLG",
+      "variants": [
+        "100",
+        "200",
+        "300",
+        "regular"
+      ],
+      "subsets": [
+        "latin"
+      ],
+      "version": "v1",
+      "lastModified": "2024-07-08",
+      "files": {
+        "100": "https://fonts.gstatic.com/s/playwritebevlg/v1/GFD8WBdug3mQSvrAT9AL6fd4ZkB-a2sDmg3dy2W0blL8vfCMMiyBIkNg.ttf",
+        "200": "https://fonts.gstatic.com/s/playwritebevlg/v1/GFD8WBdug3mQSvrAT9AL6fd4ZkB-a2sDmg3dy2W0blJ8vPCMMiyBIkNg.ttf",
+        "300": "https://fonts.gstatic.com/s/playwritebevlg/v1/GFD8WBdug3mQSvrAT9AL6fd4ZkB-a2sDmg3dy2W0blKivPCMMiyBIkNg.ttf",
+        "regular": "https://fonts.gstatic.com/s/playwritebevlg/v1/GFD8WBdug3mQSvrAT9AL6fd4ZkB-a2sDmg3dy2W0blL8vPCMMiyBIkNg.ttf"
+      },
+      "category": "handwriting",
+      "kind": "webfonts#webfont",
+      "menu": "https://fonts.gstatic.com/s/playwritebevlg/v1/GFD8WBdug3mQSvrAT9AL6fd4ZkB-a2sDmg3dy2W0blL8vMCNOCg.ttf"
+    },
+    {
+      "family": "Playwrite BE WAL",
+      "variants": [
+        "100",
+        "200",
+        "300",
+        "regular"
+      ],
+      "subsets": [
+        "latin"
+      ],
+      "version": "v1",
+      "lastModified": "2024-07-08",
+      "files": {
+        "100": "https://fonts.gstatic.com/s/playwritebewal/v1/DtV1Jwq5QbIzyrA6DHdJ2BksuUmanQtEYjAlv96WFsWCGfugHxwiSZp8.ttf",
+        "200": "https://fonts.gstatic.com/s/playwritebewal/v1/DtV1Jwq5QbIzyrA6DHdJ2BksuUmanQtEYjAlv96WFsUCGPugHxwiSZp8.ttf",
+        "300": "https://fonts.gstatic.com/s/playwritebewal/v1/DtV1Jwq5QbIzyrA6DHdJ2BksuUmanQtEYjAlv96WFsXcGPugHxwiSZp8.ttf",
+        "regular": "https://fonts.gstatic.com/s/playwritebewal/v1/DtV1Jwq5QbIzyrA6DHdJ2BksuUmanQtEYjAlv96WFsWCGPugHxwiSZp8.ttf"
+      },
+      "category": "handwriting",
+      "kind": "webfonts#webfont",
+      "menu": "https://fonts.gstatic.com/s/playwritebewal/v1/DtV1Jwq5QbIzyrA6DHdJ2BksuUmanQtEYjAlv96WFsWCGMuhFRg.ttf"
+    },
+    {
       "family": "Playwrite BR",
       "variants": [
         "100",
@@ -30187,6 +30307,29 @@
       "menu": "https://fonts.gstatic.com/s/playwriteca/v4/z7NGdR_4cT0NOrEAIElil93uR_VhfhYaYOijHiqvUpyw0A.ttf"
     },
     {
+      "family": "Playwrite CL",
+      "variants": [
+        "100",
+        "200",
+        "300",
+        "regular"
+      ],
+      "subsets": [
+        "latin"
+      ],
+      "version": "v1",
+      "lastModified": "2024-07-08",
+      "files": {
+        "100": "https://fonts.gstatic.com/s/playwritecl/v1/-zk391m7wssz_XLkGgu8hy3tqrcOhnbf6ForU8JbvLq3DyPNbus.ttf",
+        "200": "https://fonts.gstatic.com/s/playwritecl/v1/-zk391m7wssz_XLkGgu8hy3tqrcOhnbf6ForU0JavLq3DyPNbus.ttf",
+        "300": "https://fonts.gstatic.com/s/playwritecl/v1/-zk391m7wssz_XLkGgu8hy3tqrcOhnbf6ForU5xavLq3DyPNbus.ttf",
+        "regular": "https://fonts.gstatic.com/s/playwritecl/v1/-zk391m7wssz_XLkGgu8hy3tqrcOhnbf6ForU8JavLq3DyPNbus.ttf"
+      },
+      "category": "handwriting",
+      "kind": "webfonts#webfont",
+      "menu": "https://fonts.gstatic.com/s/playwritecl/v1/-zk391m7wssz_XLkGgu8hy3tqrcOhnbf6ForU8JajLu9Cw.ttf"
+    },
+    {
       "family": "Playwrite CO",
       "variants": [
         "100",
@@ -30208,6 +30351,52 @@
       "category": "handwriting",
       "kind": "webfonts#webfont",
       "menu": "https://fonts.gstatic.com/s/playwriteco/v6/0FlGVP2Hl1iH-fv2BH4kJkgb8vH-rbJPTDqqx7ZIk-ZEFg.ttf"
+    },
+    {
+      "family": "Playwrite CU",
+      "variants": [
+        "100",
+        "200",
+        "300",
+        "regular"
+      ],
+      "subsets": [
+        "latin"
+      ],
+      "version": "v1",
+      "lastModified": "2024-07-08",
+      "files": {
+        "100": "https://fonts.gstatic.com/s/playwritecu/v1/VuJjdNDb2p7tvoFGLMPdf9xcahOpb9ZuoyXseRmwZeT7m2YIByI.ttf",
+        "200": "https://fonts.gstatic.com/s/playwritecu/v1/VuJjdNDb2p7tvoFGLMPdf9xcahOpb9ZuoyXseZmxZeT7m2YIByI.ttf",
+        "300": "https://fonts.gstatic.com/s/playwritecu/v1/VuJjdNDb2p7tvoFGLMPdf9xcahOpb9ZuoyXseUexZeT7m2YIByI.ttf",
+        "regular": "https://fonts.gstatic.com/s/playwritecu/v1/VuJjdNDb2p7tvoFGLMPdf9xcahOpb9ZuoyXseRmxZeT7m2YIByI.ttf"
+      },
+      "category": "handwriting",
+      "kind": "webfonts#webfont",
+      "menu": "https://fonts.gstatic.com/s/playwritecu/v1/VuJjdNDb2p7tvoFGLMPdf9xcahOpb9ZuoyXseRmxVeXxnw.ttf"
+    },
+    {
+      "family": "Playwrite CZ",
+      "variants": [
+        "100",
+        "200",
+        "300",
+        "regular"
+      ],
+      "subsets": [
+        "latin"
+      ],
+      "version": "v1",
+      "lastModified": "2024-07-08",
+      "files": {
+        "100": "https://fonts.gstatic.com/s/playwritecz/v1/8vIa7wYp22pt_BUChSHeVxxlOPUEKoMfap_FCI4aTqT_VkAS5X4.ttf",
+        "200": "https://fonts.gstatic.com/s/playwritecz/v1/8vIa7wYp22pt_BUChSHeVxxlOPUEKoMfap_FCA4bTqT_VkAS5X4.ttf",
+        "300": "https://fonts.gstatic.com/s/playwritecz/v1/8vIa7wYp22pt_BUChSHeVxxlOPUEKoMfap_FCNAbTqT_VkAS5X4.ttf",
+        "regular": "https://fonts.gstatic.com/s/playwritecz/v1/8vIa7wYp22pt_BUChSHeVxxlOPUEKoMfap_FCI4bTqT_VkAS5X4.ttf"
+      },
+      "category": "handwriting",
+      "kind": "webfonts#webfont",
+      "menu": "https://fonts.gstatic.com/s/playwritecz/v1/8vIa7wYp22pt_BUChSHeVxxlOPUEKoMfap_FCI4bfqX1Ug.ttf"
     },
     {
       "family": "Playwrite DE Grund",
@@ -30300,6 +30489,52 @@
       "category": "handwriting",
       "kind": "webfonts#webfont",
       "menu": "https://fonts.gstatic.com/s/playwritedeva/v4/VuJmdNPb2p7tvoFGLMPdeMxGN1pntEMhdK1XfsTyRSySj28pHw.ttf"
+    },
+    {
+      "family": "Playwrite DK Loopet",
+      "variants": [
+        "100",
+        "200",
+        "300",
+        "regular"
+      ],
+      "subsets": [
+        "latin"
+      ],
+      "version": "v1",
+      "lastModified": "2024-07-08",
+      "files": {
+        "100": "https://fonts.gstatic.com/s/playwritedkloopet/v1/memVYbuzy2qb3rtJGfM1FvY-GacDcsPvtaDfqfgbBWmV75JJwOgRuQovSE8_.ttf",
+        "200": "https://fonts.gstatic.com/s/playwritedkloopet/v1/memVYbuzy2qb3rtJGfM1FvY-GacDcsPvtaDfqfgbBWmV75LJwegRuQovSE8_.ttf",
+        "300": "https://fonts.gstatic.com/s/playwritedkloopet/v1/memVYbuzy2qb3rtJGfM1FvY-GacDcsPvtaDfqfgbBWmV75IXwegRuQovSE8_.ttf",
+        "regular": "https://fonts.gstatic.com/s/playwritedkloopet/v1/memVYbuzy2qb3rtJGfM1FvY-GacDcsPvtaDfqfgbBWmV75JJwegRuQovSE8_.ttf"
+      },
+      "category": "handwriting",
+      "kind": "webfonts#webfont",
+      "menu": "https://fonts.gstatic.com/s/playwritedkloopet/v1/memVYbuzy2qb3rtJGfM1FvY-GacDcsPvtaDfqfgbBWmV75JJwdgQsw4.ttf"
+    },
+    {
+      "family": "Playwrite DK Uloopet",
+      "variants": [
+        "100",
+        "200",
+        "300",
+        "regular"
+      ],
+      "subsets": [
+        "latin"
+      ],
+      "version": "v1",
+      "lastModified": "2024-07-08",
+      "files": {
+        "100": "https://fonts.gstatic.com/s/playwritedkuloopet/v1/bWtS7e3Ufwn0Hf1zjprKPYlcDAoHknvYFjqIh8PF6jwcP5K06lQrKeng6LUzAA.ttf",
+        "200": "https://fonts.gstatic.com/s/playwritedkuloopet/v1/bWtS7e3Ufwn0Hf1zjprKPYlcDAoHknvYFjqIh8PF6jwcP5K0alUrKeng6LUzAA.ttf",
+        "300": "https://fonts.gstatic.com/s/playwritedkuloopet/v1/bWtS7e3Ufwn0Hf1zjprKPYlcDAoHknvYFjqIh8PF6jwcP5K0tFUrKeng6LUzAA.ttf",
+        "regular": "https://fonts.gstatic.com/s/playwritedkuloopet/v1/bWtS7e3Ufwn0Hf1zjprKPYlcDAoHknvYFjqIh8PF6jwcP5K06lUrKeng6LUzAA.ttf"
+      },
+      "category": "handwriting",
+      "kind": "webfonts#webfont",
+      "menu": "https://fonts.gstatic.com/s/playwritedkuloopet/v1/bWtS7e3Ufwn0Hf1zjprKPYlcDAoHknvYFjqIh8PF6jwcP5K06lUbKOPk.ttf"
     },
     {
       "family": "Playwrite ES",
@@ -30454,6 +30689,75 @@
       "category": "handwriting",
       "kind": "webfonts#webfont",
       "menu": "https://fonts.gstatic.com/s/playwritegbs/v5/oPWb_kFkk-s1Xclhmlemy7jsNQR8TohGU_DTHWU6uhDMxp2I.ttf"
+    },
+    {
+      "family": "Playwrite HR",
+      "variants": [
+        "100",
+        "200",
+        "300",
+        "regular"
+      ],
+      "subsets": [
+        "latin"
+      ],
+      "version": "v1",
+      "lastModified": "2024-07-08",
+      "files": {
+        "100": "https://fonts.gstatic.com/s/playwritehr/v1/WWXAljmQYQCZM5qaU_dwQYcybAQ7GFn1mFNJPsoA9YHXAHC7tvg.ttf",
+        "200": "https://fonts.gstatic.com/s/playwritehr/v1/WWXAljmQYQCZM5qaU_dwQYcybAQ7GFn1mFNJPkoB9YHXAHC7tvg.ttf",
+        "300": "https://fonts.gstatic.com/s/playwritehr/v1/WWXAljmQYQCZM5qaU_dwQYcybAQ7GFn1mFNJPpQB9YHXAHC7tvg.ttf",
+        "regular": "https://fonts.gstatic.com/s/playwritehr/v1/WWXAljmQYQCZM5qaU_dwQYcybAQ7GFn1mFNJPsoB9YHXAHC7tvg.ttf"
+      },
+      "category": "handwriting",
+      "kind": "webfonts#webfont",
+      "menu": "https://fonts.gstatic.com/s/playwritehr/v1/WWXAljmQYQCZM5qaU_dwQYcybAQ7GFn1mFNJPsoBxYDdBA.ttf"
+    },
+    {
+      "family": "Playwrite HR Lijeva",
+      "variants": [
+        "100",
+        "200",
+        "300",
+        "regular"
+      ],
+      "subsets": [
+        "latin"
+      ],
+      "version": "v1",
+      "lastModified": "2024-07-08",
+      "files": {
+        "100": "https://fonts.gstatic.com/s/playwritehrlijeva/v1/gNMvW2dhS5-p7HvxrBYiWN2SsKqLWCrYiDBAvbRl82ZY0d4zB8aUy4_lxmKl.ttf",
+        "200": "https://fonts.gstatic.com/s/playwritehrlijeva/v1/gNMvW2dhS5-p7HvxrBYiWN2SsKqLWCrYiDBAvbRl82ZY0d6zBsaUy4_lxmKl.ttf",
+        "300": "https://fonts.gstatic.com/s/playwritehrlijeva/v1/gNMvW2dhS5-p7HvxrBYiWN2SsKqLWCrYiDBAvbRl82ZY0d5tBsaUy4_lxmKl.ttf",
+        "regular": "https://fonts.gstatic.com/s/playwritehrlijeva/v1/gNMvW2dhS5-p7HvxrBYiWN2SsKqLWCrYiDBAvbRl82ZY0d4zBsaUy4_lxmKl.ttf"
+      },
+      "category": "handwriting",
+      "kind": "webfonts#webfont",
+      "menu": "https://fonts.gstatic.com/s/playwritehrlijeva/v1/gNMvW2dhS5-p7HvxrBYiWN2SsKqLWCrYiDBAvbRl82ZY0d4zBvaVwYs.ttf"
+    },
+    {
+      "family": "Playwrite HU",
+      "variants": [
+        "100",
+        "200",
+        "300",
+        "regular"
+      ],
+      "subsets": [
+        "latin"
+      ],
+      "version": "v1",
+      "lastModified": "2024-07-08",
+      "files": {
+        "100": "https://fonts.gstatic.com/s/playwritehu/v1/A2BIn59A0g0xA3zDhFw-0vfPWJtlaFKmrETx1PL7TO2dH3B2Xx4.ttf",
+        "200": "https://fonts.gstatic.com/s/playwritehu/v1/A2BIn59A0g0xA3zDhFw-0vfPWJtlaFKmrETx1HL6TO2dH3B2Xx4.ttf",
+        "300": "https://fonts.gstatic.com/s/playwritehu/v1/A2BIn59A0g0xA3zDhFw-0vfPWJtlaFKmrETx1Kz6TO2dH3B2Xx4.ttf",
+        "regular": "https://fonts.gstatic.com/s/playwritehu/v1/A2BIn59A0g0xA3zDhFw-0vfPWJtlaFKmrETx1PL6TO2dH3B2Xx4.ttf"
+      },
+      "category": "handwriting",
+      "kind": "webfonts#webfont",
+      "menu": "https://fonts.gstatic.com/s/playwritehu/v1/A2BIn59A0g0xA3zDhFw-0vfPWJtlaFKmrETx1PL6fOyXGw.ttf"
     },
     {
       "family": "Playwrite ID",
@@ -30707,6 +31011,29 @@
       "category": "handwriting",
       "kind": "webfonts#webfont",
       "menu": "https://fonts.gstatic.com/s/playwritenz/v4/d6lakaOxRsyr_zZDmUYvh2TW3NCQVvjKPjPjngAUSRpzhA.ttf"
+    },
+    {
+      "family": "Playwrite PE",
+      "variants": [
+        "100",
+        "200",
+        "300",
+        "regular"
+      ],
+      "subsets": [
+        "latin"
+      ],
+      "version": "v1",
+      "lastModified": "2024-07-08",
+      "files": {
+        "100": "https://fonts.gstatic.com/s/playwritepe/v1/FwZJ7-Amxlw-50y5PJugmImRrktKJDJ4lnesO2lsTPHFdtSgb_A.ttf",
+        "200": "https://fonts.gstatic.com/s/playwritepe/v1/FwZJ7-Amxlw-50y5PJugmImRrktKJDJ4lnesO-ltTPHFdtSgb_A.ttf",
+        "300": "https://fonts.gstatic.com/s/playwritepe/v1/FwZJ7-Amxlw-50y5PJugmImRrktKJDJ4lnesOzdtTPHFdtSgb_A.ttf",
+        "regular": "https://fonts.gstatic.com/s/playwritepe/v1/FwZJ7-Amxlw-50y5PJugmImRrktKJDJ4lnesO2ltTPHFdtSgb_A.ttf"
+      },
+      "category": "handwriting",
+      "kind": "webfonts#webfont",
+      "menu": "https://fonts.gstatic.com/s/playwritepe/v1/FwZJ7-Amxlw-50y5PJugmImRrktKJDJ4lnesO2ltfPDPcg.ttf"
     },
     {
       "family": "Playwrite PL",
