@@ -41538,6 +41538,34 @@
       "menu": "https://fonts.gstatic.com/s/zcoolxiaowei/v14/i7dMIFFrTRywPpUVX9_RJyM1UFOaGw.ttf"
     },
     {
+      "family": "Zain",
+      "variants": [
+        "200",
+        "300",
+        "regular",
+        "700",
+        "800",
+        "900"
+      ],
+      "subsets": [
+        "arabic",
+        "latin"
+      ],
+      "version": "v2",
+      "lastModified": "2024-07-18",
+      "files": {
+        "200": "https://fonts.gstatic.com/s/zain/v2/sykz-y9lm7soOBrstSq9-trEvlQ.ttf",
+        "300": "https://fonts.gstatic.com/s/zain/v2/sykz-y9lm7soOH7vtSq9-trEvlQ.ttf",
+        "regular": "https://fonts.gstatic.com/s/zain/v2/syk8-y9lm7soANLHkSKW5tM.ttf",
+        "700": "https://fonts.gstatic.com/s/zain/v2/sykz-y9lm7soOG7otSq9-trEvlQ.ttf",
+        "800": "https://fonts.gstatic.com/s/zain/v2/sykz-y9lm7soOHLrtSq9-trEvlQ.ttf",
+        "900": "https://fonts.gstatic.com/s/zain/v2/sykz-y9lm7soOFbqtSq9-trEvlQ.ttf"
+      },
+      "category": "sans-serif",
+      "kind": "webfonts#webfont",
+      "menu": "https://fonts.gstatic.com/s/zain/v2/syk8-y9lm7soMNPNlQ.ttf"
+    },
+    {
       "family": "Zen Antique",
       "variants": [
         "regular"
