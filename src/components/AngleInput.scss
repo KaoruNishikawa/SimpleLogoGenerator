@@ -3,6 +3,16 @@
     --pivot-radius: 16px;
     --border-color: #ccc;
 
+    background-color: #eef;
+    border: 1px solid var(--border-color);
+    box-shadow: 2px 2px 2px #888;
+    border-radius: 50%;
+    width: calc(2 * var(--disk-radius));
+    height: calc(2 * var(--disk-radius));
+    position: relative;
+    top: 0;
+    left: 0;
+
     &:focus {
         outline: none;
         --border-color: #77f;
@@ -13,16 +23,6 @@
         width: 0;
         height: 0;
     }
-
-    background-color: #eef;
-    border: 1px solid var(--border-color);
-    box-shadow: 2px 2px 2px #888;
-    border-radius: 50%;
-    width: calc(2 * var(--disk-radius));
-    height: calc(2 * var(--disk-radius));
-    position: relative;
-    top: 0;
-    left: 0;
 
     & .pivot {
         display: inline-block;
