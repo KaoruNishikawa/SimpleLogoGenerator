@@ -3,12 +3,23 @@ name: Update Fonts List
 on:
   schedule:
     - cron: '0 9 * * *'
+  workflow_dispatch:
 
 jobs:
   get-fonts-list:
     runs-on: ubuntu-latest
+    env:
+      PULL_REQUEST_TITLE: Update fonts list
+    if:
     steps:
       - uses: actions/checkout@v3
+      - name: Check unmerged PR
+        id: check_unmerged_pr
+        run: |
+          if [[ $(gh pr list --state open --json title | jq '.[].title' | grep "${{ env.PULL_REQUEST_TITLE }}") ]]; then
+            echo "There is an open PR"
+            exit 1
+          fi
       - name: Get Date
         run: echo "TODAY=$(date +'%Y%m%d')" >> $GITHUB_ENV
       - name: Fetch Fonts List
@@ -22,4 +33,4 @@ jobs:
         with:
           branch: font-list-${{ env.TODAY }}
           delete-branch: true
-          title: Update fonts list
+          title: ${{ env.PULL_REQUEST_TITLE }}
