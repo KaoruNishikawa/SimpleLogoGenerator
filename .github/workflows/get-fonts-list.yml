@@ -3,6 +3,7 @@ name: Update Fonts List
 on:
   schedule:
     - cron: '0 9 * * *'
+  workflow_dispatch:
 
 jobs:
   get-fonts-list:
@@ -32,4 +33,4 @@ jobs:
         with:
           branch: font-list-${{ env.TODAY }}
           delete-branch: true
-          title: Update fonts list
+          title: ${{ env.PULL_REQUEST_TITLE }}
