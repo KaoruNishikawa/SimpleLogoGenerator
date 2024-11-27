@@ -23267,18 +23267,18 @@
       "subsets": [
         "emoji"
       ],
-      "version": "v51",
-      "lastModified": "2024-09-03",
+      "version": "v53",
+      "lastModified": "2024-11-26",
       "files": {
-        "300": "https://fonts.gstatic.com/s/notoemoji/v51/bMrnmSyK7YY-MEu6aWjPDs-ar6uWaGWuob_10jwvS-FGJCMY.ttf",
-        "regular": "https://fonts.gstatic.com/s/notoemoji/v51/bMrnmSyK7YY-MEu6aWjPDs-ar6uWaGWuob-r0jwvS-FGJCMY.ttf",
-        "500": "https://fonts.gstatic.com/s/notoemoji/v51/bMrnmSyK7YY-MEu6aWjPDs-ar6uWaGWuob-Z0jwvS-FGJCMY.ttf",
-        "600": "https://fonts.gstatic.com/s/notoemoji/v51/bMrnmSyK7YY-MEu6aWjPDs-ar6uWaGWuob911TwvS-FGJCMY.ttf",
-        "700": "https://fonts.gstatic.com/s/notoemoji/v51/bMrnmSyK7YY-MEu6aWjPDs-ar6uWaGWuob9M1TwvS-FGJCMY.ttf"
+        "300": "https://fonts.gstatic.com/s/notoemoji/v53/bMrnmSyK7YY-MEu6aWjPDs-ar6uWaGWuob_10jwvS-FGJCMY.ttf",
+        "regular": "https://fonts.gstatic.com/s/notoemoji/v53/bMrnmSyK7YY-MEu6aWjPDs-ar6uWaGWuob-r0jwvS-FGJCMY.ttf",
+        "500": "https://fonts.gstatic.com/s/notoemoji/v53/bMrnmSyK7YY-MEu6aWjPDs-ar6uWaGWuob-Z0jwvS-FGJCMY.ttf",
+        "600": "https://fonts.gstatic.com/s/notoemoji/v53/bMrnmSyK7YY-MEu6aWjPDs-ar6uWaGWuob911TwvS-FGJCMY.ttf",
+        "700": "https://fonts.gstatic.com/s/notoemoji/v53/bMrnmSyK7YY-MEu6aWjPDs-ar6uWaGWuob9M1TwvS-FGJCMY.ttf"
       },
       "category": "sans-serif",
       "kind": "webfonts#webfont",
-      "menu": "https://fonts.gstatic.com/s/notoemoji/v51/bMrnmSyK7YY-MEu6aWjPDs-ar6uWaGWuob-r0gwuQeU.ttf"
+      "menu": "https://fonts.gstatic.com/s/notoemoji/v53/bMrnmSyK7YY-MEu6aWjPDs-ar6uWaGWuob-r0gwuQeU.ttf"
     },
     {
       "family": "Noto Kufi Arabic",
