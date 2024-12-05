@@ -516,18 +516,18 @@
         "latin",
         "latin-ext"
       ],
-      "version": "v13",
-      "lastModified": "2024-11-20",
+      "version": "v14",
+      "lastModified": "2024-12-04",
       "files": {
-        "300": "https://fonts.gstatic.com/s/akshar/v13/Yq6I-LyHWTfz9rGoqDaUbHvhkAUsSSgFy9CY94XsnPc.ttf",
-        "regular": "https://fonts.gstatic.com/s/akshar/v13/Yq6I-LyHWTfz9rGoqDaUbHvhkAUsSXYFy9CY94XsnPc.ttf",
-        "500": "https://fonts.gstatic.com/s/akshar/v13/Yq6I-LyHWTfz9rGoqDaUbHvhkAUsSUQFy9CY94XsnPc.ttf",
-        "600": "https://fonts.gstatic.com/s/akshar/v13/Yq6I-LyHWTfz9rGoqDaUbHvhkAUsSagCy9CY94XsnPc.ttf",
-        "700": "https://fonts.gstatic.com/s/akshar/v13/Yq6I-LyHWTfz9rGoqDaUbHvhkAUsSZECy9CY94XsnPc.ttf"
+        "300": "https://fonts.gstatic.com/s/akshar/v14/Yq6I-LyHWTfz9rGoqDaUbHvhkAUsSSgFy9CY94XsnPc.ttf",
+        "regular": "https://fonts.gstatic.com/s/akshar/v14/Yq6I-LyHWTfz9rGoqDaUbHvhkAUsSXYFy9CY94XsnPc.ttf",
+        "500": "https://fonts.gstatic.com/s/akshar/v14/Yq6I-LyHWTfz9rGoqDaUbHvhkAUsSUQFy9CY94XsnPc.ttf",
+        "600": "https://fonts.gstatic.com/s/akshar/v14/Yq6I-LyHWTfz9rGoqDaUbHvhkAUsSagCy9CY94XsnPc.ttf",
+        "700": "https://fonts.gstatic.com/s/akshar/v14/Yq6I-LyHWTfz9rGoqDaUbHvhkAUsSZECy9CY94XsnPc.ttf"
       },
       "category": "sans-serif",
       "kind": "webfonts#webfont",
-      "menu": "https://fonts.gstatic.com/s/akshar/v13/Yq6I-LyHWTfz9rGoqDaUbHvhkAUsSXYF-9GS8w.ttf"
+      "menu": "https://fonts.gstatic.com/s/akshar/v14/Yq6I-LyHWTfz9rGoqDaUbHvhkAUsSXYF-9GS8w.ttf"
     },
     {
       "family": "Aladin",
@@ -1669,21 +1669,21 @@
         "latin",
         "latin-ext"
       ],
-      "version": "v14",
-      "lastModified": "2024-11-20",
+      "version": "v15",
+      "lastModified": "2024-12-04",
       "files": {
-        "100": "https://fonts.gstatic.com/s/anekbangla/v14/_gPW1R38qTExHg-17BhM6n66QhabMYB0fBKONtHhRSIUIre5mq3Ofm9YIocg56yyvt0.ttf",
-        "200": "https://fonts.gstatic.com/s/anekbangla/v14/_gPW1R38qTExHg-17BhM6n66QhabMYB0fBKONtHhRSIUIre5mq3Ofu9ZIocg56yyvt0.ttf",
-        "300": "https://fonts.gstatic.com/s/anekbangla/v14/_gPW1R38qTExHg-17BhM6n66QhabMYB0fBKONtHhRSIUIre5mq3OfjFZIocg56yyvt0.ttf",
-        "regular": "https://fonts.gstatic.com/s/anekbangla/v14/_gPW1R38qTExHg-17BhM6n66QhabMYB0fBKONtHhRSIUIre5mq3Ofm9ZIocg56yyvt0.ttf",
-        "500": "https://fonts.gstatic.com/s/anekbangla/v14/_gPW1R38qTExHg-17BhM6n66QhabMYB0fBKONtHhRSIUIre5mq3Ofl1ZIocg56yyvt0.ttf",
-        "600": "https://fonts.gstatic.com/s/anekbangla/v14/_gPW1R38qTExHg-17BhM6n66QhabMYB0fBKONtHhRSIUIre5mq3OfrFeIocg56yyvt0.ttf",
-        "700": "https://fonts.gstatic.com/s/anekbangla/v14/_gPW1R38qTExHg-17BhM6n66QhabMYB0fBKONtHhRSIUIre5mq3OfoheIocg56yyvt0.ttf",
-        "800": "https://fonts.gstatic.com/s/anekbangla/v14/_gPW1R38qTExHg-17BhM6n66QhabMYB0fBKONtHhRSIUIre5mq3Ofu9eIocg56yyvt0.ttf"
+        "100": "https://fonts.gstatic.com/s/anekbangla/v15/_gPW1R38qTExHg-17BhM6n66QhabMYB0fBKONtHhRSIUIre5mq3Ofm9YIocg56yyvt0.ttf",
+        "200": "https://fonts.gstatic.com/s/anekbangla/v15/_gPW1R38qTExHg-17BhM6n66QhabMYB0fBKONtHhRSIUIre5mq3Ofu9ZIocg56yyvt0.ttf",
+        "300": "https://fonts.gstatic.com/s/anekbangla/v15/_gPW1R38qTExHg-17BhM6n66QhabMYB0fBKONtHhRSIUIre5mq3OfjFZIocg56yyvt0.ttf",
+        "regular": "https://fonts.gstatic.com/s/anekbangla/v15/_gPW1R38qTExHg-17BhM6n66QhabMYB0fBKONtHhRSIUIre5mq3Ofm9ZIocg56yyvt0.ttf",
+        "500": "https://fonts.gstatic.com/s/anekbangla/v15/_gPW1R38qTExHg-17BhM6n66QhabMYB0fBKONtHhRSIUIre5mq3Ofl1ZIocg56yyvt0.ttf",
+        "600": "https://fonts.gstatic.com/s/anekbangla/v15/_gPW1R38qTExHg-17BhM6n66QhabMYB0fBKONtHhRSIUIre5mq3OfrFeIocg56yyvt0.ttf",
+        "700": "https://fonts.gstatic.com/s/anekbangla/v15/_gPW1R38qTExHg-17BhM6n66QhabMYB0fBKONtHhRSIUIre5mq3OfoheIocg56yyvt0.ttf",
+        "800": "https://fonts.gstatic.com/s/anekbangla/v15/_gPW1R38qTExHg-17BhM6n66QhabMYB0fBKONtHhRSIUIre5mq3Ofu9eIocg56yyvt0.ttf"
       },
       "category": "sans-serif",
       "kind": "webfonts#webfont",
-      "menu": "https://fonts.gstatic.com/s/anekbangla/v14/_gPW1R38qTExHg-17BhM6n66QhabMYB0fBKONtHhRSIUIre5mq3Ofm9ZEoYq4w.ttf"
+      "menu": "https://fonts.gstatic.com/s/anekbangla/v15/_gPW1R38qTExHg-17BhM6n66QhabMYB0fBKONtHhRSIUIre5mq3Ofm9ZEoYq4w.ttf"
     },
     {
       "family": "Anek Devanagari",
@@ -1702,21 +1702,21 @@
         "latin",
         "latin-ext"
       ],
-      "version": "v13",
-      "lastModified": "2024-11-20",
+      "version": "v14",
+      "lastModified": "2024-12-04",
       "files": {
-        "100": "https://fonts.gstatic.com/s/anekdevanagari/v13/jVyo7nP0CGrUsxB-QiRgw0NlLaVt_QUAkYxLRoCL23mlh20ZVHOMAWbgHLDtk-9nFk0LjZ7E.ttf",
-        "200": "https://fonts.gstatic.com/s/anekdevanagari/v13/jVyo7nP0CGrUsxB-QiRgw0NlLaVt_QUAkYxLRoCL23mlh20ZVHOMAWbgHLBtku9nFk0LjZ7E.ttf",
-        "300": "https://fonts.gstatic.com/s/anekdevanagari/v13/jVyo7nP0CGrUsxB-QiRgw0NlLaVt_QUAkYxLRoCL23mlh20ZVHOMAWbgHLCzku9nFk0LjZ7E.ttf",
-        "regular": "https://fonts.gstatic.com/s/anekdevanagari/v13/jVyo7nP0CGrUsxB-QiRgw0NlLaVt_QUAkYxLRoCL23mlh20ZVHOMAWbgHLDtku9nFk0LjZ7E.ttf",
-        "500": "https://fonts.gstatic.com/s/anekdevanagari/v13/jVyo7nP0CGrUsxB-QiRgw0NlLaVt_QUAkYxLRoCL23mlh20ZVHOMAWbgHLDfku9nFk0LjZ7E.ttf",
-        "600": "https://fonts.gstatic.com/s/anekdevanagari/v13/jVyo7nP0CGrUsxB-QiRgw0NlLaVt_QUAkYxLRoCL23mlh20ZVHOMAWbgHLAzle9nFk0LjZ7E.ttf",
-        "700": "https://fonts.gstatic.com/s/anekdevanagari/v13/jVyo7nP0CGrUsxB-QiRgw0NlLaVt_QUAkYxLRoCL23mlh20ZVHOMAWbgHLAKle9nFk0LjZ7E.ttf",
-        "800": "https://fonts.gstatic.com/s/anekdevanagari/v13/jVyo7nP0CGrUsxB-QiRgw0NlLaVt_QUAkYxLRoCL23mlh20ZVHOMAWbgHLBtle9nFk0LjZ7E.ttf"
+        "100": "https://fonts.gstatic.com/s/anekdevanagari/v14/jVyo7nP0CGrUsxB-QiRgw0NlLaVt_QUAkYxLRoCL23mlh20ZVHOMAWbgHLDtk-9nFk0LjZ7E.ttf",
+        "200": "https://fonts.gstatic.com/s/anekdevanagari/v14/jVyo7nP0CGrUsxB-QiRgw0NlLaVt_QUAkYxLRoCL23mlh20ZVHOMAWbgHLBtku9nFk0LjZ7E.ttf",
+        "300": "https://fonts.gstatic.com/s/anekdevanagari/v14/jVyo7nP0CGrUsxB-QiRgw0NlLaVt_QUAkYxLRoCL23mlh20ZVHOMAWbgHLCzku9nFk0LjZ7E.ttf",
+        "regular": "https://fonts.gstatic.com/s/anekdevanagari/v14/jVyo7nP0CGrUsxB-QiRgw0NlLaVt_QUAkYxLRoCL23mlh20ZVHOMAWbgHLDtku9nFk0LjZ7E.ttf",
+        "500": "https://fonts.gstatic.com/s/anekdevanagari/v14/jVyo7nP0CGrUsxB-QiRgw0NlLaVt_QUAkYxLRoCL23mlh20ZVHOMAWbgHLDfku9nFk0LjZ7E.ttf",
+        "600": "https://fonts.gstatic.com/s/anekdevanagari/v14/jVyo7nP0CGrUsxB-QiRgw0NlLaVt_QUAkYxLRoCL23mlh20ZVHOMAWbgHLAzle9nFk0LjZ7E.ttf",
+        "700": "https://fonts.gstatic.com/s/anekdevanagari/v14/jVyo7nP0CGrUsxB-QiRgw0NlLaVt_QUAkYxLRoCL23mlh20ZVHOMAWbgHLAKle9nFk0LjZ7E.ttf",
+        "800": "https://fonts.gstatic.com/s/anekdevanagari/v14/jVyo7nP0CGrUsxB-QiRgw0NlLaVt_QUAkYxLRoCL23mlh20ZVHOMAWbgHLBtle9nFk0LjZ7E.ttf"
       },
       "category": "sans-serif",
       "kind": "webfonts#webfont",
-      "menu": "https://fonts.gstatic.com/s/anekdevanagari/v13/jVyo7nP0CGrUsxB-QiRgw0NlLaVt_QUAkYxLRoCL23mlh20ZVHOMAWbgHLDtkt9mHEk.ttf"
+      "menu": "https://fonts.gstatic.com/s/anekdevanagari/v14/jVyo7nP0CGrUsxB-QiRgw0NlLaVt_QUAkYxLRoCL23mlh20ZVHOMAWbgHLDtkt9mHEk.ttf"
     },
     {
       "family": "Anek Gujarati",
@@ -1735,21 +1735,21 @@
         "latin",
         "latin-ext"
       ],
-      "version": "v15",
-      "lastModified": "2024-11-20",
+      "version": "v16",
+      "lastModified": "2024-12-04",
       "files": {
-        "100": "https://fonts.gstatic.com/s/anekgujarati/v15/l7g_bj5oysqknvkCo2T_8FuiIRBA7lncQUmbIBEtPKiYYQhRwyBxCD-0F5G7w0KgB7Lm7g.ttf",
-        "200": "https://fonts.gstatic.com/s/anekgujarati/v15/l7g_bj5oysqknvkCo2T_8FuiIRBA7lncQUmbIBEtPKiYYQhRwyBxCD-0l5C7w0KgB7Lm7g.ttf",
-        "300": "https://fonts.gstatic.com/s/anekgujarati/v15/l7g_bj5oysqknvkCo2T_8FuiIRBA7lncQUmbIBEtPKiYYQhRwyBxCD-0SZC7w0KgB7Lm7g.ttf",
-        "regular": "https://fonts.gstatic.com/s/anekgujarati/v15/l7g_bj5oysqknvkCo2T_8FuiIRBA7lncQUmbIBEtPKiYYQhRwyBxCD-0F5C7w0KgB7Lm7g.ttf",
-        "500": "https://fonts.gstatic.com/s/anekgujarati/v15/l7g_bj5oysqknvkCo2T_8FuiIRBA7lncQUmbIBEtPKiYYQhRwyBxCD-0JZC7w0KgB7Lm7g.ttf",
-        "600": "https://fonts.gstatic.com/s/anekgujarati/v15/l7g_bj5oysqknvkCo2T_8FuiIRBA7lncQUmbIBEtPKiYYQhRwyBxCD-0yZe7w0KgB7Lm7g.ttf",
-        "700": "https://fonts.gstatic.com/s/anekgujarati/v15/l7g_bj5oysqknvkCo2T_8FuiIRBA7lncQUmbIBEtPKiYYQhRwyBxCD-08Je7w0KgB7Lm7g.ttf",
-        "800": "https://fonts.gstatic.com/s/anekgujarati/v15/l7g_bj5oysqknvkCo2T_8FuiIRBA7lncQUmbIBEtPKiYYQhRwyBxCD-0l5e7w0KgB7Lm7g.ttf"
+        "100": "https://fonts.gstatic.com/s/anekgujarati/v16/l7g_bj5oysqknvkCo2T_8FuiIRBA7lncQUmbIBEtPKiYYQhRwyBxCD-0F5G7w0KgB7Lm7g.ttf",
+        "200": "https://fonts.gstatic.com/s/anekgujarati/v16/l7g_bj5oysqknvkCo2T_8FuiIRBA7lncQUmbIBEtPKiYYQhRwyBxCD-0l5C7w0KgB7Lm7g.ttf",
+        "300": "https://fonts.gstatic.com/s/anekgujarati/v16/l7g_bj5oysqknvkCo2T_8FuiIRBA7lncQUmbIBEtPKiYYQhRwyBxCD-0SZC7w0KgB7Lm7g.ttf",
+        "regular": "https://fonts.gstatic.com/s/anekgujarati/v16/l7g_bj5oysqknvkCo2T_8FuiIRBA7lncQUmbIBEtPKiYYQhRwyBxCD-0F5C7w0KgB7Lm7g.ttf",
+        "500": "https://fonts.gstatic.com/s/anekgujarati/v16/l7g_bj5oysqknvkCo2T_8FuiIRBA7lncQUmbIBEtPKiYYQhRwyBxCD-0JZC7w0KgB7Lm7g.ttf",
+        "600": "https://fonts.gstatic.com/s/anekgujarati/v16/l7g_bj5oysqknvkCo2T_8FuiIRBA7lncQUmbIBEtPKiYYQhRwyBxCD-0yZe7w0KgB7Lm7g.ttf",
+        "700": "https://fonts.gstatic.com/s/anekgujarati/v16/l7g_bj5oysqknvkCo2T_8FuiIRBA7lncQUmbIBEtPKiYYQhRwyBxCD-08Je7w0KgB7Lm7g.ttf",
+        "800": "https://fonts.gstatic.com/s/anekgujarati/v16/l7g_bj5oysqknvkCo2T_8FuiIRBA7lncQUmbIBEtPKiYYQhRwyBxCD-0l5e7w0KgB7Lm7g.ttf"
       },
       "category": "sans-serif",
       "kind": "webfonts#webfont",
-      "menu": "https://fonts.gstatic.com/s/anekgujarati/v15/l7g_bj5oysqknvkCo2T_8FuiIRBA7lncQUmbIBEtPKiYYQhRwyBxCD-0F5CLwkik.ttf"
+      "menu": "https://fonts.gstatic.com/s/anekgujarati/v16/l7g_bj5oysqknvkCo2T_8FuiIRBA7lncQUmbIBEtPKiYYQhRwyBxCD-0F5CLwkik.ttf"
     },
     {
       "family": "Anek Gurmukhi",
@@ -1801,21 +1801,21 @@
         "latin",
         "latin-ext"
       ],
-      "version": "v13",
-      "lastModified": "2024-11-20",
+      "version": "v14",
+      "lastModified": "2024-12-04",
       "files": {
-        "100": "https://fonts.gstatic.com/s/anekkannada/v13/raxcHiCNvNMKe1CKFsINYFlgkEIwGa8nL6ruWJg1j--h8pvBKSiw4dFDEAukVReA1oef.ttf",
-        "200": "https://fonts.gstatic.com/s/anekkannada/v13/raxcHiCNvNMKe1CKFsINYFlgkEIwGa8nL6ruWJg1j--h8pvBKSiw4dHDEQukVReA1oef.ttf",
-        "300": "https://fonts.gstatic.com/s/anekkannada/v13/raxcHiCNvNMKe1CKFsINYFlgkEIwGa8nL6ruWJg1j--h8pvBKSiw4dEdEQukVReA1oef.ttf",
-        "regular": "https://fonts.gstatic.com/s/anekkannada/v13/raxcHiCNvNMKe1CKFsINYFlgkEIwGa8nL6ruWJg1j--h8pvBKSiw4dFDEQukVReA1oef.ttf",
-        "500": "https://fonts.gstatic.com/s/anekkannada/v13/raxcHiCNvNMKe1CKFsINYFlgkEIwGa8nL6ruWJg1j--h8pvBKSiw4dFxEQukVReA1oef.ttf",
-        "600": "https://fonts.gstatic.com/s/anekkannada/v13/raxcHiCNvNMKe1CKFsINYFlgkEIwGa8nL6ruWJg1j--h8pvBKSiw4dGdFgukVReA1oef.ttf",
-        "700": "https://fonts.gstatic.com/s/anekkannada/v13/raxcHiCNvNMKe1CKFsINYFlgkEIwGa8nL6ruWJg1j--h8pvBKSiw4dGkFgukVReA1oef.ttf",
-        "800": "https://fonts.gstatic.com/s/anekkannada/v13/raxcHiCNvNMKe1CKFsINYFlgkEIwGa8nL6ruWJg1j--h8pvBKSiw4dHDFgukVReA1oef.ttf"
+        "100": "https://fonts.gstatic.com/s/anekkannada/v14/raxcHiCNvNMKe1CKFsINYFlgkEIwGa8nL6ruWJg1j--h8pvBKSiw4dFDEAukVReA1oef.ttf",
+        "200": "https://fonts.gstatic.com/s/anekkannada/v14/raxcHiCNvNMKe1CKFsINYFlgkEIwGa8nL6ruWJg1j--h8pvBKSiw4dHDEQukVReA1oef.ttf",
+        "300": "https://fonts.gstatic.com/s/anekkannada/v14/raxcHiCNvNMKe1CKFsINYFlgkEIwGa8nL6ruWJg1j--h8pvBKSiw4dEdEQukVReA1oef.ttf",
+        "regular": "https://fonts.gstatic.com/s/anekkannada/v14/raxcHiCNvNMKe1CKFsINYFlgkEIwGa8nL6ruWJg1j--h8pvBKSiw4dFDEQukVReA1oef.ttf",
+        "500": "https://fonts.gstatic.com/s/anekkannada/v14/raxcHiCNvNMKe1CKFsINYFlgkEIwGa8nL6ruWJg1j--h8pvBKSiw4dFxEQukVReA1oef.ttf",
+        "600": "https://fonts.gstatic.com/s/anekkannada/v14/raxcHiCNvNMKe1CKFsINYFlgkEIwGa8nL6ruWJg1j--h8pvBKSiw4dGdFgukVReA1oef.ttf",
+        "700": "https://fonts.gstatic.com/s/anekkannada/v14/raxcHiCNvNMKe1CKFsINYFlgkEIwGa8nL6ruWJg1j--h8pvBKSiw4dGkFgukVReA1oef.ttf",
+        "800": "https://fonts.gstatic.com/s/anekkannada/v14/raxcHiCNvNMKe1CKFsINYFlgkEIwGa8nL6ruWJg1j--h8pvBKSiw4dHDFgukVReA1oef.ttf"
       },
       "category": "sans-serif",
       "kind": "webfonts#webfont",
-      "menu": "https://fonts.gstatic.com/s/anekkannada/v13/raxcHiCNvNMKe1CKFsINYFlgkEIwGa8nL6ruWJg1j--h8pvBKSiw4dFDETulXxM.ttf"
+      "menu": "https://fonts.gstatic.com/s/anekkannada/v14/raxcHiCNvNMKe1CKFsINYFlgkEIwGa8nL6ruWJg1j--h8pvBKSiw4dFDETulXxM.ttf"
     },
     {
       "family": "Anek Latin",
@@ -1867,21 +1867,21 @@
         "latin-ext",
         "malayalam"
       ],
-      "version": "v16",
-      "lastModified": "2024-11-20",
+      "version": "v17",
+      "lastModified": "2024-12-04",
       "files": {
-        "100": "https://fonts.gstatic.com/s/anekmalayalam/v16/6qLjKZActRTs_mZAJUZWWkhke0nYa_vC8_Azq3-gP1SReZeOtqQuDVUTUZu_HMr5PDO71Qs.ttf",
-        "200": "https://fonts.gstatic.com/s/anekmalayalam/v16/6qLjKZActRTs_mZAJUZWWkhke0nYa_vC8_Azq3-gP1SReZeOtqQuDVUTURu-HMr5PDO71Qs.ttf",
-        "300": "https://fonts.gstatic.com/s/anekmalayalam/v16/6qLjKZActRTs_mZAJUZWWkhke0nYa_vC8_Azq3-gP1SReZeOtqQuDVUTUcW-HMr5PDO71Qs.ttf",
-        "regular": "https://fonts.gstatic.com/s/anekmalayalam/v16/6qLjKZActRTs_mZAJUZWWkhke0nYa_vC8_Azq3-gP1SReZeOtqQuDVUTUZu-HMr5PDO71Qs.ttf",
-        "500": "https://fonts.gstatic.com/s/anekmalayalam/v16/6qLjKZActRTs_mZAJUZWWkhke0nYa_vC8_Azq3-gP1SReZeOtqQuDVUTUam-HMr5PDO71Qs.ttf",
-        "600": "https://fonts.gstatic.com/s/anekmalayalam/v16/6qLjKZActRTs_mZAJUZWWkhke0nYa_vC8_Azq3-gP1SReZeOtqQuDVUTUUW5HMr5PDO71Qs.ttf",
-        "700": "https://fonts.gstatic.com/s/anekmalayalam/v16/6qLjKZActRTs_mZAJUZWWkhke0nYa_vC8_Azq3-gP1SReZeOtqQuDVUTUXy5HMr5PDO71Qs.ttf",
-        "800": "https://fonts.gstatic.com/s/anekmalayalam/v16/6qLjKZActRTs_mZAJUZWWkhke0nYa_vC8_Azq3-gP1SReZeOtqQuDVUTURu5HMr5PDO71Qs.ttf"
+        "100": "https://fonts.gstatic.com/s/anekmalayalam/v17/6qLjKZActRTs_mZAJUZWWkhke0nYa_vC8_Azq3-gP1SReZeOtqQuDVUTUZu_HMr5PDO71Qs.ttf",
+        "200": "https://fonts.gstatic.com/s/anekmalayalam/v17/6qLjKZActRTs_mZAJUZWWkhke0nYa_vC8_Azq3-gP1SReZeOtqQuDVUTURu-HMr5PDO71Qs.ttf",
+        "300": "https://fonts.gstatic.com/s/anekmalayalam/v17/6qLjKZActRTs_mZAJUZWWkhke0nYa_vC8_Azq3-gP1SReZeOtqQuDVUTUcW-HMr5PDO71Qs.ttf",
+        "regular": "https://fonts.gstatic.com/s/anekmalayalam/v17/6qLjKZActRTs_mZAJUZWWkhke0nYa_vC8_Azq3-gP1SReZeOtqQuDVUTUZu-HMr5PDO71Qs.ttf",
+        "500": "https://fonts.gstatic.com/s/anekmalayalam/v17/6qLjKZActRTs_mZAJUZWWkhke0nYa_vC8_Azq3-gP1SReZeOtqQuDVUTUam-HMr5PDO71Qs.ttf",
+        "600": "https://fonts.gstatic.com/s/anekmalayalam/v17/6qLjKZActRTs_mZAJUZWWkhke0nYa_vC8_Azq3-gP1SReZeOtqQuDVUTUUW5HMr5PDO71Qs.ttf",
+        "700": "https://fonts.gstatic.com/s/anekmalayalam/v17/6qLjKZActRTs_mZAJUZWWkhke0nYa_vC8_Azq3-gP1SReZeOtqQuDVUTUXy5HMr5PDO71Qs.ttf",
+        "800": "https://fonts.gstatic.com/s/anekmalayalam/v17/6qLjKZActRTs_mZAJUZWWkhke0nYa_vC8_Azq3-gP1SReZeOtqQuDVUTURu5HMr5PDO71Qs.ttf"
       },
       "category": "sans-serif",
       "kind": "webfonts#webfont",
-      "menu": "https://fonts.gstatic.com/s/anekmalayalam/v16/6qLjKZActRTs_mZAJUZWWkhke0nYa_vC8_Azq3-gP1SReZeOtqQuDVUTUZu-LMvzOA.ttf"
+      "menu": "https://fonts.gstatic.com/s/anekmalayalam/v17/6qLjKZActRTs_mZAJUZWWkhke0nYa_vC8_Azq3-gP1SReZeOtqQuDVUTUZu-LMvzOA.ttf"
     },
     {
       "family": "Anek Odia",
@@ -1900,21 +1900,21 @@
         "latin-ext",
         "oriya"
       ],
-      "version": "v15",
-      "lastModified": "2024-11-20",
+      "version": "v16",
+      "lastModified": "2024-12-04",
       "files": {
-        "100": "https://fonts.gstatic.com/s/anekodia/v15/TK3PWkoJARApz5UCd345tuevwwQX0CwsoYkAWgWYevAauivBUnmZf63mXZAtm_es.ttf",
-        "200": "https://fonts.gstatic.com/s/anekodia/v15/TK3PWkoJARApz5UCd345tuevwwQX0CwsoYkAWgWYevAauivBUnkZfq3mXZAtm_es.ttf",
-        "300": "https://fonts.gstatic.com/s/anekodia/v15/TK3PWkoJARApz5UCd345tuevwwQX0CwsoYkAWgWYevAauivBUnnHfq3mXZAtm_es.ttf",
-        "regular": "https://fonts.gstatic.com/s/anekodia/v15/TK3PWkoJARApz5UCd345tuevwwQX0CwsoYkAWgWYevAauivBUnmZfq3mXZAtm_es.ttf",
-        "500": "https://fonts.gstatic.com/s/anekodia/v15/TK3PWkoJARApz5UCd345tuevwwQX0CwsoYkAWgWYevAauivBUnmrfq3mXZAtm_es.ttf",
-        "600": "https://fonts.gstatic.com/s/anekodia/v15/TK3PWkoJARApz5UCd345tuevwwQX0CwsoYkAWgWYevAauivBUnlHea3mXZAtm_es.ttf",
-        "700": "https://fonts.gstatic.com/s/anekodia/v15/TK3PWkoJARApz5UCd345tuevwwQX0CwsoYkAWgWYevAauivBUnl-ea3mXZAtm_es.ttf",
-        "800": "https://fonts.gstatic.com/s/anekodia/v15/TK3PWkoJARApz5UCd345tuevwwQX0CwsoYkAWgWYevAauivBUnkZea3mXZAtm_es.ttf"
+        "100": "https://fonts.gstatic.com/s/anekodia/v16/TK3PWkoJARApz5UCd345tuevwwQX0CwsoYkAWgWYevAauivBUnmZf63mXZAtm_es.ttf",
+        "200": "https://fonts.gstatic.com/s/anekodia/v16/TK3PWkoJARApz5UCd345tuevwwQX0CwsoYkAWgWYevAauivBUnkZfq3mXZAtm_es.ttf",
+        "300": "https://fonts.gstatic.com/s/anekodia/v16/TK3PWkoJARApz5UCd345tuevwwQX0CwsoYkAWgWYevAauivBUnnHfq3mXZAtm_es.ttf",
+        "regular": "https://fonts.gstatic.com/s/anekodia/v16/TK3PWkoJARApz5UCd345tuevwwQX0CwsoYkAWgWYevAauivBUnmZfq3mXZAtm_es.ttf",
+        "500": "https://fonts.gstatic.com/s/anekodia/v16/TK3PWkoJARApz5UCd345tuevwwQX0CwsoYkAWgWYevAauivBUnmrfq3mXZAtm_es.ttf",
+        "600": "https://fonts.gstatic.com/s/anekodia/v16/TK3PWkoJARApz5UCd345tuevwwQX0CwsoYkAWgWYevAauivBUnlHea3mXZAtm_es.ttf",
+        "700": "https://fonts.gstatic.com/s/anekodia/v16/TK3PWkoJARApz5UCd345tuevwwQX0CwsoYkAWgWYevAauivBUnl-ea3mXZAtm_es.ttf",
+        "800": "https://fonts.gstatic.com/s/anekodia/v16/TK3PWkoJARApz5UCd345tuevwwQX0CwsoYkAWgWYevAauivBUnkZea3mXZAtm_es.ttf"
       },
       "category": "sans-serif",
       "kind": "webfonts#webfont",
-      "menu": "https://fonts.gstatic.com/s/anekodia/v15/TK3PWkoJARApz5UCd345tuevwwQX0CwsoYkAWgWYevAauivBUnmZfp3nV5Q.ttf"
+      "menu": "https://fonts.gstatic.com/s/anekodia/v16/TK3PWkoJARApz5UCd345tuevwwQX0CwsoYkAWgWYevAauivBUnmZfp3nV5Q.ttf"
     },
     {
       "family": "Anek Tamil",
@@ -1933,21 +1933,21 @@
         "latin-ext",
         "tamil"
       ],
-      "version": "v16",
-      "lastModified": "2024-11-20",
+      "version": "v17",
+      "lastModified": "2024-12-04",
       "files": {
-        "100": "https://fonts.gstatic.com/s/anektamil/v16/XLYJIZH2bYJHGYtPGSbUB8JKTp-_9n55SsLHW0WZez6TjtkDu3uNQiZ6q4v4oegjOQ.ttf",
-        "200": "https://fonts.gstatic.com/s/anektamil/v16/XLYJIZH2bYJHGYtPGSbUB8JKTp-_9n55SsLHW0WZez6TjtkDu3uNwid6q4v4oegjOQ.ttf",
-        "300": "https://fonts.gstatic.com/s/anektamil/v16/XLYJIZH2bYJHGYtPGSbUB8JKTp-_9n55SsLHW0WZez6TjtkDu3uNHCd6q4v4oegjOQ.ttf",
-        "regular": "https://fonts.gstatic.com/s/anektamil/v16/XLYJIZH2bYJHGYtPGSbUB8JKTp-_9n55SsLHW0WZez6TjtkDu3uNQid6q4v4oegjOQ.ttf",
-        "500": "https://fonts.gstatic.com/s/anektamil/v16/XLYJIZH2bYJHGYtPGSbUB8JKTp-_9n55SsLHW0WZez6TjtkDu3uNcCd6q4v4oegjOQ.ttf",
-        "600": "https://fonts.gstatic.com/s/anektamil/v16/XLYJIZH2bYJHGYtPGSbUB8JKTp-_9n55SsLHW0WZez6TjtkDu3uNnCB6q4v4oegjOQ.ttf",
-        "700": "https://fonts.gstatic.com/s/anektamil/v16/XLYJIZH2bYJHGYtPGSbUB8JKTp-_9n55SsLHW0WZez6TjtkDu3uNpSB6q4v4oegjOQ.ttf",
-        "800": "https://fonts.gstatic.com/s/anektamil/v16/XLYJIZH2bYJHGYtPGSbUB8JKTp-_9n55SsLHW0WZez6TjtkDu3uNwiB6q4v4oegjOQ.ttf"
+        "100": "https://fonts.gstatic.com/s/anektamil/v17/XLYJIZH2bYJHGYtPGSbUB8JKTp-_9n55SsLHW0WZez6TjtkDu3uNQiZ6q4v4oegjOQ.ttf",
+        "200": "https://fonts.gstatic.com/s/anektamil/v17/XLYJIZH2bYJHGYtPGSbUB8JKTp-_9n55SsLHW0WZez6TjtkDu3uNwid6q4v4oegjOQ.ttf",
+        "300": "https://fonts.gstatic.com/s/anektamil/v17/XLYJIZH2bYJHGYtPGSbUB8JKTp-_9n55SsLHW0WZez6TjtkDu3uNHCd6q4v4oegjOQ.ttf",
+        "regular": "https://fonts.gstatic.com/s/anektamil/v17/XLYJIZH2bYJHGYtPGSbUB8JKTp-_9n55SsLHW0WZez6TjtkDu3uNQid6q4v4oegjOQ.ttf",
+        "500": "https://fonts.gstatic.com/s/anektamil/v17/XLYJIZH2bYJHGYtPGSbUB8JKTp-_9n55SsLHW0WZez6TjtkDu3uNcCd6q4v4oegjOQ.ttf",
+        "600": "https://fonts.gstatic.com/s/anektamil/v17/XLYJIZH2bYJHGYtPGSbUB8JKTp-_9n55SsLHW0WZez6TjtkDu3uNnCB6q4v4oegjOQ.ttf",
+        "700": "https://fonts.gstatic.com/s/anektamil/v17/XLYJIZH2bYJHGYtPGSbUB8JKTp-_9n55SsLHW0WZez6TjtkDu3uNpSB6q4v4oegjOQ.ttf",
+        "800": "https://fonts.gstatic.com/s/anektamil/v17/XLYJIZH2bYJHGYtPGSbUB8JKTp-_9n55SsLHW0WZez6TjtkDu3uNwiB6q4v4oegjOQ.ttf"
       },
       "category": "sans-serif",
       "kind": "webfonts#webfont",
-      "menu": "https://fonts.gstatic.com/s/anektamil/v16/XLYJIZH2bYJHGYtPGSbUB8JKTp-_9n55SsLHW0WZez6TjtkDu3uNQidKqoH8.ttf"
+      "menu": "https://fonts.gstatic.com/s/anektamil/v17/XLYJIZH2bYJHGYtPGSbUB8JKTp-_9n55SsLHW0WZez6TjtkDu3uNQidKqoH8.ttf"
     },
     {
       "family": "Anek Telugu",
@@ -1966,21 +1966,21 @@
         "latin-ext",
         "telugu"
       ],
-      "version": "v8",
-      "lastModified": "2024-09-04",
+      "version": "v10",
+      "lastModified": "2024-12-04",
       "files": {
-        "100": "https://fonts.gstatic.com/s/anektelugu/v8/LhWLMVrUNvsddMtYGCx4FcVWOjlwE1WgXdoJ-5XHMl2DkooGK7i13y-_oE2G2ep10_8.ttf",
-        "200": "https://fonts.gstatic.com/s/anektelugu/v8/LhWLMVrUNvsddMtYGCx4FcVWOjlwE1WgXdoJ-5XHMl2DkooGK7i136--oE2G2ep10_8.ttf",
-        "300": "https://fonts.gstatic.com/s/anektelugu/v8/LhWLMVrUNvsddMtYGCx4FcVWOjlwE1WgXdoJ-5XHMl2DkooGK7i133G-oE2G2ep10_8.ttf",
-        "regular": "https://fonts.gstatic.com/s/anektelugu/v8/LhWLMVrUNvsddMtYGCx4FcVWOjlwE1WgXdoJ-5XHMl2DkooGK7i13y--oE2G2ep10_8.ttf",
-        "500": "https://fonts.gstatic.com/s/anektelugu/v8/LhWLMVrUNvsddMtYGCx4FcVWOjlwE1WgXdoJ-5XHMl2DkooGK7i13x2-oE2G2ep10_8.ttf",
-        "600": "https://fonts.gstatic.com/s/anektelugu/v8/LhWLMVrUNvsddMtYGCx4FcVWOjlwE1WgXdoJ-5XHMl2DkooGK7i13_G5oE2G2ep10_8.ttf",
-        "700": "https://fonts.gstatic.com/s/anektelugu/v8/LhWLMVrUNvsddMtYGCx4FcVWOjlwE1WgXdoJ-5XHMl2DkooGK7i138i5oE2G2ep10_8.ttf",
-        "800": "https://fonts.gstatic.com/s/anektelugu/v8/LhWLMVrUNvsddMtYGCx4FcVWOjlwE1WgXdoJ-5XHMl2DkooGK7i136-5oE2G2ep10_8.ttf"
+        "100": "https://fonts.gstatic.com/s/anektelugu/v10/LhWLMVrUNvsddMtYGCx4FcVWOjlwE1WgXdoJ-5XHMl2DkooGK7i13y-_oE2G2ep10_8.ttf",
+        "200": "https://fonts.gstatic.com/s/anektelugu/v10/LhWLMVrUNvsddMtYGCx4FcVWOjlwE1WgXdoJ-5XHMl2DkooGK7i136--oE2G2ep10_8.ttf",
+        "300": "https://fonts.gstatic.com/s/anektelugu/v10/LhWLMVrUNvsddMtYGCx4FcVWOjlwE1WgXdoJ-5XHMl2DkooGK7i133G-oE2G2ep10_8.ttf",
+        "regular": "https://fonts.gstatic.com/s/anektelugu/v10/LhWLMVrUNvsddMtYGCx4FcVWOjlwE1WgXdoJ-5XHMl2DkooGK7i13y--oE2G2ep10_8.ttf",
+        "500": "https://fonts.gstatic.com/s/anektelugu/v10/LhWLMVrUNvsddMtYGCx4FcVWOjlwE1WgXdoJ-5XHMl2DkooGK7i13x2-oE2G2ep10_8.ttf",
+        "600": "https://fonts.gstatic.com/s/anektelugu/v10/LhWLMVrUNvsddMtYGCx4FcVWOjlwE1WgXdoJ-5XHMl2DkooGK7i13_G5oE2G2ep10_8.ttf",
+        "700": "https://fonts.gstatic.com/s/anektelugu/v10/LhWLMVrUNvsddMtYGCx4FcVWOjlwE1WgXdoJ-5XHMl2DkooGK7i138i5oE2G2ep10_8.ttf",
+        "800": "https://fonts.gstatic.com/s/anektelugu/v10/LhWLMVrUNvsddMtYGCx4FcVWOjlwE1WgXdoJ-5XHMl2DkooGK7i136-5oE2G2ep10_8.ttf"
       },
       "category": "sans-serif",
       "kind": "webfonts#webfont",
-      "menu": "https://fonts.gstatic.com/s/anektelugu/v8/LhWLMVrUNvsddMtYGCx4FcVWOjlwE1WgXdoJ-5XHMl2DkooGK7i13y--kEyM3Q.ttf"
+      "menu": "https://fonts.gstatic.com/s/anektelugu/v10/LhWLMVrUNvsddMtYGCx4FcVWOjlwE1WgXdoJ-5XHMl2DkooGK7i13y--kEyM3Q.ttf"
     },
     {
       "family": "Angkor",
@@ -1991,14 +1991,14 @@
         "khmer",
         "latin"
       ],
-      "version": "v32",
-      "lastModified": "2024-08-12",
+      "version": "v33",
+      "lastModified": "2024-12-04",
       "files": {
-        "regular": "https://fonts.gstatic.com/s/angkor/v32/H4cmBXyAlsPdnlb-8iw-4Lqggw.ttf"
+        "regular": "https://fonts.gstatic.com/s/angkor/v33/H4cmBXyAlsPdnlb-8iw-4Lqggw.ttf"
       },
       "category": "display",
       "kind": "webfonts#webfont",
-      "menu": "https://fonts.gstatic.com/s/angkor/v32/H4cmBXyAlsPdnlbO8yY6.ttf"
+      "menu": "https://fonts.gstatic.com/s/angkor/v33/H4cmBXyAlsPdnlbO8yY6.ttf"
     },
     {
       "family": "Annapurna SIL",
@@ -2889,14 +2889,14 @@
         "latin",
         "latin-ext"
       ],
-      "version": "v22",
-      "lastModified": "2024-09-04",
+      "version": "v23",
+      "lastModified": "2024-12-04",
       "files": {
-        "regular": "https://fonts.gstatic.com/s/asar/v22/sZlLdRyI6TBIXkYQDLlTW6E.ttf"
+        "regular": "https://fonts.gstatic.com/s/asar/v23/sZlLdRyI6TBIXkYQDLlTW6E.ttf"
       },
       "category": "serif",
       "kind": "webfonts#webfont",
-      "menu": "https://fonts.gstatic.com/s/asar/v22/sZlLdRyI6TBIbkcaCA.ttf"
+      "menu": "https://fonts.gstatic.com/s/asar/v23/sZlLdRyI6TBIbkcaCA.ttf"
     },
     {
       "family": "Asset",
@@ -3509,16 +3509,19 @@
       ],
       "subsets": [
         "cyrillic",
-        "latin"
+        "cyrillic-ext",
+        "latin",
+        "latin-ext",
+        "vietnamese"
       ],
-      "version": "v16",
-      "lastModified": "2024-09-04",
+      "version": "v17",
+      "lastModified": "2024-12-04",
       "files": {
-        "regular": "https://fonts.gstatic.com/s/badscript/v16/6NUT8F6PJgbFWQn47_x7lOwuzd1AZtw.ttf"
+        "regular": "https://fonts.gstatic.com/s/badscript/v17/6NUT8F6PJgbFWQn47_x7lOwuzd1AZtw.ttf"
       },
       "category": "handwriting",
       "kind": "webfonts#webfont",
-      "menu": "https://fonts.gstatic.com/s/badscript/v16/6NUT8F6PJgbFWQn47_x7pO0kyQ.ttf"
+      "menu": "https://fonts.gstatic.com/s/badscript/v17/6NUT8F6PJgbFWQn47_x7pO0kyQ.ttf"
     },
     {
       "family": "Bagel Fat One",
@@ -3628,14 +3631,14 @@
         "latin",
         "latin-ext"
       ],
-      "version": "v8",
-      "lastModified": "2024-09-04",
+      "version": "v9",
+      "lastModified": "2024-12-04",
       "files": {
-        "regular": "https://fonts.gstatic.com/s/bakbakone/v8/zOL54pXAl6RI-p_ardnuycRuv-hHkOs.ttf"
+        "regular": "https://fonts.gstatic.com/s/bakbakone/v9/zOL54pXAl6RI-p_ardnuycRuv-hHkOs.ttf"
       },
       "category": "display",
       "kind": "webfonts#webfont",
-      "menu": "https://fonts.gstatic.com/s/bakbakone/v8/zOL54pXAl6RI-p_ardnu-cVkuw.ttf"
+      "menu": "https://fonts.gstatic.com/s/bakbakone/v9/zOL54pXAl6RI-p_ardnu-cVkuw.ttf"
     },
     {
       "family": "Ballet",
@@ -4263,18 +4266,18 @@
         "khmer",
         "latin"
       ],
-      "version": "v24",
-      "lastModified": "2024-08-12",
+      "version": "v25",
+      "lastModified": "2024-12-04",
       "files": {
-        "100": "https://fonts.gstatic.com/s/battambang/v24/uk-kEGe7raEw-HjkzZabNhGp5w50_o9T7Q.ttf",
-        "300": "https://fonts.gstatic.com/s/battambang/v24/uk-lEGe7raEw-HjkzZabNtmLxyRa8oZK9I0.ttf",
-        "regular": "https://fonts.gstatic.com/s/battambang/v24/uk-mEGe7raEw-HjkzZabDnWj4yxx7o8.ttf",
-        "700": "https://fonts.gstatic.com/s/battambang/v24/uk-lEGe7raEw-HjkzZabNsmMxyRa8oZK9I0.ttf",
-        "900": "https://fonts.gstatic.com/s/battambang/v24/uk-lEGe7raEw-HjkzZabNvGOxyRa8oZK9I0.ttf"
+        "100": "https://fonts.gstatic.com/s/battambang/v25/uk-kEGe7raEw-HjkzZabNhGp5w50_o9T7Q.ttf",
+        "300": "https://fonts.gstatic.com/s/battambang/v25/uk-lEGe7raEw-HjkzZabNtmLxyRa8oZK9I0.ttf",
+        "regular": "https://fonts.gstatic.com/s/battambang/v25/uk-mEGe7raEw-HjkzZabDnWj4yxx7o8.ttf",
+        "700": "https://fonts.gstatic.com/s/battambang/v25/uk-lEGe7raEw-HjkzZabNsmMxyRa8oZK9I0.ttf",
+        "900": "https://fonts.gstatic.com/s/battambang/v25/uk-lEGe7raEw-HjkzZabNvGOxyRa8oZK9I0.ttf"
       },
       "category": "display",
       "kind": "webfonts#webfont",
-      "menu": "https://fonts.gstatic.com/s/battambang/v24/uk-mEGe7raEw-HjkzZabPnSp5w.ttf"
+      "menu": "https://fonts.gstatic.com/s/battambang/v25/uk-mEGe7raEw-HjkzZabPnSp5w.ttf"
     },
     {
       "family": "Baumans",
@@ -4419,21 +4422,21 @@
         "latin-ext",
         "vietnamese"
       ],
-      "version": "v2",
-      "lastModified": "2024-09-04",
+      "version": "v4",
+      "lastModified": "2024-12-04",
       "files": {
-        "200": "https://fonts.gstatic.com/s/beiruti/v2/JTUIjIU69Cmr9FGcYgRFEb7cdQn2-9Y95wujgWg2SGdV.ttf",
-        "300": "https://fonts.gstatic.com/s/beiruti/v2/JTUIjIU69Cmr9FGcYgRFEb7cdQn2-9bj5wujgWg2SGdV.ttf",
-        "regular": "https://fonts.gstatic.com/s/beiruti/v2/JTUIjIU69Cmr9FGcYgRFEb7cdQn2-9a95wujgWg2SGdV.ttf",
-        "500": "https://fonts.gstatic.com/s/beiruti/v2/JTUIjIU69Cmr9FGcYgRFEb7cdQn2-9aP5wujgWg2SGdV.ttf",
-        "600": "https://fonts.gstatic.com/s/beiruti/v2/JTUIjIU69Cmr9FGcYgRFEb7cdQn2-9Zj4AujgWg2SGdV.ttf",
-        "700": "https://fonts.gstatic.com/s/beiruti/v2/JTUIjIU69Cmr9FGcYgRFEb7cdQn2-9Za4AujgWg2SGdV.ttf",
-        "800": "https://fonts.gstatic.com/s/beiruti/v2/JTUIjIU69Cmr9FGcYgRFEb7cdQn2-9Y94AujgWg2SGdV.ttf",
-        "900": "https://fonts.gstatic.com/s/beiruti/v2/JTUIjIU69Cmr9FGcYgRFEb7cdQn2-9YU4AujgWg2SGdV.ttf"
+        "200": "https://fonts.gstatic.com/s/beiruti/v4/JTUIjIU69Cmr9FGcYgRFEb7cdQn2-9Y95wujgWg2SGdV.ttf",
+        "300": "https://fonts.gstatic.com/s/beiruti/v4/JTUIjIU69Cmr9FGcYgRFEb7cdQn2-9bj5wujgWg2SGdV.ttf",
+        "regular": "https://fonts.gstatic.com/s/beiruti/v4/JTUIjIU69Cmr9FGcYgRFEb7cdQn2-9a95wujgWg2SGdV.ttf",
+        "500": "https://fonts.gstatic.com/s/beiruti/v4/JTUIjIU69Cmr9FGcYgRFEb7cdQn2-9aP5wujgWg2SGdV.ttf",
+        "600": "https://fonts.gstatic.com/s/beiruti/v4/JTUIjIU69Cmr9FGcYgRFEb7cdQn2-9Zj4AujgWg2SGdV.ttf",
+        "700": "https://fonts.gstatic.com/s/beiruti/v4/JTUIjIU69Cmr9FGcYgRFEb7cdQn2-9Za4AujgWg2SGdV.ttf",
+        "800": "https://fonts.gstatic.com/s/beiruti/v4/JTUIjIU69Cmr9FGcYgRFEb7cdQn2-9Y94AujgWg2SGdV.ttf",
+        "900": "https://fonts.gstatic.com/s/beiruti/v4/JTUIjIU69Cmr9FGcYgRFEb7cdQn2-9YU4AujgWg2SGdV.ttf"
       },
       "category": "sans-serif",
       "kind": "webfonts#webfont",
-      "menu": "https://fonts.gstatic.com/s/beiruti/v2/JTUIjIU69Cmr9FGcYgRFEb7cdQn2-9a95zuii2w.ttf"
+      "menu": "https://fonts.gstatic.com/s/beiruti/v4/JTUIjIU69Cmr9FGcYgRFEb7cdQn2-9a95zuii2w.ttf"
     },
     {
       "family": "Belanosima",
@@ -5218,14 +5221,14 @@
         "korean",
         "latin"
       ],
-      "version": "v28",
-      "lastModified": "2024-11-20",
+      "version": "v29",
+      "lastModified": "2024-12-04",
       "files": {
-        "regular": "https://fonts.gstatic.com/s/blackandwhitepicture/v28/TwMe-JAERlQd3ooUHBUXGmrmioKjjnRSFO-NqI5HbcMi-yWY.ttf"
+        "regular": "https://fonts.gstatic.com/s/blackandwhitepicture/v29/TwMe-JAERlQd3ooUHBUXGmrmioKjjnRSFO-NqI5HbcMi-yWY.ttf"
       },
       "category": "display",
       "kind": "webfonts#webfont",
-      "menu": "https://fonts.gstatic.com/s/blackandwhitepicture/v28/TwMe-JAERlQd3ooUHBUXGmrmioKjjnRSFO-NqL5GZ8c.ttf"
+      "menu": "https://fonts.gstatic.com/s/blackandwhitepicture/v29/TwMe-JAERlQd3ooUHBUXGmrmioKjjnRSFO-NqL5GZ8c.ttf"
     },
     {
       "family": "Black Han Sans",
@@ -5236,14 +5239,14 @@
         "korean",
         "latin"
       ],
-      "version": "v21",
-      "lastModified": "2024-11-20",
+      "version": "v23",
+      "lastModified": "2024-12-04",
       "files": {
-        "regular": "https://fonts.gstatic.com/s/blackhansans/v21/ea8Aad44WunzF9a-dL6toA8r8nqVIXSkH-Hc.ttf"
+        "regular": "https://fonts.gstatic.com/s/blackhansans/v23/ea8Aad44WunzF9a-dL6toA8r8nqVIXSkH-Hc.ttf"
       },
       "category": "sans-serif",
       "kind": "webfonts#webfont",
-      "menu": "https://fonts.gstatic.com/s/blackhansans/v21/ea8Aad44WunzF9a-dL6toA8r8kqUK3A.ttf"
+      "menu": "https://fonts.gstatic.com/s/blackhansans/v23/ea8Aad44WunzF9a-dL6toA8r8kqUK3A.ttf"
     },
     {
       "family": "Black Ops One",
@@ -5451,14 +5454,14 @@
         "khmer",
         "latin"
       ],
-      "version": "v30",
-      "lastModified": "2024-08-12",
+      "version": "v31",
+      "lastModified": "2024-12-04",
       "files": {
-        "regular": "https://fonts.gstatic.com/s/bokor/v30/m8JcjfpeeaqTiR2WdInbcaxE.ttf"
+        "regular": "https://fonts.gstatic.com/s/bokor/v31/m8JcjfpeeaqTiR2WdInbcaxE.ttf"
       },
       "category": "display",
       "kind": "webfonts#webfont",
-      "menu": "https://fonts.gstatic.com/s/bokor/v30/m8JcjfpeeaqTiS2Xfo0.ttf"
+      "menu": "https://fonts.gstatic.com/s/bokor/v31/m8JcjfpeeaqTiS2Xfo0.ttf"
     },
     {
       "family": "Bona Nova",
@@ -6306,17 +6309,17 @@
         "latin",
         "latin-ext"
       ],
-      "version": "v12",
-      "lastModified": "2024-09-04",
+      "version": "v13",
+      "lastModified": "2024-12-04",
       "files": {
-        "regular": "https://fonts.gstatic.com/s/cambay/v12/SLXJc1rY6H0_ZDsGbrSIz9JsaA.ttf",
-        "italic": "https://fonts.gstatic.com/s/cambay/v12/SLXLc1rY6H0_ZDs2bL6M7dd8aGZk.ttf",
-        "700": "https://fonts.gstatic.com/s/cambay/v12/SLXKc1rY6H0_ZDs-0pusx_lwYX99kA.ttf",
-        "700italic": "https://fonts.gstatic.com/s/cambay/v12/SLXMc1rY6H0_ZDs2bIYwwvN0Q3ptkDMN.ttf"
+        "regular": "https://fonts.gstatic.com/s/cambay/v13/SLXJc1rY6H0_ZDsGbrSIz9JsaA.ttf",
+        "italic": "https://fonts.gstatic.com/s/cambay/v13/SLXLc1rY6H0_ZDs2bL6M7dd8aGZk.ttf",
+        "700": "https://fonts.gstatic.com/s/cambay/v13/SLXKc1rY6H0_ZDs-0pusx_lwYX99kA.ttf",
+        "700italic": "https://fonts.gstatic.com/s/cambay/v13/SLXMc1rY6H0_ZDs2bIYwwvN0Q3ptkDMN.ttf"
       },
       "category": "sans-serif",
       "kind": "webfonts#webfont",
-      "menu": "https://fonts.gstatic.com/s/cambay/v12/SLXJc1rY6H0_ZDs2b76M.ttf"
+      "menu": "https://fonts.gstatic.com/s/cambay/v13/SLXJc1rY6H0_ZDs2b76M.ttf"
     },
     {
       "family": "Cambo",
@@ -6976,18 +6979,18 @@
         "latin",
         "telugu"
       ],
-      "version": "v20",
-      "lastModified": "2024-08-12",
+      "version": "v21",
+      "lastModified": "2024-12-04",
       "files": {
-        "100": "https://fonts.gstatic.com/s/chathura/v20/_gP91R7-rzUuVjim42dEq0SbTvZyuDo.ttf",
-        "300": "https://fonts.gstatic.com/s/chathura/v20/_gP81R7-rzUuVjim42eMiWSxYPp7oSNy.ttf",
-        "regular": "https://fonts.gstatic.com/s/chathura/v20/_gP71R7-rzUuVjim418goUC5S-Zy.ttf",
-        "700": "https://fonts.gstatic.com/s/chathura/v20/_gP81R7-rzUuVjim42ecjmSxYPp7oSNy.ttf",
-        "800": "https://fonts.gstatic.com/s/chathura/v20/_gP81R7-rzUuVjim42eAjWSxYPp7oSNy.ttf"
+        "100": "https://fonts.gstatic.com/s/chathura/v21/_gP91R7-rzUuVjim42dEq0SbTvZyuDo.ttf",
+        "300": "https://fonts.gstatic.com/s/chathura/v21/_gP81R7-rzUuVjim42eMiWSxYPp7oSNy.ttf",
+        "regular": "https://fonts.gstatic.com/s/chathura/v21/_gP71R7-rzUuVjim418goUC5S-Zy.ttf",
+        "700": "https://fonts.gstatic.com/s/chathura/v21/_gP81R7-rzUuVjim42ecjmSxYPp7oSNy.ttf",
+        "800": "https://fonts.gstatic.com/s/chathura/v21/_gP81R7-rzUuVjim42eAjWSxYPp7oSNy.ttf"
       },
       "category": "sans-serif",
       "kind": "webfonts#webfont",
-      "menu": "https://fonts.gstatic.com/s/chathura/v20/_gP71R7-rzUuVjim428hq0Q.ttf"
+      "menu": "https://fonts.gstatic.com/s/chathura/v21/_gP71R7-rzUuVjim428hq0Q.ttf"
     },
     {
       "family": "Chau Philomene One",
@@ -7183,14 +7186,14 @@
         "latin-ext",
         "malayalam"
       ],
-      "version": "v20",
-      "lastModified": "2024-09-04",
+      "version": "v22",
+      "lastModified": "2024-12-04",
       "files": {
-        "regular": "https://fonts.gstatic.com/s/chilanka/v20/WWXRlj2DZQiMJYaYRrJQI9EAZhTO.ttf"
+        "regular": "https://fonts.gstatic.com/s/chilanka/v22/WWXRlj2DZQiMJYaYRrJQI9EAZhTO.ttf"
       },
       "category": "handwriting",
       "kind": "webfonts#webfont",
-      "menu": "https://fonts.gstatic.com/s/chilanka/v20/WWXRlj2DZQiMJYaYRoJRKdU.ttf"
+      "menu": "https://fonts.gstatic.com/s/chilanka/v22/WWXRlj2DZQiMJYaYRoJRKdU.ttf"
     },
     {
       "family": "Chivo",
@@ -7754,15 +7757,15 @@
       "subsets": [
         "khmer"
       ],
-      "version": "v24",
-      "lastModified": "2022-09-22",
+      "version": "v27",
+      "lastModified": "2024-12-04",
       "files": {
-        "regular": "https://fonts.gstatic.com/s/content/v24/zrfl0HLayePhU_AwUaDyIiL0RCg.ttf",
-        "700": "https://fonts.gstatic.com/s/content/v24/zrfg0HLayePhU_AwaRzdBirfWCHvkAI.ttf"
+        "regular": "https://fonts.gstatic.com/s/content/v27/zrfl0HLayePhU_AwUaDyIiL0RCg.ttf",
+        "700": "https://fonts.gstatic.com/s/content/v27/zrfg0HLayePhU_AwaRzdBirfWCHvkAI.ttf"
       },
       "category": "display",
       "kind": "webfonts#webfont",
-      "menu": "https://fonts.gstatic.com/s/content/v24/zrfl0HLayePhU_AwYaH4Jg.ttf"
+      "menu": "https://fonts.gstatic.com/s/content/v27/zrfl0HLayePhU_AwYaH4Jg.ttf"
     },
     {
       "family": "Contrail One",
@@ -8397,14 +8400,14 @@
         "korean",
         "latin"
       ],
-      "version": "v26",
-      "lastModified": "2024-11-20",
+      "version": "v27",
+      "lastModified": "2024-12-04",
       "files": {
-        "regular": "https://fonts.gstatic.com/s/cutefont/v26/Noaw6Uny2oWPbSHMrY6vmJNVNC9hkw.ttf"
+        "regular": "https://fonts.gstatic.com/s/cutefont/v27/Noaw6Uny2oWPbSHMrY6vmJNVNC9hkw.ttf"
       },
       "category": "display",
       "kind": "webfonts#webfont",
-      "menu": "https://fonts.gstatic.com/s/cutefont/v26/Noaw6Uny2oWPbSHMrY6fmZlR.ttf"
+      "menu": "https://fonts.gstatic.com/s/cutefont/v27/Noaw6Uny2oWPbSHMrY6fmZlR.ttf"
     },
     {
       "family": "Cutive",
@@ -8670,14 +8673,14 @@
         "khmer",
         "latin"
       ],
-      "version": "v30",
-      "lastModified": "2024-08-12",
+      "version": "v31",
+      "lastModified": "2024-12-04",
       "files": {
-        "regular": "https://fonts.gstatic.com/s/dangrek/v30/LYjCdG30nEgoH8E2gCNqqVIuTN4.ttf"
+        "regular": "https://fonts.gstatic.com/s/dangrek/v31/LYjCdG30nEgoH8E2gCNqqVIuTN4.ttf"
       },
       "category": "display",
       "kind": "webfonts#webfont",
-      "menu": "https://fonts.gstatic.com/s/dangrek/v30/LYjCdG30nEgoH8E2sCJgrQ.ttf"
+      "menu": "https://fonts.gstatic.com/s/dangrek/v31/LYjCdG30nEgoH8E2sCJgrQ.ttf"
     },
     {
       "family": "Darker Grotesque",
@@ -8821,14 +8824,14 @@
         "latin-ext",
         "vietnamese"
       ],
-      "version": "v16",
-      "lastModified": "2024-08-07",
+      "version": "v17",
+      "lastModified": "2024-12-04",
       "files": {
-        "regular": "https://fonts.gstatic.com/s/delagothicone/v16/hESp6XxvMDRA-2eD0lXpDa6QkBAGRUsJQAlbUA.ttf"
+        "regular": "https://fonts.gstatic.com/s/delagothicone/v17/hESp6XxvMDRA-2eD0lXpDa6QkBAGRUsJQAlbUA.ttf"
       },
       "category": "display",
       "kind": "webfonts#webfont",
-      "menu": "https://fonts.gstatic.com/s/delagothicone/v16/hESp6XxvMDRA-2eD0lXpDa6QkBA2REEN.ttf"
+      "menu": "https://fonts.gstatic.com/s/delagothicone/v17/hESp6XxvMDRA-2eD0lXpDa6QkBA2REEN.ttf"
     },
     {
       "family": "Delicious Handrawn",
@@ -8965,14 +8968,14 @@
         "latin",
         "telugu"
       ],
-      "version": "v24",
-      "lastModified": "2024-08-12",
+      "version": "v25",
+      "lastModified": "2024-12-04",
       "files": {
-        "regular": "https://fonts.gstatic.com/s/dhurjati/v24/_6_8ED3gSeatXfFiFX3ySKQtuTA2.ttf"
+        "regular": "https://fonts.gstatic.com/s/dhurjati/v25/_6_8ED3gSeatXfFiFX3ySKQtuTA2.ttf"
       },
       "category": "sans-serif",
       "kind": "webfonts#webfont",
-      "menu": "https://fonts.gstatic.com/s/dhurjati/v24/_6_8ED3gSeatXfFiFU3zQqA.ttf"
+      "menu": "https://fonts.gstatic.com/s/dhurjati/v25/_6_8ED3gSeatXfFiFU3zQqA.ttf"
     },
     {
       "family": "Didact Gothic",
@@ -9078,14 +9081,14 @@
         "korean",
         "latin"
       ],
-      "version": "v21",
-      "lastModified": "2024-11-20",
+      "version": "v22",
+      "lastModified": "2024-12-04",
       "files": {
-        "regular": "https://fonts.gstatic.com/s/dokdo/v21/esDf315XNuCBLxLo4NaMlKcH.ttf"
+        "regular": "https://fonts.gstatic.com/s/dokdo/v22/esDf315XNuCBLxLo4NaMlKcH.ttf"
       },
       "category": "display",
       "kind": "webfonts#webfont",
-      "menu": "https://fonts.gstatic.com/s/dokdo/v21/esDf315XNuCBLyLp6tI.ttf"
+      "menu": "https://fonts.gstatic.com/s/dokdo/v22/esDf315XNuCBLyLp6tI.ttf"
     },
     {
       "family": "Domine",
@@ -9230,14 +9233,14 @@
         "latin",
         "latin-ext"
       ],
-      "version": "v18",
-      "lastModified": "2024-09-04",
+      "version": "v19",
+      "lastModified": "2024-12-04",
       "files": {
-        "regular": "https://fonts.gstatic.com/s/dotgothic16/v18/v6-QGYjBJFKgyw5nSoDAGE7L435YPFrT.ttf"
+        "regular": "https://fonts.gstatic.com/s/dotgothic16/v19/v6-QGYjBJFKgyw5nSoDAGE7L435YPFrT.ttf"
       },
       "category": "sans-serif",
       "kind": "webfonts#webfont",
-      "menu": "https://fonts.gstatic.com/s/dotgothic16/v18/v6-QGYjBJFKgyw5nSoDAGH7K6Xo.ttf"
+      "menu": "https://fonts.gstatic.com/s/dotgothic16/v19/v6-QGYjBJFKgyw5nSoDAGH7K6Xo.ttf"
     },
     {
       "family": "Doto",
@@ -10456,14 +10459,14 @@
         "latin",
         "latin-ext"
       ],
-      "version": "v1",
-      "lastModified": "2024-11-07",
+      "version": "v4",
+      "lastModified": "2024-12-04",
       "files": {
-        "regular": "https://fonts.gstatic.com/s/facultyglyphic/v1/RrQIbot2-iBvI2mYSyKIrcgoBuQIG-eFNVmULg.ttf"
+        "regular": "https://fonts.gstatic.com/s/facultyglyphic/v4/RrQIbot2-iBvI2mYSyKIrcgoBuQIG-eFNVmULg.ttf"
       },
       "category": "sans-serif",
       "kind": "webfonts#webfont",
-      "menu": "https://fonts.gstatic.com/s/facultyglyphic/v1/RrQIbot2-iBvI2mYSyKIrcgoBuQ4Gu2B.ttf"
+      "menu": "https://fonts.gstatic.com/s/facultyglyphic/v4/RrQIbot2-iBvI2mYSyKIrcgoBuQ4Gu2B.ttf"
     },
     {
       "family": "Fahkwang",
@@ -11593,14 +11596,14 @@
         "khmer",
         "latin"
       ],
-      "version": "v31",
-      "lastModified": "2024-08-12",
+      "version": "v32",
+      "lastModified": "2024-12-04",
       "files": {
-        "regular": "https://fonts.gstatic.com/s/freehand/v31/cIf-Ma5eqk01VjKTgAmBTmUOmZJk.ttf"
+        "regular": "https://fonts.gstatic.com/s/freehand/v32/cIf-Ma5eqk01VjKTgAmBTmUOmZJk.ttf"
       },
       "category": "display",
       "kind": "webfonts#webfont",
-      "menu": "https://fonts.gstatic.com/s/freehand/v31/cIf-Ma5eqk01VjKTgDmARGE.ttf"
+      "menu": "https://fonts.gstatic.com/s/freehand/v32/cIf-Ma5eqk01VjKTgDmARGE.ttf"
     },
     {
       "family": "Freeman",
@@ -11952,16 +11955,16 @@
         "korean",
         "latin"
       ],
-      "version": "v21",
-      "lastModified": "2024-11-20",
+      "version": "v22",
+      "lastModified": "2024-12-04",
       "files": {
-        "300": "https://fonts.gstatic.com/s/gaegu/v21/TuGSUVB6Up9NU57nifw74sdtBk0x.ttf",
-        "regular": "https://fonts.gstatic.com/s/gaegu/v21/TuGfUVB6Up9NU6ZLodgzydtk.ttf",
-        "700": "https://fonts.gstatic.com/s/gaegu/v21/TuGSUVB6Up9NU573jvw74sdtBk0x.ttf"
+        "300": "https://fonts.gstatic.com/s/gaegu/v22/TuGSUVB6Up9NU57nifw74sdtBk0x.ttf",
+        "regular": "https://fonts.gstatic.com/s/gaegu/v22/TuGfUVB6Up9NU6ZLodgzydtk.ttf",
+        "700": "https://fonts.gstatic.com/s/gaegu/v22/TuGSUVB6Up9NU573jvw74sdtBk0x.ttf"
       },
       "category": "handwriting",
       "kind": "webfonts#webfont",
-      "menu": "https://fonts.gstatic.com/s/gaegu/v21/TuGfUVB6Up9NU5ZKq9w.ttf"
+      "menu": "https://fonts.gstatic.com/s/gaegu/v22/TuGfUVB6Up9NU5ZKq9w.ttf"
     },
     {
       "family": "Gafata",
@@ -12009,14 +12012,14 @@
         "bengali",
         "latin"
       ],
-      "version": "v18",
-      "lastModified": "2024-09-04",
+      "version": "v19",
+      "lastModified": "2024-12-04",
       "files": {
-        "regular": "https://fonts.gstatic.com/s/galada/v18/H4cmBXyGmcjXlUX-8iw-4Lqggw.ttf"
+        "regular": "https://fonts.gstatic.com/s/galada/v19/H4cmBXyGmcjXlUX-8iw-4Lqggw.ttf"
       },
       "category": "display",
       "kind": "webfonts#webfont",
-      "menu": "https://fonts.gstatic.com/s/galada/v18/H4cmBXyGmcjXlUXO8yY6.ttf"
+      "menu": "https://fonts.gstatic.com/s/galada/v19/H4cmBXyGmcjXlUXO8yY6.ttf"
     },
     {
       "family": "Galdeano",
@@ -12153,16 +12156,16 @@
         "latin",
         "malayalam"
       ],
-      "version": "v17",
-      "lastModified": "2024-09-04",
+      "version": "v18",
+      "lastModified": "2024-12-04",
       "files": {
-        "100": "https://fonts.gstatic.com/s/gayathri/v17/MCoWzAb429DbBilWLLhc-pvSA_gA2W8.ttf",
-        "regular": "https://fonts.gstatic.com/s/gayathri/v17/MCoQzAb429DbBilWLIA48J_wBugA.ttf",
-        "700": "https://fonts.gstatic.com/s/gayathri/v17/MCoXzAb429DbBilWLLiE37v4LfQJwHbn.ttf"
+        "100": "https://fonts.gstatic.com/s/gayathri/v18/MCoWzAb429DbBilWLLhc-pvSA_gA2W8.ttf",
+        "regular": "https://fonts.gstatic.com/s/gayathri/v18/MCoQzAb429DbBilWLIA48J_wBugA.ttf",
+        "700": "https://fonts.gstatic.com/s/gayathri/v18/MCoXzAb429DbBilWLLiE37v4LfQJwHbn.ttf"
       },
       "category": "sans-serif",
       "kind": "webfonts#webfont",
-      "menu": "https://fonts.gstatic.com/s/gayathri/v17/MCoQzAb429DbBilWLLA5-ps.ttf"
+      "menu": "https://fonts.gstatic.com/s/gayathri/v18/MCoQzAb429DbBilWLLA5-ps.ttf"
     },
     {
       "family": "Geist",
@@ -13402,14 +13405,14 @@
         "korean",
         "latin"
       ],
-      "version": "v19",
-      "lastModified": "2024-11-20",
+      "version": "v20",
+      "lastModified": "2024-12-04",
       "files": {
-        "regular": "https://fonts.gstatic.com/s/gugi/v19/A2BVn5dXywshVA6A9DEfgqM.ttf"
+        "regular": "https://fonts.gstatic.com/s/gugi/v20/A2BVn5dXywshVA6A9DEfgqM.ttf"
       },
       "category": "display",
       "kind": "webfonts#webfont",
-      "menu": "https://fonts.gstatic.com/s/gugi/v19/A2BVn5dXywshZA-K8A.ttf"
+      "menu": "https://fonts.gstatic.com/s/gugi/v20/A2BVn5dXywshZA-K8A.ttf"
     },
     {
       "family": "Gulzar",
@@ -13440,16 +13443,16 @@
       "subsets": [
         "latin"
       ],
-      "version": "v15",
-      "lastModified": "2024-10-17",
+      "version": "v17",
+      "lastModified": "2024-12-04",
       "files": {
-        "regular": "https://fonts.gstatic.com/s/gupter/v15/2-cm9JNmxJqPO1QUYZa_Wu_lpA.ttf",
-        "500": "https://fonts.gstatic.com/s/gupter/v15/2-cl9JNmxJqPO1Qslb-bUsT5rZhaZg.ttf",
-        "700": "https://fonts.gstatic.com/s/gupter/v15/2-cl9JNmxJqPO1Qs3bmbUsT5rZhaZg.ttf"
+        "regular": "https://fonts.gstatic.com/s/gupter/v17/2-cm9JNmxJqPO1QUYZa_Wu_lpA.ttf",
+        "500": "https://fonts.gstatic.com/s/gupter/v17/2-cl9JNmxJqPO1Qslb-bUsT5rZhaZg.ttf",
+        "700": "https://fonts.gstatic.com/s/gupter/v17/2-cl9JNmxJqPO1Qs3bmbUsT5rZhaZg.ttf"
       },
       "category": "serif",
       "kind": "webfonts#webfont",
-      "menu": "https://fonts.gstatic.com/s/gupter/v15/2-cm9JNmxJqPO1QkYJy7.ttf"
+      "menu": "https://fonts.gstatic.com/s/gupter/v17/2-cm9JNmxJqPO1QkYJy7.ttf"
     },
     {
       "family": "Gurajada",
@@ -13520,14 +13523,14 @@
         "latin",
         "latin-ext"
       ],
-      "version": "v20",
-      "lastModified": "2024-09-04",
+      "version": "v21",
+      "lastModified": "2024-12-04",
       "files": {
-        "regular": "https://fonts.gstatic.com/s/hachimarupop/v20/HI_TiYoRLqpLrEiMAuO9Ysfz7rW1EM_btd8u.ttf"
+        "regular": "https://fonts.gstatic.com/s/hachimarupop/v21/HI_TiYoRLqpLrEiMAuO9Ysfz7rW1EM_btd8u.ttf"
       },
       "category": "handwriting",
       "kind": "webfonts#webfont",
-      "menu": "https://fonts.gstatic.com/s/hachimarupop/v20/HI_TiYoRLqpLrEiMAuO9Ysfz7oW0Gss.ttf"
+      "menu": "https://fonts.gstatic.com/s/hachimarupop/v21/HI_TiYoRLqpLrEiMAuO9Ysfz7oW0Gss.ttf"
     },
     {
       "family": "Hahmlet",
@@ -13548,22 +13551,22 @@
         "latin-ext",
         "vietnamese"
       ],
-      "version": "v17",
-      "lastModified": "2024-11-20",
+      "version": "v18",
+      "lastModified": "2024-12-04",
       "files": {
-        "100": "https://fonts.gstatic.com/s/hahmlet/v17/BngXUXpCQ3nKpIo0TfPyfCdXfaeU4RhKOdjobsO-aVxn.ttf",
-        "200": "https://fonts.gstatic.com/s/hahmlet/v17/BngXUXpCQ3nKpIo0TfPyfCdXfaeU4RjKONjobsO-aVxn.ttf",
-        "300": "https://fonts.gstatic.com/s/hahmlet/v17/BngXUXpCQ3nKpIo0TfPyfCdXfaeU4RgUONjobsO-aVxn.ttf",
-        "regular": "https://fonts.gstatic.com/s/hahmlet/v17/BngXUXpCQ3nKpIo0TfPyfCdXfaeU4RhKONjobsO-aVxn.ttf",
-        "500": "https://fonts.gstatic.com/s/hahmlet/v17/BngXUXpCQ3nKpIo0TfPyfCdXfaeU4Rh4ONjobsO-aVxn.ttf",
-        "600": "https://fonts.gstatic.com/s/hahmlet/v17/BngXUXpCQ3nKpIo0TfPyfCdXfaeU4RiUP9jobsO-aVxn.ttf",
-        "700": "https://fonts.gstatic.com/s/hahmlet/v17/BngXUXpCQ3nKpIo0TfPyfCdXfaeU4RitP9jobsO-aVxn.ttf",
-        "800": "https://fonts.gstatic.com/s/hahmlet/v17/BngXUXpCQ3nKpIo0TfPyfCdXfaeU4RjKP9jobsO-aVxn.ttf",
-        "900": "https://fonts.gstatic.com/s/hahmlet/v17/BngXUXpCQ3nKpIo0TfPyfCdXfaeU4RjjP9jobsO-aVxn.ttf"
+        "100": "https://fonts.gstatic.com/s/hahmlet/v18/BngXUXpCQ3nKpIo0TfPyfCdXfaeU4RhKOdjobsO-aVxn.ttf",
+        "200": "https://fonts.gstatic.com/s/hahmlet/v18/BngXUXpCQ3nKpIo0TfPyfCdXfaeU4RjKONjobsO-aVxn.ttf",
+        "300": "https://fonts.gstatic.com/s/hahmlet/v18/BngXUXpCQ3nKpIo0TfPyfCdXfaeU4RgUONjobsO-aVxn.ttf",
+        "regular": "https://fonts.gstatic.com/s/hahmlet/v18/BngXUXpCQ3nKpIo0TfPyfCdXfaeU4RhKONjobsO-aVxn.ttf",
+        "500": "https://fonts.gstatic.com/s/hahmlet/v18/BngXUXpCQ3nKpIo0TfPyfCdXfaeU4Rh4ONjobsO-aVxn.ttf",
+        "600": "https://fonts.gstatic.com/s/hahmlet/v18/BngXUXpCQ3nKpIo0TfPyfCdXfaeU4RiUP9jobsO-aVxn.ttf",
+        "700": "https://fonts.gstatic.com/s/hahmlet/v18/BngXUXpCQ3nKpIo0TfPyfCdXfaeU4RitP9jobsO-aVxn.ttf",
+        "800": "https://fonts.gstatic.com/s/hahmlet/v18/BngXUXpCQ3nKpIo0TfPyfCdXfaeU4RjKP9jobsO-aVxn.ttf",
+        "900": "https://fonts.gstatic.com/s/hahmlet/v18/BngXUXpCQ3nKpIo0TfPyfCdXfaeU4RjjP9jobsO-aVxn.ttf"
       },
       "category": "serif",
       "kind": "webfonts#webfont",
-      "menu": "https://fonts.gstatic.com/s/hahmlet/v17/BngXUXpCQ3nKpIo0TfPyfCdXfaeU4RhKOOjpZMc.ttf"
+      "menu": "https://fonts.gstatic.com/s/hahmlet/v18/BngXUXpCQ3nKpIo0TfPyfCdXfaeU4RhKOOjpZMc.ttf"
     },
     {
       "family": "Halant",
@@ -13579,18 +13582,18 @@
         "latin",
         "latin-ext"
       ],
-      "version": "v14",
-      "lastModified": "2024-09-04",
+      "version": "v16",
+      "lastModified": "2024-12-04",
       "files": {
-        "300": "https://fonts.gstatic.com/s/halant/v14/u-490qaujRI2Pbsvc_pCmwZqcwdRXg.ttf",
-        "regular": "https://fonts.gstatic.com/s/halant/v14/u-4-0qaujRI2PbsX39Jmky12eg.ttf",
-        "500": "https://fonts.gstatic.com/s/halant/v14/u-490qaujRI2PbsvK_tCmwZqcwdRXg.ttf",
-        "600": "https://fonts.gstatic.com/s/halant/v14/u-490qaujRI2PbsvB_xCmwZqcwdRXg.ttf",
-        "700": "https://fonts.gstatic.com/s/halant/v14/u-490qaujRI2PbsvY_1CmwZqcwdRXg.ttf"
+        "300": "https://fonts.gstatic.com/s/halant/v16/u-490qaujRI2Pbsvc_pCmwZqcwdRXg.ttf",
+        "regular": "https://fonts.gstatic.com/s/halant/v16/u-4-0qaujRI2PbsX39Jmky12eg.ttf",
+        "500": "https://fonts.gstatic.com/s/halant/v16/u-490qaujRI2PbsvK_tCmwZqcwdRXg.ttf",
+        "600": "https://fonts.gstatic.com/s/halant/v16/u-490qaujRI2PbsvB_xCmwZqcwdRXg.ttf",
+        "700": "https://fonts.gstatic.com/s/halant/v16/u-490qaujRI2PbsvY_1CmwZqcwdRXg.ttf"
       },
       "category": "serif",
       "kind": "webfonts#webfont",
-      "menu": "https://fonts.gstatic.com/s/halant/v14/u-4-0qaujRI2Pbsn3thi.ttf"
+      "menu": "https://fonts.gstatic.com/s/halant/v16/u-4-0qaujRI2Pbsn3thi.ttf"
     },
     {
       "family": "Hammersmith One",
@@ -13771,18 +13774,18 @@
         "khmer",
         "latin"
       ],
-      "version": "v22",
-      "lastModified": "2024-08-12",
+      "version": "v23",
+      "lastModified": "2024-12-04",
       "files": {
-        "100": "https://fonts.gstatic.com/s/hanuman/v22/VuJzdNvD15HhpJJBQMLdPKNiaRpFvg.ttf",
-        "300": "https://fonts.gstatic.com/s/hanuman/v22/VuJ0dNvD15HhpJJBQAr_HIlMZRNcp0o.ttf",
-        "regular": "https://fonts.gstatic.com/s/hanuman/v22/VuJxdNvD15HhpJJBeKbXOIFneRo.ttf",
-        "700": "https://fonts.gstatic.com/s/hanuman/v22/VuJ0dNvD15HhpJJBQBr4HIlMZRNcp0o.ttf",
-        "900": "https://fonts.gstatic.com/s/hanuman/v22/VuJ0dNvD15HhpJJBQCL6HIlMZRNcp0o.ttf"
+        "100": "https://fonts.gstatic.com/s/hanuman/v23/VuJzdNvD15HhpJJBQMLdPKNiaRpFvg.ttf",
+        "300": "https://fonts.gstatic.com/s/hanuman/v23/VuJ0dNvD15HhpJJBQAr_HIlMZRNcp0o.ttf",
+        "regular": "https://fonts.gstatic.com/s/hanuman/v23/VuJxdNvD15HhpJJBeKbXOIFneRo.ttf",
+        "700": "https://fonts.gstatic.com/s/hanuman/v23/VuJ0dNvD15HhpJJBQBr4HIlMZRNcp0o.ttf",
+        "900": "https://fonts.gstatic.com/s/hanuman/v23/VuJ0dNvD15HhpJJBQCL6HIlMZRNcp0o.ttf"
       },
       "category": "serif",
       "kind": "webfonts#webfont",
-      "menu": "https://fonts.gstatic.com/s/hanuman/v22/VuJxdNvD15HhpJJBSKfdPA.ttf"
+      "menu": "https://fonts.gstatic.com/s/hanuman/v23/VuJxdNvD15HhpJJBSKfdPA.ttf"
     },
     {
       "family": "Happy Monkey",
@@ -14022,14 +14025,14 @@
         "latin-ext",
         "vietnamese"
       ],
-      "version": "v13",
-      "lastModified": "2024-08-07",
+      "version": "v14",
+      "lastModified": "2024-12-04",
       "files": {
-        "regular": "https://fonts.gstatic.com/s/hinamincho/v13/2sDaZGBRhpXa2Jjz5w5LAGW8KbkVZTHR.ttf"
+        "regular": "https://fonts.gstatic.com/s/hinamincho/v14/2sDaZGBRhpXa2Jjz5w5LAGW8KbkVZTHR.ttf"
       },
       "category": "serif",
       "kind": "webfonts#webfont",
-      "menu": "https://fonts.gstatic.com/s/hinamincho/v13/2sDaZGBRhpXa2Jjz5w5LAFW9I70.ttf"
+      "menu": "https://fonts.gstatic.com/s/hinamincho/v14/2sDaZGBRhpXa2Jjz5w5LAFW9I70.ttf"
     },
     {
       "family": "Hind",
@@ -14045,18 +14048,18 @@
         "latin",
         "latin-ext"
       ],
-      "version": "v16",
-      "lastModified": "2024-09-04",
+      "version": "v17",
+      "lastModified": "2024-12-04",
       "files": {
-        "300": "https://fonts.gstatic.com/s/hind/v16/5aU19_a8oxmIfMJaIRuYjDpf5Vw.ttf",
-        "regular": "https://fonts.gstatic.com/s/hind/v16/5aU69_a8oxmIRG5yBROzkDM.ttf",
-        "500": "https://fonts.gstatic.com/s/hind/v16/5aU19_a8oxmIfJpbIRuYjDpf5Vw.ttf",
-        "600": "https://fonts.gstatic.com/s/hind/v16/5aU19_a8oxmIfLZcIRuYjDpf5Vw.ttf",
-        "700": "https://fonts.gstatic.com/s/hind/v16/5aU19_a8oxmIfNJdIRuYjDpf5Vw.ttf"
+        "300": "https://fonts.gstatic.com/s/hind/v17/5aU19_a8oxmIfMJaIRuYjDpf5Vw.ttf",
+        "regular": "https://fonts.gstatic.com/s/hind/v17/5aU69_a8oxmIRG5yBROzkDM.ttf",
+        "500": "https://fonts.gstatic.com/s/hind/v17/5aU19_a8oxmIfJpbIRuYjDpf5Vw.ttf",
+        "600": "https://fonts.gstatic.com/s/hind/v17/5aU19_a8oxmIfLZcIRuYjDpf5Vw.ttf",
+        "700": "https://fonts.gstatic.com/s/hind/v17/5aU19_a8oxmIfNJdIRuYjDpf5Vw.ttf"
       },
       "category": "sans-serif",
       "kind": "webfonts#webfont",
-      "menu": "https://fonts.gstatic.com/s/hind/v16/5aU69_a8oxmIdG94AQ.ttf"
+      "menu": "https://fonts.gstatic.com/s/hind/v17/5aU69_a8oxmIdG94AQ.ttf"
     },
     {
       "family": "Hind Guntur",
@@ -14072,18 +14075,18 @@
         "latin-ext",
         "telugu"
       ],
-      "version": "v12",
-      "lastModified": "2024-09-04",
+      "version": "v13",
+      "lastModified": "2024-12-04",
       "files": {
-        "300": "https://fonts.gstatic.com/s/hindguntur/v12/wXKyE3UZrok56nvamSuJd_yGn1czn9zaj5Ju.ttf",
-        "regular": "https://fonts.gstatic.com/s/hindguntur/v12/wXKvE3UZrok56nvamSuJd8Qqt3M7tMDT.ttf",
-        "500": "https://fonts.gstatic.com/s/hindguntur/v12/wXKyE3UZrok56nvamSuJd_zenlczn9zaj5Ju.ttf",
-        "600": "https://fonts.gstatic.com/s/hindguntur/v12/wXKyE3UZrok56nvamSuJd_zymVczn9zaj5Ju.ttf",
-        "700": "https://fonts.gstatic.com/s/hindguntur/v12/wXKyE3UZrok56nvamSuJd_yWmFczn9zaj5Ju.ttf"
+        "300": "https://fonts.gstatic.com/s/hindguntur/v13/wXKyE3UZrok56nvamSuJd_yGn1czn9zaj5Ju.ttf",
+        "regular": "https://fonts.gstatic.com/s/hindguntur/v13/wXKvE3UZrok56nvamSuJd8Qqt3M7tMDT.ttf",
+        "500": "https://fonts.gstatic.com/s/hindguntur/v13/wXKyE3UZrok56nvamSuJd_zenlczn9zaj5Ju.ttf",
+        "600": "https://fonts.gstatic.com/s/hindguntur/v13/wXKyE3UZrok56nvamSuJd_zymVczn9zaj5Ju.ttf",
+        "700": "https://fonts.gstatic.com/s/hindguntur/v13/wXKyE3UZrok56nvamSuJd_yWmFczn9zaj5Ju.ttf"
       },
       "category": "sans-serif",
       "kind": "webfonts#webfont",
-      "menu": "https://fonts.gstatic.com/s/hindguntur/v12/wXKvE3UZrok56nvamSuJd_QrvXc.ttf"
+      "menu": "https://fonts.gstatic.com/s/hindguntur/v13/wXKvE3UZrok56nvamSuJd_QrvXc.ttf"
     },
     {
       "family": "Hind Madurai",
@@ -14113,6 +14116,33 @@
       "menu": "https://fonts.gstatic.com/s/hindmadurai/v11/f0Xx0e2p98ZvDXdZQIOcpqjX8IcH.ttf"
     },
     {
+      "family": "Hind Mysuru",
+      "variants": [
+        "300",
+        "regular",
+        "500",
+        "600",
+        "700"
+      ],
+      "subsets": [
+        "kannada",
+        "latin",
+        "latin-ext"
+      ],
+      "version": "v1",
+      "lastModified": "2024-12-04",
+      "files": {
+        "300": "https://fonts.gstatic.com/s/hindmysuru/v1/sykq-yB3k7wiAJ-U5l_li8pppHWQBVTqU4sY.ttf",
+        "regular": "https://fonts.gstatic.com/s/hindmysuru/v1/syk3-yB3k7wiAJ-U5l_li_LFjFGYLkjj.ttf",
+        "500": "https://fonts.gstatic.com/s/hindmysuru/v1/sykq-yB3k7wiAJ-U5l_li8oxpXWQBVTqU4sY.ttf",
+        "600": "https://fonts.gstatic.com/s/hindmysuru/v1/sykq-yB3k7wiAJ-U5l_li8odonWQBVTqU4sY.ttf",
+        "700": "https://fonts.gstatic.com/s/hindmysuru/v1/sykq-yB3k7wiAJ-U5l_li8p5o3WQBVTqU4sY.ttf"
+      },
+      "category": "sans-serif",
+      "kind": "webfonts#webfont",
+      "menu": "https://fonts.gstatic.com/s/hindmysuru/v1/syk3-yB3k7wiAJ-U5l_li8LEhlU.ttf"
+    },
+    {
       "family": "Hind Siliguri",
       "variants": [
         "300",
@@ -14126,18 +14156,18 @@
         "latin",
         "latin-ext"
       ],
-      "version": "v12",
-      "lastModified": "2024-09-04",
+      "version": "v13",
+      "lastModified": "2024-12-04",
       "files": {
-        "300": "https://fonts.gstatic.com/s/hindsiliguri/v12/ijwOs5juQtsyLLR5jN4cxBEoRDf44uEfKiGvxts.ttf",
-        "regular": "https://fonts.gstatic.com/s/hindsiliguri/v12/ijwTs5juQtsyLLR5jN4cxBEofJvQxuk0Nig.ttf",
-        "500": "https://fonts.gstatic.com/s/hindsiliguri/v12/ijwOs5juQtsyLLR5jN4cxBEoRG_54uEfKiGvxts.ttf",
-        "600": "https://fonts.gstatic.com/s/hindsiliguri/v12/ijwOs5juQtsyLLR5jN4cxBEoREP-4uEfKiGvxts.ttf",
-        "700": "https://fonts.gstatic.com/s/hindsiliguri/v12/ijwOs5juQtsyLLR5jN4cxBEoRCf_4uEfKiGvxts.ttf"
+        "300": "https://fonts.gstatic.com/s/hindsiliguri/v13/ijwOs5juQtsyLLR5jN4cxBEoRDf44uEfKiGvxts.ttf",
+        "regular": "https://fonts.gstatic.com/s/hindsiliguri/v13/ijwTs5juQtsyLLR5jN4cxBEofJvQxuk0Nig.ttf",
+        "500": "https://fonts.gstatic.com/s/hindsiliguri/v13/ijwOs5juQtsyLLR5jN4cxBEoRG_54uEfKiGvxts.ttf",
+        "600": "https://fonts.gstatic.com/s/hindsiliguri/v13/ijwOs5juQtsyLLR5jN4cxBEoREP-4uEfKiGvxts.ttf",
+        "700": "https://fonts.gstatic.com/s/hindsiliguri/v13/ijwOs5juQtsyLLR5jN4cxBEoRCf_4uEfKiGvxts.ttf"
       },
       "category": "sans-serif",
       "kind": "webfonts#webfont",
-      "menu": "https://fonts.gstatic.com/s/hindsiliguri/v12/ijwTs5juQtsyLLR5jN4cxBEoTJrawg.ttf"
+      "menu": "https://fonts.gstatic.com/s/hindsiliguri/v13/ijwTs5juQtsyLLR5jN4cxBEoTJrawg.ttf"
     },
     {
       "family": "Hind Vadodara",
@@ -14153,18 +14183,18 @@
         "latin",
         "latin-ext"
       ],
-      "version": "v13",
-      "lastModified": "2024-09-04",
+      "version": "v15",
+      "lastModified": "2024-12-04",
       "files": {
-        "300": "https://fonts.gstatic.com/s/hindvadodara/v13/neIQzCKvrIcn5pbuuuriV9tTSDn3iXM0oSOL2Yw.ttf",
-        "regular": "https://fonts.gstatic.com/s/hindvadodara/v13/neINzCKvrIcn5pbuuuriV9tTcJXfrXsfvSo.ttf",
-        "500": "https://fonts.gstatic.com/s/hindvadodara/v13/neIQzCKvrIcn5pbuuuriV9tTSGH2iXM0oSOL2Yw.ttf",
-        "600": "https://fonts.gstatic.com/s/hindvadodara/v13/neIQzCKvrIcn5pbuuuriV9tTSE3xiXM0oSOL2Yw.ttf",
-        "700": "https://fonts.gstatic.com/s/hindvadodara/v13/neIQzCKvrIcn5pbuuuriV9tTSCnwiXM0oSOL2Yw.ttf"
+        "300": "https://fonts.gstatic.com/s/hindvadodara/v15/neIQzCKvrIcn5pbuuuriV9tTSDn3iXM0oSOL2Yw.ttf",
+        "regular": "https://fonts.gstatic.com/s/hindvadodara/v15/neINzCKvrIcn5pbuuuriV9tTcJXfrXsfvSo.ttf",
+        "500": "https://fonts.gstatic.com/s/hindvadodara/v15/neIQzCKvrIcn5pbuuuriV9tTSGH2iXM0oSOL2Yw.ttf",
+        "600": "https://fonts.gstatic.com/s/hindvadodara/v15/neIQzCKvrIcn5pbuuuriV9tTSE3xiXM0oSOL2Yw.ttf",
+        "700": "https://fonts.gstatic.com/s/hindvadodara/v15/neIQzCKvrIcn5pbuuuriV9tTSCnwiXM0oSOL2Yw.ttf"
       },
       "category": "sans-serif",
       "kind": "webfonts#webfont",
-      "menu": "https://fonts.gstatic.com/s/hindvadodara/v13/neINzCKvrIcn5pbuuuriV9tTQJTVqQ.ttf"
+      "menu": "https://fonts.gstatic.com/s/hindvadodara/v15/neINzCKvrIcn5pbuuuriV9tTQJTVqQ.ttf"
     },
     {
       "family": "Holtwood One SC",
@@ -14262,25 +14292,25 @@
         "latin",
         "latin-ext"
       ],
-      "version": "v1",
-      "lastModified": "2024-11-07",
+      "version": "v4",
+      "lastModified": "2024-12-04",
       "files": {
-        "300": "https://fonts.gstatic.com/s/hostgrotesk/v1/co3UmWBnlCJ3U42vbbfdwMjzqHAXOdFzqU5PubnOzhap-j94InI.ttf",
-        "regular": "https://fonts.gstatic.com/s/hostgrotesk/v1/co3UmWBnlCJ3U42vbbfdwMjzqHAXOdFzqU5PuefOzhap-j94InI.ttf",
-        "500": "https://fonts.gstatic.com/s/hostgrotesk/v1/co3UmWBnlCJ3U42vbbfdwMjzqHAXOdFzqU5PudXOzhap-j94InI.ttf",
-        "600": "https://fonts.gstatic.com/s/hostgrotesk/v1/co3UmWBnlCJ3U42vbbfdwMjzqHAXOdFzqU5PuTnJzhap-j94InI.ttf",
-        "700": "https://fonts.gstatic.com/s/hostgrotesk/v1/co3UmWBnlCJ3U42vbbfdwMjzqHAXOdFzqU5PuQDJzhap-j94InI.ttf",
-        "800": "https://fonts.gstatic.com/s/hostgrotesk/v1/co3UmWBnlCJ3U42vbbfdwMjzqHAXOdFzqU5PuWfJzhap-j94InI.ttf",
-        "300italic": "https://fonts.gstatic.com/s/hostgrotesk/v1/co3SmWBnlCJ3U42vbbfdwMjZoULo4bgYM-BIrC-NeFWj_h19MnL2jg.ttf",
-        "italic": "https://fonts.gstatic.com/s/hostgrotesk/v1/co3SmWBnlCJ3U42vbbfdwMjZoULo4bgYM-BIrC-NJlWj_h19MnL2jg.ttf",
-        "500italic": "https://fonts.gstatic.com/s/hostgrotesk/v1/co3SmWBnlCJ3U42vbbfdwMjZoULo4bgYM-BIrC-NFFWj_h19MnL2jg.ttf",
-        "600italic": "https://fonts.gstatic.com/s/hostgrotesk/v1/co3SmWBnlCJ3U42vbbfdwMjZoULo4bgYM-BIrC-N-FKj_h19MnL2jg.ttf",
-        "700italic": "https://fonts.gstatic.com/s/hostgrotesk/v1/co3SmWBnlCJ3U42vbbfdwMjZoULo4bgYM-BIrC-NwVKj_h19MnL2jg.ttf",
-        "800italic": "https://fonts.gstatic.com/s/hostgrotesk/v1/co3SmWBnlCJ3U42vbbfdwMjZoULo4bgYM-BIrC-NplKj_h19MnL2jg.ttf"
+        "300": "https://fonts.gstatic.com/s/hostgrotesk/v4/co3UmWBnlCJ3U42vbbfdwMjzqHAXOdFzqU5PubnOzhap-j94InI.ttf",
+        "regular": "https://fonts.gstatic.com/s/hostgrotesk/v4/co3UmWBnlCJ3U42vbbfdwMjzqHAXOdFzqU5PuefOzhap-j94InI.ttf",
+        "500": "https://fonts.gstatic.com/s/hostgrotesk/v4/co3UmWBnlCJ3U42vbbfdwMjzqHAXOdFzqU5PudXOzhap-j94InI.ttf",
+        "600": "https://fonts.gstatic.com/s/hostgrotesk/v4/co3UmWBnlCJ3U42vbbfdwMjzqHAXOdFzqU5PuTnJzhap-j94InI.ttf",
+        "700": "https://fonts.gstatic.com/s/hostgrotesk/v4/co3UmWBnlCJ3U42vbbfdwMjzqHAXOdFzqU5PuQDJzhap-j94InI.ttf",
+        "800": "https://fonts.gstatic.com/s/hostgrotesk/v4/co3UmWBnlCJ3U42vbbfdwMjzqHAXOdFzqU5PuWfJzhap-j94InI.ttf",
+        "300italic": "https://fonts.gstatic.com/s/hostgrotesk/v4/co3SmWBnlCJ3U42vbbfdwMjZoULo4bgYM-BIrC-NeFWj_h19MnL2jg.ttf",
+        "italic": "https://fonts.gstatic.com/s/hostgrotesk/v4/co3SmWBnlCJ3U42vbbfdwMjZoULo4bgYM-BIrC-NJlWj_h19MnL2jg.ttf",
+        "500italic": "https://fonts.gstatic.com/s/hostgrotesk/v4/co3SmWBnlCJ3U42vbbfdwMjZoULo4bgYM-BIrC-NFFWj_h19MnL2jg.ttf",
+        "600italic": "https://fonts.gstatic.com/s/hostgrotesk/v4/co3SmWBnlCJ3U42vbbfdwMjZoULo4bgYM-BIrC-N-FKj_h19MnL2jg.ttf",
+        "700italic": "https://fonts.gstatic.com/s/hostgrotesk/v4/co3SmWBnlCJ3U42vbbfdwMjZoULo4bgYM-BIrC-NwVKj_h19MnL2jg.ttf",
+        "800italic": "https://fonts.gstatic.com/s/hostgrotesk/v4/co3SmWBnlCJ3U42vbbfdwMjZoULo4bgYM-BIrC-NplKj_h19MnL2jg.ttf"
       },
       "category": "sans-serif",
       "kind": "webfonts#webfont",
-      "menu": "https://fonts.gstatic.com/s/hostgrotesk/v1/co3UmWBnlCJ3U42vbbfdwMjzqHAXOdFzqU5PuefO_hej_g.ttf"
+      "menu": "https://fonts.gstatic.com/s/hostgrotesk/v4/co3UmWBnlCJ3U42vbbfdwMjzqHAXOdFzqU5PuefO_hej_g.ttf"
     },
     {
       "family": "Hubballi",
@@ -14292,14 +14322,14 @@
         "latin",
         "latin-ext"
       ],
-      "version": "v7",
-      "lastModified": "2024-09-04",
+      "version": "v8",
+      "lastModified": "2024-12-04",
       "files": {
-        "regular": "https://fonts.gstatic.com/s/hubballi/v7/o-0JIpUj3WIZ1RFN56B7yBBNYuSF.ttf"
+        "regular": "https://fonts.gstatic.com/s/hubballi/v8/o-0JIpUj3WIZ1RFN56B7yBBNYuSF.ttf"
       },
       "category": "sans-serif",
       "kind": "webfonts#webfont",
-      "menu": "https://fonts.gstatic.com/s/hubballi/v7/o-0JIpUj3WIZ1RFN55B6whQ.ttf"
+      "menu": "https://fonts.gstatic.com/s/hubballi/v8/o-0JIpUj3WIZ1RFN55B6whQ.ttf"
     },
     {
       "family": "Hubot Sans",
@@ -14326,29 +14356,29 @@
         "latin-ext",
         "vietnamese"
       ],
-      "version": "v1",
-      "lastModified": "2024-11-05",
+      "version": "v4",
+      "lastModified": "2024-12-04",
       "files": {
-        "200": "https://fonts.gstatic.com/s/hubotsans/v1/pe0BMIiULYxOvxVLbVwhONyy6zb7yFM9V5G3iZ3X0avsIiCxjLsCZ7ZdgLDVwVqcXQ.ttf",
-        "300": "https://fonts.gstatic.com/s/hubotsans/v1/pe0BMIiULYxOvxVLbVwhONyy6zb7yFM9V5G3iZ3X0avsIiCxjLsCubZdgLDVwVqcXQ.ttf",
-        "regular": "https://fonts.gstatic.com/s/hubotsans/v1/pe0BMIiULYxOvxVLbVwhONyy6zb7yFM9V5G3iZ3X0avsIiCxjLsC57ZdgLDVwVqcXQ.ttf",
-        "500": "https://fonts.gstatic.com/s/hubotsans/v1/pe0BMIiULYxOvxVLbVwhONyy6zb7yFM9V5G3iZ3X0avsIiCxjLsC1bZdgLDVwVqcXQ.ttf",
-        "600": "https://fonts.gstatic.com/s/hubotsans/v1/pe0BMIiULYxOvxVLbVwhONyy6zb7yFM9V5G3iZ3X0avsIiCxjLsCObFdgLDVwVqcXQ.ttf",
-        "700": "https://fonts.gstatic.com/s/hubotsans/v1/pe0BMIiULYxOvxVLbVwhONyy6zb7yFM9V5G3iZ3X0avsIiCxjLsCALFdgLDVwVqcXQ.ttf",
-        "800": "https://fonts.gstatic.com/s/hubotsans/v1/pe0BMIiULYxOvxVLbVwhONyy6zb7yFM9V5G3iZ3X0avsIiCxjLsCZ7FdgLDVwVqcXQ.ttf",
-        "900": "https://fonts.gstatic.com/s/hubotsans/v1/pe0BMIiULYxOvxVLbVwhONyy6zb7yFM9V5G3iZ3X0avsIiCxjLsCTrFdgLDVwVqcXQ.ttf",
-        "200italic": "https://fonts.gstatic.com/s/hubotsans/v1/pe0PMIiULYxOvxVLbVwhEtWACNaCm8WTUIR_y2-e41Q0S0srIrwXL_U1w7rR41-MXUss.ttf",
-        "300italic": "https://fonts.gstatic.com/s/hubotsans/v1/pe0PMIiULYxOvxVLbVwhEtWACNaCm8WTUIR_y2-e41Q0S0srIrwXL_Xrw7rR41-MXUss.ttf",
-        "italic": "https://fonts.gstatic.com/s/hubotsans/v1/pe0PMIiULYxOvxVLbVwhEtWACNaCm8WTUIR_y2-e41Q0S0srIrwXL_W1w7rR41-MXUss.ttf",
-        "500italic": "https://fonts.gstatic.com/s/hubotsans/v1/pe0PMIiULYxOvxVLbVwhEtWACNaCm8WTUIR_y2-e41Q0S0srIrwXL_WHw7rR41-MXUss.ttf",
-        "600italic": "https://fonts.gstatic.com/s/hubotsans/v1/pe0PMIiULYxOvxVLbVwhEtWACNaCm8WTUIR_y2-e41Q0S0srIrwXL_VrxLrR41-MXUss.ttf",
-        "700italic": "https://fonts.gstatic.com/s/hubotsans/v1/pe0PMIiULYxOvxVLbVwhEtWACNaCm8WTUIR_y2-e41Q0S0srIrwXL_VSxLrR41-MXUss.ttf",
-        "800italic": "https://fonts.gstatic.com/s/hubotsans/v1/pe0PMIiULYxOvxVLbVwhEtWACNaCm8WTUIR_y2-e41Q0S0srIrwXL_U1xLrR41-MXUss.ttf",
-        "900italic": "https://fonts.gstatic.com/s/hubotsans/v1/pe0PMIiULYxOvxVLbVwhEtWACNaCm8WTUIR_y2-e41Q0S0srIrwXL_UcxLrR41-MXUss.ttf"
+        "200": "https://fonts.gstatic.com/s/hubotsans/v4/pe0BMIiULYxOvxVLbVwhONyy6zb7yFM9V5G3iZ3X0avsIiCxjLsCZ7ZdgLDVwVqcXQ.ttf",
+        "300": "https://fonts.gstatic.com/s/hubotsans/v4/pe0BMIiULYxOvxVLbVwhONyy6zb7yFM9V5G3iZ3X0avsIiCxjLsCubZdgLDVwVqcXQ.ttf",
+        "regular": "https://fonts.gstatic.com/s/hubotsans/v4/pe0BMIiULYxOvxVLbVwhONyy6zb7yFM9V5G3iZ3X0avsIiCxjLsC57ZdgLDVwVqcXQ.ttf",
+        "500": "https://fonts.gstatic.com/s/hubotsans/v4/pe0BMIiULYxOvxVLbVwhONyy6zb7yFM9V5G3iZ3X0avsIiCxjLsC1bZdgLDVwVqcXQ.ttf",
+        "600": "https://fonts.gstatic.com/s/hubotsans/v4/pe0BMIiULYxOvxVLbVwhONyy6zb7yFM9V5G3iZ3X0avsIiCxjLsCObFdgLDVwVqcXQ.ttf",
+        "700": "https://fonts.gstatic.com/s/hubotsans/v4/pe0BMIiULYxOvxVLbVwhONyy6zb7yFM9V5G3iZ3X0avsIiCxjLsCALFdgLDVwVqcXQ.ttf",
+        "800": "https://fonts.gstatic.com/s/hubotsans/v4/pe0BMIiULYxOvxVLbVwhONyy6zb7yFM9V5G3iZ3X0avsIiCxjLsCZ7FdgLDVwVqcXQ.ttf",
+        "900": "https://fonts.gstatic.com/s/hubotsans/v4/pe0BMIiULYxOvxVLbVwhONyy6zb7yFM9V5G3iZ3X0avsIiCxjLsCTrFdgLDVwVqcXQ.ttf",
+        "200italic": "https://fonts.gstatic.com/s/hubotsans/v4/pe0PMIiULYxOvxVLbVwhEtWACNaCm8WTUIR_y2-e41Q0S0srIrwXL_U1w7rR41-MXUss.ttf",
+        "300italic": "https://fonts.gstatic.com/s/hubotsans/v4/pe0PMIiULYxOvxVLbVwhEtWACNaCm8WTUIR_y2-e41Q0S0srIrwXL_Xrw7rR41-MXUss.ttf",
+        "italic": "https://fonts.gstatic.com/s/hubotsans/v4/pe0PMIiULYxOvxVLbVwhEtWACNaCm8WTUIR_y2-e41Q0S0srIrwXL_W1w7rR41-MXUss.ttf",
+        "500italic": "https://fonts.gstatic.com/s/hubotsans/v4/pe0PMIiULYxOvxVLbVwhEtWACNaCm8WTUIR_y2-e41Q0S0srIrwXL_WHw7rR41-MXUss.ttf",
+        "600italic": "https://fonts.gstatic.com/s/hubotsans/v4/pe0PMIiULYxOvxVLbVwhEtWACNaCm8WTUIR_y2-e41Q0S0srIrwXL_VrxLrR41-MXUss.ttf",
+        "700italic": "https://fonts.gstatic.com/s/hubotsans/v4/pe0PMIiULYxOvxVLbVwhEtWACNaCm8WTUIR_y2-e41Q0S0srIrwXL_VSxLrR41-MXUss.ttf",
+        "800italic": "https://fonts.gstatic.com/s/hubotsans/v4/pe0PMIiULYxOvxVLbVwhEtWACNaCm8WTUIR_y2-e41Q0S0srIrwXL_U1xLrR41-MXUss.ttf",
+        "900italic": "https://fonts.gstatic.com/s/hubotsans/v4/pe0PMIiULYxOvxVLbVwhEtWACNaCm8WTUIR_y2-e41Q0S0srIrwXL_UcxLrR41-MXUss.ttf"
       },
       "category": "sans-serif",
       "kind": "webfonts#webfont",
-      "menu": "https://fonts.gstatic.com/s/hubotsans/v1/pe0BMIiULYxOvxVLbVwhONyy6zb7yFM9V5G3iZ3X0avsIiCxjLsC57ZtgbrR.ttf"
+      "menu": "https://fonts.gstatic.com/s/hubotsans/v4/pe0BMIiULYxOvxVLbVwhONyy6zb7yFM9V5G3iZ3X0avsIiCxjLsC57ZtgbrR.ttf"
     },
     {
       "family": "Hurricane",
@@ -14481,20 +14511,20 @@
         "latin",
         "latin-ext"
       ],
-      "version": "v12",
-      "lastModified": "2024-09-04",
+      "version": "v13",
+      "lastModified": "2024-12-04",
       "files": {
-        "100": "https://fonts.gstatic.com/s/ibmplexsansarabic/v12/Qw3MZRtWPQCuHme67tEYUIx3Kh0PHR9N6YNe3PC5eMlAMg0.ttf",
-        "200": "https://fonts.gstatic.com/s/ibmplexsansarabic/v12/Qw3NZRtWPQCuHme67tEYUIx3Kh0PHR9N6YPy_dCTVsVJKxTs.ttf",
-        "300": "https://fonts.gstatic.com/s/ibmplexsansarabic/v12/Qw3NZRtWPQCuHme67tEYUIx3Kh0PHR9N6YOW_tCTVsVJKxTs.ttf",
-        "regular": "https://fonts.gstatic.com/s/ibmplexsansarabic/v12/Qw3CZRtWPQCuHme67tEYUIx3Kh0PHR9N6bs61vSbfdlA.ttf",
-        "500": "https://fonts.gstatic.com/s/ibmplexsansarabic/v12/Qw3NZRtWPQCuHme67tEYUIx3Kh0PHR9N6YPO_9CTVsVJKxTs.ttf",
-        "600": "https://fonts.gstatic.com/s/ibmplexsansarabic/v12/Qw3NZRtWPQCuHme67tEYUIx3Kh0PHR9N6YPi-NCTVsVJKxTs.ttf",
-        "700": "https://fonts.gstatic.com/s/ibmplexsansarabic/v12/Qw3NZRtWPQCuHme67tEYUIx3Kh0PHR9N6YOG-dCTVsVJKxTs.ttf"
+        "100": "https://fonts.gstatic.com/s/ibmplexsansarabic/v13/Qw3MZRtWPQCuHme67tEYUIx3Kh0PHR9N6YNe3PC5eMlAMg0.ttf",
+        "200": "https://fonts.gstatic.com/s/ibmplexsansarabic/v13/Qw3NZRtWPQCuHme67tEYUIx3Kh0PHR9N6YPy_dCTVsVJKxTs.ttf",
+        "300": "https://fonts.gstatic.com/s/ibmplexsansarabic/v13/Qw3NZRtWPQCuHme67tEYUIx3Kh0PHR9N6YOW_tCTVsVJKxTs.ttf",
+        "regular": "https://fonts.gstatic.com/s/ibmplexsansarabic/v13/Qw3CZRtWPQCuHme67tEYUIx3Kh0PHR9N6bs61vSbfdlA.ttf",
+        "500": "https://fonts.gstatic.com/s/ibmplexsansarabic/v13/Qw3NZRtWPQCuHme67tEYUIx3Kh0PHR9N6YPO_9CTVsVJKxTs.ttf",
+        "600": "https://fonts.gstatic.com/s/ibmplexsansarabic/v13/Qw3NZRtWPQCuHme67tEYUIx3Kh0PHR9N6YPi-NCTVsVJKxTs.ttf",
+        "700": "https://fonts.gstatic.com/s/ibmplexsansarabic/v13/Qw3NZRtWPQCuHme67tEYUIx3Kh0PHR9N6YOG-dCTVsVJKxTs.ttf"
       },
       "category": "sans-serif",
       "kind": "webfonts#webfont",
-      "menu": "https://fonts.gstatic.com/s/ibmplexsansarabic/v12/Qw3CZRtWPQCuHme67tEYUIx3Kh0PHR9N6Ys73PA.ttf"
+      "menu": "https://fonts.gstatic.com/s/ibmplexsansarabic/v13/Qw3CZRtWPQCuHme67tEYUIx3Kh0PHR9N6Ys73PA.ttf"
     },
     {
       "family": "IBM Plex Sans Condensed",
@@ -16119,18 +16149,17 @@
         "regular"
       ],
       "subsets": [
-        "arabic",
         "latin",
         "latin-ext"
       ],
-      "version": "v20",
-      "lastModified": "2024-09-04",
+      "version": "v21",
+      "lastModified": "2024-12-04",
       "files": {
-        "regular": "https://fonts.gstatic.com/s/jomhuria/v20/Dxxp8j-TMXf-llKur2b1MOGbC3Dh.ttf"
+        "regular": "https://fonts.gstatic.com/s/jomhuria/v21/Dxxp8j-TMXf-llKur2b1MOGbC3Dh.ttf"
       },
       "category": "display",
       "kind": "webfonts#webfont",
-      "menu": "https://fonts.gstatic.com/s/jomhuria/v20/Dxxp8j-TMXf-llKur1b0OuU.ttf"
+      "menu": "https://fonts.gstatic.com/s/jomhuria/v21/Dxxp8j-TMXf-llKur1b0OuU.ttf"
     },
     {
       "family": "Jomolhari",
@@ -16141,14 +16170,14 @@
         "latin",
         "tibetan"
       ],
-      "version": "v18",
-      "lastModified": "2024-09-04",
+      "version": "v19",
+      "lastModified": "2024-12-04",
       "files": {
-        "regular": "https://fonts.gstatic.com/s/jomolhari/v18/EvONzA1M1Iw_CBd2hsQCF1IZKq5INg.ttf"
+        "regular": "https://fonts.gstatic.com/s/jomolhari/v19/EvONzA1M1Iw_CBd2hsQCF1IZKq5INg.ttf"
       },
       "category": "serif",
       "kind": "webfonts#webfont",
-      "menu": "https://fonts.gstatic.com/s/jomolhari/v18/EvONzA1M1Iw_CBd2hsQyFlgd.ttf"
+      "menu": "https://fonts.gstatic.com/s/jomolhari/v19/EvONzA1M1Iw_CBd2hsQyFlgd.ttf"
     },
     {
       "family": "Josefin Sans",
@@ -16216,27 +16245,27 @@
       "subsets": [
         "latin"
       ],
-      "version": "v26",
-      "lastModified": "2024-09-04",
+      "version": "v27",
+      "lastModified": "2024-12-04",
       "files": {
-        "100": "https://fonts.gstatic.com/s/josefinslab/v26/lW-swjwOK3Ps5GSJlNNkMalNpiZe_ldbOR4W71mtd3k3K6CcEyI.ttf",
-        "200": "https://fonts.gstatic.com/s/josefinslab/v26/lW-swjwOK3Ps5GSJlNNkMalNpiZe_ldbOR4W79msd3k3K6CcEyI.ttf",
-        "300": "https://fonts.gstatic.com/s/josefinslab/v26/lW-swjwOK3Ps5GSJlNNkMalNpiZe_ldbOR4W7wesd3k3K6CcEyI.ttf",
-        "regular": "https://fonts.gstatic.com/s/josefinslab/v26/lW-swjwOK3Ps5GSJlNNkMalNpiZe_ldbOR4W71msd3k3K6CcEyI.ttf",
-        "500": "https://fonts.gstatic.com/s/josefinslab/v26/lW-swjwOK3Ps5GSJlNNkMalNpiZe_ldbOR4W72usd3k3K6CcEyI.ttf",
-        "600": "https://fonts.gstatic.com/s/josefinslab/v26/lW-swjwOK3Ps5GSJlNNkMalNpiZe_ldbOR4W74erd3k3K6CcEyI.ttf",
-        "700": "https://fonts.gstatic.com/s/josefinslab/v26/lW-swjwOK3Ps5GSJlNNkMalNpiZe_ldbOR4W776rd3k3K6CcEyI.ttf",
-        "100italic": "https://fonts.gstatic.com/s/josefinslab/v26/lW-qwjwOK3Ps5GSJlNNkMalnrxShJj4wo7AR-pHvnzs9L4KZAyK43w.ttf",
-        "200italic": "https://fonts.gstatic.com/s/josefinslab/v26/lW-qwjwOK3Ps5GSJlNNkMalnrxShJj4wo7AR-pHvHzo9L4KZAyK43w.ttf",
-        "300italic": "https://fonts.gstatic.com/s/josefinslab/v26/lW-qwjwOK3Ps5GSJlNNkMalnrxShJj4wo7AR-pHvwTo9L4KZAyK43w.ttf",
-        "italic": "https://fonts.gstatic.com/s/josefinslab/v26/lW-qwjwOK3Ps5GSJlNNkMalnrxShJj4wo7AR-pHvnzo9L4KZAyK43w.ttf",
-        "500italic": "https://fonts.gstatic.com/s/josefinslab/v26/lW-qwjwOK3Ps5GSJlNNkMalnrxShJj4wo7AR-pHvrTo9L4KZAyK43w.ttf",
-        "600italic": "https://fonts.gstatic.com/s/josefinslab/v26/lW-qwjwOK3Ps5GSJlNNkMalnrxShJj4wo7AR-pHvQT09L4KZAyK43w.ttf",
-        "700italic": "https://fonts.gstatic.com/s/josefinslab/v26/lW-qwjwOK3Ps5GSJlNNkMalnrxShJj4wo7AR-pHveD09L4KZAyK43w.ttf"
+        "100": "https://fonts.gstatic.com/s/josefinslab/v27/lW-swjwOK3Ps5GSJlNNkMalNpiZe_ldbOR4W71mtd3k3K6CcEyI.ttf",
+        "200": "https://fonts.gstatic.com/s/josefinslab/v27/lW-swjwOK3Ps5GSJlNNkMalNpiZe_ldbOR4W79msd3k3K6CcEyI.ttf",
+        "300": "https://fonts.gstatic.com/s/josefinslab/v27/lW-swjwOK3Ps5GSJlNNkMalNpiZe_ldbOR4W7wesd3k3K6CcEyI.ttf",
+        "regular": "https://fonts.gstatic.com/s/josefinslab/v27/lW-swjwOK3Ps5GSJlNNkMalNpiZe_ldbOR4W71msd3k3K6CcEyI.ttf",
+        "500": "https://fonts.gstatic.com/s/josefinslab/v27/lW-swjwOK3Ps5GSJlNNkMalNpiZe_ldbOR4W72usd3k3K6CcEyI.ttf",
+        "600": "https://fonts.gstatic.com/s/josefinslab/v27/lW-swjwOK3Ps5GSJlNNkMalNpiZe_ldbOR4W74erd3k3K6CcEyI.ttf",
+        "700": "https://fonts.gstatic.com/s/josefinslab/v27/lW-swjwOK3Ps5GSJlNNkMalNpiZe_ldbOR4W776rd3k3K6CcEyI.ttf",
+        "100italic": "https://fonts.gstatic.com/s/josefinslab/v27/lW-qwjwOK3Ps5GSJlNNkMalnrxShJj4wo7AR-pHvnzs9L4KZAyK43w.ttf",
+        "200italic": "https://fonts.gstatic.com/s/josefinslab/v27/lW-qwjwOK3Ps5GSJlNNkMalnrxShJj4wo7AR-pHvHzo9L4KZAyK43w.ttf",
+        "300italic": "https://fonts.gstatic.com/s/josefinslab/v27/lW-qwjwOK3Ps5GSJlNNkMalnrxShJj4wo7AR-pHvwTo9L4KZAyK43w.ttf",
+        "italic": "https://fonts.gstatic.com/s/josefinslab/v27/lW-qwjwOK3Ps5GSJlNNkMalnrxShJj4wo7AR-pHvnzo9L4KZAyK43w.ttf",
+        "500italic": "https://fonts.gstatic.com/s/josefinslab/v27/lW-qwjwOK3Ps5GSJlNNkMalnrxShJj4wo7AR-pHvrTo9L4KZAyK43w.ttf",
+        "600italic": "https://fonts.gstatic.com/s/josefinslab/v27/lW-qwjwOK3Ps5GSJlNNkMalnrxShJj4wo7AR-pHvQT09L4KZAyK43w.ttf",
+        "700italic": "https://fonts.gstatic.com/s/josefinslab/v27/lW-qwjwOK3Ps5GSJlNNkMalnrxShJj4wo7AR-pHveD09L4KZAyK43w.ttf"
       },
       "category": "serif",
       "kind": "webfonts#webfont",
-      "menu": "https://fonts.gstatic.com/s/josefinslab/v26/lW-swjwOK3Ps5GSJlNNkMalNpiZe_ldbOR4W71msR3g9Lw.ttf"
+      "menu": "https://fonts.gstatic.com/s/josefinslab/v27/lW-swjwOK3Ps5GSJlNNkMalNpiZe_ldbOR4W71msR3g9Lw.ttf"
     },
     {
       "family": "Jost",
@@ -16576,16 +16605,16 @@
         "latin",
         "latin-ext"
       ],
-      "version": "v9",
-      "lastModified": "2024-09-04",
+      "version": "v10",
+      "lastModified": "2024-12-04",
       "files": {
-        "regular": "https://fonts.gstatic.com/s/kaiseidecol/v9/bMrwmSqP45sidWf3QmfFW6iyW1EP22OjoA.ttf",
-        "500": "https://fonts.gstatic.com/s/kaiseidecol/v9/bMrvmSqP45sidWf3QmfFW6iKr3gr00i_qb57kA.ttf",
-        "700": "https://fonts.gstatic.com/s/kaiseidecol/v9/bMrvmSqP45sidWf3QmfFW6iK534r00i_qb57kA.ttf"
+        "regular": "https://fonts.gstatic.com/s/kaiseidecol/v10/bMrwmSqP45sidWf3QmfFW6iyW1EP22OjoA.ttf",
+        "500": "https://fonts.gstatic.com/s/kaiseidecol/v10/bMrvmSqP45sidWf3QmfFW6iKr3gr00i_qb57kA.ttf",
+        "700": "https://fonts.gstatic.com/s/kaiseidecol/v10/bMrvmSqP45sidWf3QmfFW6iK534r00i_qb57kA.ttf"
       },
       "category": "serif",
       "kind": "webfonts#webfont",
-      "menu": "https://fonts.gstatic.com/s/kaiseidecol/v9/bMrwmSqP45sidWf3QmfFW6iCWlsL.ttf"
+      "menu": "https://fonts.gstatic.com/s/kaiseidecol/v10/bMrwmSqP45sidWf3QmfFW6iCWlsL.ttf"
     },
     {
       "family": "Kaisei HarunoUmi",
@@ -18171,20 +18200,20 @@
         "latin",
         "latin-ext"
       ],
-      "version": "v30",
-      "lastModified": "2024-09-04",
+      "version": "v32",
+      "lastModified": "2024-12-04",
       "files": {
-        "200": "https://fonts.gstatic.com/s/lateef/v30/hESz6XVnNCxEvkb0bjygbqTb9nQ-RA.ttf",
-        "300": "https://fonts.gstatic.com/s/lateef/v30/hESz6XVnNCxEvkb0Cj-gbqTb9nQ-RA.ttf",
-        "regular": "https://fonts.gstatic.com/s/lateef/v30/hESw6XVnNCxEvkbMpheEZo_H_w.ttf",
-        "500": "https://fonts.gstatic.com/s/lateef/v30/hESz6XVnNCxEvkb0Uj6gbqTb9nQ-RA.ttf",
-        "600": "https://fonts.gstatic.com/s/lateef/v30/hESz6XVnNCxEvkb0fjmgbqTb9nQ-RA.ttf",
-        "700": "https://fonts.gstatic.com/s/lateef/v30/hESz6XVnNCxEvkb0GjigbqTb9nQ-RA.ttf",
-        "800": "https://fonts.gstatic.com/s/lateef/v30/hESz6XVnNCxEvkb0BjugbqTb9nQ-RA.ttf"
+        "200": "https://fonts.gstatic.com/s/lateef/v32/hESz6XVnNCxEvkb0bjygbqTb9nQ-RA.ttf",
+        "300": "https://fonts.gstatic.com/s/lateef/v32/hESz6XVnNCxEvkb0Cj-gbqTb9nQ-RA.ttf",
+        "regular": "https://fonts.gstatic.com/s/lateef/v32/hESw6XVnNCxEvkbMpheEZo_H_w.ttf",
+        "500": "https://fonts.gstatic.com/s/lateef/v32/hESz6XVnNCxEvkb0Uj6gbqTb9nQ-RA.ttf",
+        "600": "https://fonts.gstatic.com/s/lateef/v32/hESz6XVnNCxEvkb0fjmgbqTb9nQ-RA.ttf",
+        "700": "https://fonts.gstatic.com/s/lateef/v32/hESz6XVnNCxEvkb0GjigbqTb9nQ-RA.ttf",
+        "800": "https://fonts.gstatic.com/s/lateef/v32/hESz6XVnNCxEvkb0BjugbqTb9nQ-RA.ttf"
       },
       "category": "serif",
       "kind": "webfonts#webfont",
-      "menu": "https://fonts.gstatic.com/s/lateef/v30/hESw6XVnNCxEvkb8px2A.ttf"
+      "menu": "https://fonts.gstatic.com/s/lateef/v32/hESw6XVnNCxEvkb8px2A.ttf"
     },
     {
       "family": "Lato",
@@ -20759,20 +20788,20 @@
       "subsets": [
         "latin"
       ],
-      "version": "v220",
-      "lastModified": "2024-11-20",
+      "version": "v222",
+      "lastModified": "2024-12-04",
       "files": {
-        "100": "https://fonts.gstatic.com/s/materialsymbolsoutlined/v220/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDCvHeembd5zrTgt.ttf",
-        "200": "https://fonts.gstatic.com/s/materialsymbolsoutlined/v220/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDAvHOembd5zrTgt.ttf",
-        "300": "https://fonts.gstatic.com/s/materialsymbolsoutlined/v220/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDDxHOembd5zrTgt.ttf",
-        "regular": "https://fonts.gstatic.com/s/materialsymbolsoutlined/v220/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDCvHOembd5zrTgt.ttf",
-        "500": "https://fonts.gstatic.com/s/materialsymbolsoutlined/v220/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDCdHOembd5zrTgt.ttf",
-        "600": "https://fonts.gstatic.com/s/materialsymbolsoutlined/v220/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDBxG-embd5zrTgt.ttf",
-        "700": "https://fonts.gstatic.com/s/materialsymbolsoutlined/v220/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDBIG-embd5zrTgt.ttf"
+        "100": "https://fonts.gstatic.com/s/materialsymbolsoutlined/v222/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDCvHeembd5zrTgt.ttf",
+        "200": "https://fonts.gstatic.com/s/materialsymbolsoutlined/v222/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDAvHOembd5zrTgt.ttf",
+        "300": "https://fonts.gstatic.com/s/materialsymbolsoutlined/v222/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDDxHOembd5zrTgt.ttf",
+        "regular": "https://fonts.gstatic.com/s/materialsymbolsoutlined/v222/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDCvHOembd5zrTgt.ttf",
+        "500": "https://fonts.gstatic.com/s/materialsymbolsoutlined/v222/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDCdHOembd5zrTgt.ttf",
+        "600": "https://fonts.gstatic.com/s/materialsymbolsoutlined/v222/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDBxG-embd5zrTgt.ttf",
+        "700": "https://fonts.gstatic.com/s/materialsymbolsoutlined/v222/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDBIG-embd5zrTgt.ttf"
       },
       "category": "monospace",
       "kind": "webfonts#webfont",
-      "menu": "https://fonts.gstatic.com/s/materialsymbolsoutlined/v220/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDCvHNenZ9o.ttf"
+      "menu": "https://fonts.gstatic.com/s/materialsymbolsoutlined/v222/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDCvHNenZ9o.ttf"
     },
     {
       "family": "Material Symbols Rounded",
@@ -20788,20 +20817,20 @@
       "subsets": [
         "latin"
       ],
-      "version": "v219",
-      "lastModified": "2024-11-20",
+      "version": "v222",
+      "lastModified": "2024-12-04",
       "files": {
-        "100": "https://fonts.gstatic.com/s/materialsymbolsrounded/v219/syl0-zNym6YjUruM-QrEh7-nyTnjDwKNJ_190FjpZIvDmUSVOK7BDB_Qb9vUSzq3wzLK-P0J-V_Zs-QtQth3-jOcbTCVpeRL2w5rwZu2rIekXxKJKJBjAa8.ttf",
-        "200": "https://fonts.gstatic.com/s/materialsymbolsrounded/v219/syl0-zNym6YjUruM-QrEh7-nyTnjDwKNJ_190FjpZIvDmUSVOK7BDB_Qb9vUSzq3wzLK-P0J-V_Zs-QtQth3-jOcbTCVpeRL2w5rwZu2rAelXxKJKJBjAa8.ttf",
-        "300": "https://fonts.gstatic.com/s/materialsymbolsrounded/v219/syl0-zNym6YjUruM-QrEh7-nyTnjDwKNJ_190FjpZIvDmUSVOK7BDB_Qb9vUSzq3wzLK-P0J-V_Zs-QtQth3-jOcbTCVpeRL2w5rwZu2rNmlXxKJKJBjAa8.ttf",
-        "regular": "https://fonts.gstatic.com/s/materialsymbolsrounded/v219/syl0-zNym6YjUruM-QrEh7-nyTnjDwKNJ_190FjpZIvDmUSVOK7BDB_Qb9vUSzq3wzLK-P0J-V_Zs-QtQth3-jOcbTCVpeRL2w5rwZu2rIelXxKJKJBjAa8.ttf",
-        "500": "https://fonts.gstatic.com/s/materialsymbolsrounded/v219/syl0-zNym6YjUruM-QrEh7-nyTnjDwKNJ_190FjpZIvDmUSVOK7BDB_Qb9vUSzq3wzLK-P0J-V_Zs-QtQth3-jOcbTCVpeRL2w5rwZu2rLWlXxKJKJBjAa8.ttf",
-        "600": "https://fonts.gstatic.com/s/materialsymbolsrounded/v219/syl0-zNym6YjUruM-QrEh7-nyTnjDwKNJ_190FjpZIvDmUSVOK7BDB_Qb9vUSzq3wzLK-P0J-V_Zs-QtQth3-jOcbTCVpeRL2w5rwZu2rFmiXxKJKJBjAa8.ttf",
-        "700": "https://fonts.gstatic.com/s/materialsymbolsrounded/v219/syl0-zNym6YjUruM-QrEh7-nyTnjDwKNJ_190FjpZIvDmUSVOK7BDB_Qb9vUSzq3wzLK-P0J-V_Zs-QtQth3-jOcbTCVpeRL2w5rwZu2rGCiXxKJKJBjAa8.ttf"
+        "100": "https://fonts.gstatic.com/s/materialsymbolsrounded/v222/syl0-zNym6YjUruM-QrEh7-nyTnjDwKNJ_190FjpZIvDmUSVOK7BDB_Qb9vUSzq3wzLK-P0J-V_Zs-QtQth3-jOcbTCVpeRL2w5rwZu2rIekXxKJKJBjAa8.ttf",
+        "200": "https://fonts.gstatic.com/s/materialsymbolsrounded/v222/syl0-zNym6YjUruM-QrEh7-nyTnjDwKNJ_190FjpZIvDmUSVOK7BDB_Qb9vUSzq3wzLK-P0J-V_Zs-QtQth3-jOcbTCVpeRL2w5rwZu2rAelXxKJKJBjAa8.ttf",
+        "300": "https://fonts.gstatic.com/s/materialsymbolsrounded/v222/syl0-zNym6YjUruM-QrEh7-nyTnjDwKNJ_190FjpZIvDmUSVOK7BDB_Qb9vUSzq3wzLK-P0J-V_Zs-QtQth3-jOcbTCVpeRL2w5rwZu2rNmlXxKJKJBjAa8.ttf",
+        "regular": "https://fonts.gstatic.com/s/materialsymbolsrounded/v222/syl0-zNym6YjUruM-QrEh7-nyTnjDwKNJ_190FjpZIvDmUSVOK7BDB_Qb9vUSzq3wzLK-P0J-V_Zs-QtQth3-jOcbTCVpeRL2w5rwZu2rIelXxKJKJBjAa8.ttf",
+        "500": "https://fonts.gstatic.com/s/materialsymbolsrounded/v222/syl0-zNym6YjUruM-QrEh7-nyTnjDwKNJ_190FjpZIvDmUSVOK7BDB_Qb9vUSzq3wzLK-P0J-V_Zs-QtQth3-jOcbTCVpeRL2w5rwZu2rLWlXxKJKJBjAa8.ttf",
+        "600": "https://fonts.gstatic.com/s/materialsymbolsrounded/v222/syl0-zNym6YjUruM-QrEh7-nyTnjDwKNJ_190FjpZIvDmUSVOK7BDB_Qb9vUSzq3wzLK-P0J-V_Zs-QtQth3-jOcbTCVpeRL2w5rwZu2rFmiXxKJKJBjAa8.ttf",
+        "700": "https://fonts.gstatic.com/s/materialsymbolsrounded/v222/syl0-zNym6YjUruM-QrEh7-nyTnjDwKNJ_190FjpZIvDmUSVOK7BDB_Qb9vUSzq3wzLK-P0J-V_Zs-QtQth3-jOcbTCVpeRL2w5rwZu2rGCiXxKJKJBjAa8.ttf"
       },
       "category": "monospace",
       "kind": "webfonts#webfont",
-      "menu": "https://fonts.gstatic.com/s/materialsymbolsrounded/v219/syl0-zNym6YjUruM-QrEh7-nyTnjDwKNJ_190FjpZIvDmUSVOK7BDB_Qb9vUSzq3wzLK-P0J-V_Zs-QtQth3-jOcbTCVpeRL2w5rwZu2rIelbxODLA.ttf"
+      "menu": "https://fonts.gstatic.com/s/materialsymbolsrounded/v222/syl0-zNym6YjUruM-QrEh7-nyTnjDwKNJ_190FjpZIvDmUSVOK7BDB_Qb9vUSzq3wzLK-P0J-V_Zs-QtQth3-jOcbTCVpeRL2w5rwZu2rIelbxODLA.ttf"
     },
     {
       "family": "Material Symbols Sharp",
@@ -20817,20 +20846,20 @@
       "subsets": [
         "latin"
       ],
-      "version": "v216",
-      "lastModified": "2024-11-20",
+      "version": "v218",
+      "lastModified": "2024-12-04",
       "files": {
-        "100": "https://fonts.gstatic.com/s/materialsymbolssharp/v216/gNNBW2J8Roq16WD5tFNRaeLQk6-SHQ_R00k4c2_whPnoY9ruReaU4bHmz74m0ZkGH-VBYe1x0TV6x4yFH8F-H5OdzEL3sVTgJtfbYxOLozCOJ1H7-knk.ttf",
-        "200": "https://fonts.gstatic.com/s/materialsymbolssharp/v216/gNNBW2J8Roq16WD5tFNRaeLQk6-SHQ_R00k4c2_whPnoY9ruReaU4bHmz74m0ZkGH-VBYe1x0TV6x4yFH8F-H5OdzEL3sVTgJtfbYxMLojCOJ1H7-knk.ttf",
-        "300": "https://fonts.gstatic.com/s/materialsymbolssharp/v216/gNNBW2J8Roq16WD5tFNRaeLQk6-SHQ_R00k4c2_whPnoY9ruReaU4bHmz74m0ZkGH-VBYe1x0TV6x4yFH8F-H5OdzEL3sVTgJtfbYxPVojCOJ1H7-knk.ttf",
-        "regular": "https://fonts.gstatic.com/s/materialsymbolssharp/v216/gNNBW2J8Roq16WD5tFNRaeLQk6-SHQ_R00k4c2_whPnoY9ruReaU4bHmz74m0ZkGH-VBYe1x0TV6x4yFH8F-H5OdzEL3sVTgJtfbYxOLojCOJ1H7-knk.ttf",
-        "500": "https://fonts.gstatic.com/s/materialsymbolssharp/v216/gNNBW2J8Roq16WD5tFNRaeLQk6-SHQ_R00k4c2_whPnoY9ruReaU4bHmz74m0ZkGH-VBYe1x0TV6x4yFH8F-H5OdzEL3sVTgJtfbYxO5ojCOJ1H7-knk.ttf",
-        "600": "https://fonts.gstatic.com/s/materialsymbolssharp/v216/gNNBW2J8Roq16WD5tFNRaeLQk6-SHQ_R00k4c2_whPnoY9ruReaU4bHmz74m0ZkGH-VBYe1x0TV6x4yFH8F-H5OdzEL3sVTgJtfbYxNVpTCOJ1H7-knk.ttf",
-        "700": "https://fonts.gstatic.com/s/materialsymbolssharp/v216/gNNBW2J8Roq16WD5tFNRaeLQk6-SHQ_R00k4c2_whPnoY9ruReaU4bHmz74m0ZkGH-VBYe1x0TV6x4yFH8F-H5OdzEL3sVTgJtfbYxNspTCOJ1H7-knk.ttf"
+        "100": "https://fonts.gstatic.com/s/materialsymbolssharp/v218/gNNBW2J8Roq16WD5tFNRaeLQk6-SHQ_R00k4c2_whPnoY9ruReaU4bHmz74m0ZkGH-VBYe1x0TV6x4yFH8F-H5OdzEL3sVTgJtfbYxOLozCOJ1H7-knk.ttf",
+        "200": "https://fonts.gstatic.com/s/materialsymbolssharp/v218/gNNBW2J8Roq16WD5tFNRaeLQk6-SHQ_R00k4c2_whPnoY9ruReaU4bHmz74m0ZkGH-VBYe1x0TV6x4yFH8F-H5OdzEL3sVTgJtfbYxMLojCOJ1H7-knk.ttf",
+        "300": "https://fonts.gstatic.com/s/materialsymbolssharp/v218/gNNBW2J8Roq16WD5tFNRaeLQk6-SHQ_R00k4c2_whPnoY9ruReaU4bHmz74m0ZkGH-VBYe1x0TV6x4yFH8F-H5OdzEL3sVTgJtfbYxPVojCOJ1H7-knk.ttf",
+        "regular": "https://fonts.gstatic.com/s/materialsymbolssharp/v218/gNNBW2J8Roq16WD5tFNRaeLQk6-SHQ_R00k4c2_whPnoY9ruReaU4bHmz74m0ZkGH-VBYe1x0TV6x4yFH8F-H5OdzEL3sVTgJtfbYxOLojCOJ1H7-knk.ttf",
+        "500": "https://fonts.gstatic.com/s/materialsymbolssharp/v218/gNNBW2J8Roq16WD5tFNRaeLQk6-SHQ_R00k4c2_whPnoY9ruReaU4bHmz74m0ZkGH-VBYe1x0TV6x4yFH8F-H5OdzEL3sVTgJtfbYxO5ojCOJ1H7-knk.ttf",
+        "600": "https://fonts.gstatic.com/s/materialsymbolssharp/v218/gNNBW2J8Roq16WD5tFNRaeLQk6-SHQ_R00k4c2_whPnoY9ruReaU4bHmz74m0ZkGH-VBYe1x0TV6x4yFH8F-H5OdzEL3sVTgJtfbYxNVpTCOJ1H7-knk.ttf",
+        "700": "https://fonts.gstatic.com/s/materialsymbolssharp/v218/gNNBW2J8Roq16WD5tFNRaeLQk6-SHQ_R00k4c2_whPnoY9ruReaU4bHmz74m0ZkGH-VBYe1x0TV6x4yFH8F-H5OdzEL3sVTgJtfbYxNspTCOJ1H7-knk.ttf"
       },
       "category": "monospace",
       "kind": "webfonts#webfont",
-      "menu": "https://fonts.gstatic.com/s/materialsymbolssharp/v216/gNNBW2J8Roq16WD5tFNRaeLQk6-SHQ_R00k4c2_whPnoY9ruReaU4bHmz74m0ZkGH-VBYe1x0TV6x4yFH8F-H5OdzEL3sVTgJtfbYxOLogCPLVU.ttf"
+      "menu": "https://fonts.gstatic.com/s/materialsymbolssharp/v218/gNNBW2J8Roq16WD5tFNRaeLQk6-SHQ_R00k4c2_whPnoY9ruReaU4bHmz74m0ZkGH-VBYe1x0TV6x4yFH8F-H5OdzEL3sVTgJtfbYxOLogCPLVU.ttf"
     },
     {
       "family": "Maven Pro",
@@ -21709,29 +21738,29 @@
         "latin-ext",
         "vietnamese"
       ],
-      "version": "v1",
-      "lastModified": "2024-11-05",
+      "version": "v3",
+      "lastModified": "2024-12-04",
       "files": {
-        "200": "https://fonts.gstatic.com/s/monasans/v1/o-0mIpQmx24alC5A4PNB6Ryti20_6n1iPHjcz6L1SoM-jCpoiyB9A99d41P6zHtY.ttf",
-        "300": "https://fonts.gstatic.com/s/monasans/v1/o-0mIpQmx24alC5A4PNB6Ryti20_6n1iPHjcz6L1SoM-jCpoiyCjA99d41P6zHtY.ttf",
-        "regular": "https://fonts.gstatic.com/s/monasans/v1/o-0mIpQmx24alC5A4PNB6Ryti20_6n1iPHjcz6L1SoM-jCpoiyD9A99d41P6zHtY.ttf",
-        "500": "https://fonts.gstatic.com/s/monasans/v1/o-0mIpQmx24alC5A4PNB6Ryti20_6n1iPHjcz6L1SoM-jCpoiyDPA99d41P6zHtY.ttf",
-        "600": "https://fonts.gstatic.com/s/monasans/v1/o-0mIpQmx24alC5A4PNB6Ryti20_6n1iPHjcz6L1SoM-jCpoiyAjBN9d41P6zHtY.ttf",
-        "700": "https://fonts.gstatic.com/s/monasans/v1/o-0mIpQmx24alC5A4PNB6Ryti20_6n1iPHjcz6L1SoM-jCpoiyAaBN9d41P6zHtY.ttf",
-        "800": "https://fonts.gstatic.com/s/monasans/v1/o-0mIpQmx24alC5A4PNB6Ryti20_6n1iPHjcz6L1SoM-jCpoiyB9BN9d41P6zHtY.ttf",
-        "900": "https://fonts.gstatic.com/s/monasans/v1/o-0mIpQmx24alC5A4PNB6Ryti20_6n1iPHjcz6L1SoM-jCpoiyBUBN9d41P6zHtY.ttf",
-        "200italic": "https://fonts.gstatic.com/s/monasans/v1/o-0kIpQmx24alC5A4PNr4C5OaxRsfNNlKbCePevHtVtX57DGjDU1QLce6VfYyWtY1rI.ttf",
-        "300italic": "https://fonts.gstatic.com/s/monasans/v1/o-0kIpQmx24alC5A4PNr4C5OaxRsfNNlKbCePevHtVtX57DGjDU1QGke6VfYyWtY1rI.ttf",
-        "italic": "https://fonts.gstatic.com/s/monasans/v1/o-0kIpQmx24alC5A4PNr4C5OaxRsfNNlKbCePevHtVtX57DGjDU1QDce6VfYyWtY1rI.ttf",
-        "500italic": "https://fonts.gstatic.com/s/monasans/v1/o-0kIpQmx24alC5A4PNr4C5OaxRsfNNlKbCePevHtVtX57DGjDU1QAUe6VfYyWtY1rI.ttf",
-        "600italic": "https://fonts.gstatic.com/s/monasans/v1/o-0kIpQmx24alC5A4PNr4C5OaxRsfNNlKbCePevHtVtX57DGjDU1QOkZ6VfYyWtY1rI.ttf",
-        "700italic": "https://fonts.gstatic.com/s/monasans/v1/o-0kIpQmx24alC5A4PNr4C5OaxRsfNNlKbCePevHtVtX57DGjDU1QNAZ6VfYyWtY1rI.ttf",
-        "800italic": "https://fonts.gstatic.com/s/monasans/v1/o-0kIpQmx24alC5A4PNr4C5OaxRsfNNlKbCePevHtVtX57DGjDU1QLcZ6VfYyWtY1rI.ttf",
-        "900italic": "https://fonts.gstatic.com/s/monasans/v1/o-0kIpQmx24alC5A4PNr4C5OaxRsfNNlKbCePevHtVtX57DGjDU1QJ4Z6VfYyWtY1rI.ttf"
+        "200": "https://fonts.gstatic.com/s/monasans/v3/o-0mIpQmx24alC5A4PNB6Ryti20_6n1iPHjcz6L1SoM-jCpoiyB9A99d41P6zHtY.ttf",
+        "300": "https://fonts.gstatic.com/s/monasans/v3/o-0mIpQmx24alC5A4PNB6Ryti20_6n1iPHjcz6L1SoM-jCpoiyCjA99d41P6zHtY.ttf",
+        "regular": "https://fonts.gstatic.com/s/monasans/v3/o-0mIpQmx24alC5A4PNB6Ryti20_6n1iPHjcz6L1SoM-jCpoiyD9A99d41P6zHtY.ttf",
+        "500": "https://fonts.gstatic.com/s/monasans/v3/o-0mIpQmx24alC5A4PNB6Ryti20_6n1iPHjcz6L1SoM-jCpoiyDPA99d41P6zHtY.ttf",
+        "600": "https://fonts.gstatic.com/s/monasans/v3/o-0mIpQmx24alC5A4PNB6Ryti20_6n1iPHjcz6L1SoM-jCpoiyAjBN9d41P6zHtY.ttf",
+        "700": "https://fonts.gstatic.com/s/monasans/v3/o-0mIpQmx24alC5A4PNB6Ryti20_6n1iPHjcz6L1SoM-jCpoiyAaBN9d41P6zHtY.ttf",
+        "800": "https://fonts.gstatic.com/s/monasans/v3/o-0mIpQmx24alC5A4PNB6Ryti20_6n1iPHjcz6L1SoM-jCpoiyB9BN9d41P6zHtY.ttf",
+        "900": "https://fonts.gstatic.com/s/monasans/v3/o-0mIpQmx24alC5A4PNB6Ryti20_6n1iPHjcz6L1SoM-jCpoiyBUBN9d41P6zHtY.ttf",
+        "200italic": "https://fonts.gstatic.com/s/monasans/v3/o-0kIpQmx24alC5A4PNr4C5OaxRsfNNlKbCePevHtVtX57DGjDU1QLce6VfYyWtY1rI.ttf",
+        "300italic": "https://fonts.gstatic.com/s/monasans/v3/o-0kIpQmx24alC5A4PNr4C5OaxRsfNNlKbCePevHtVtX57DGjDU1QGke6VfYyWtY1rI.ttf",
+        "italic": "https://fonts.gstatic.com/s/monasans/v3/o-0kIpQmx24alC5A4PNr4C5OaxRsfNNlKbCePevHtVtX57DGjDU1QDce6VfYyWtY1rI.ttf",
+        "500italic": "https://fonts.gstatic.com/s/monasans/v3/o-0kIpQmx24alC5A4PNr4C5OaxRsfNNlKbCePevHtVtX57DGjDU1QAUe6VfYyWtY1rI.ttf",
+        "600italic": "https://fonts.gstatic.com/s/monasans/v3/o-0kIpQmx24alC5A4PNr4C5OaxRsfNNlKbCePevHtVtX57DGjDU1QOkZ6VfYyWtY1rI.ttf",
+        "700italic": "https://fonts.gstatic.com/s/monasans/v3/o-0kIpQmx24alC5A4PNr4C5OaxRsfNNlKbCePevHtVtX57DGjDU1QNAZ6VfYyWtY1rI.ttf",
+        "800italic": "https://fonts.gstatic.com/s/monasans/v3/o-0kIpQmx24alC5A4PNr4C5OaxRsfNNlKbCePevHtVtX57DGjDU1QLcZ6VfYyWtY1rI.ttf",
+        "900italic": "https://fonts.gstatic.com/s/monasans/v3/o-0kIpQmx24alC5A4PNr4C5OaxRsfNNlKbCePevHtVtX57DGjDU1QJ4Z6VfYyWtY1rI.ttf"
       },
       "category": "sans-serif",
       "kind": "webfonts#webfont",
-      "menu": "https://fonts.gstatic.com/s/monasans/v1/o-0mIpQmx24alC5A4PNB6Ryti20_6n1iPHjcz6L1SoM-jCpoiyD9A-9c6Vc.ttf"
+      "menu": "https://fonts.gstatic.com/s/monasans/v3/o-0mIpQmx24alC5A4PNB6Ryti20_6n1iPHjcz6L1SoM-jCpoiyD9A-9c6Vc.ttf"
     },
     {
       "family": "Monda",
@@ -22044,6 +22073,61 @@
       "category": "sans-serif",
       "kind": "webfonts#webfont",
       "menu": "https://fonts.gstatic.com/s/montserratsubrayada/v19/U9MD6c-o9H7PgjlTHThBnNHGVUORwteQQH8KaOM.ttf"
+    },
+    {
+      "family": "Montserrat Underline",
+      "variants": [
+        "100",
+        "200",
+        "300",
+        "regular",
+        "500",
+        "600",
+        "700",
+        "800",
+        "900",
+        "100italic",
+        "200italic",
+        "300italic",
+        "italic",
+        "500italic",
+        "600italic",
+        "700italic",
+        "800italic",
+        "900italic"
+      ],
+      "subsets": [
+        "cyrillic",
+        "cyrillic-ext",
+        "latin",
+        "latin-ext",
+        "vietnamese"
+      ],
+      "version": "v2",
+      "lastModified": "2024-12-04",
+      "files": {
+        "100": "https://fonts.gstatic.com/s/montserratunderline/v2/mFTbWaYfw6zH4dthXcyms01NtC8I_7U5uQQi5HMFnSdEx2F5Wil8ubbffHtmMw.ttf",
+        "200": "https://fonts.gstatic.com/s/montserratunderline/v2/mFTbWaYfw6zH4dthXcyms01NtC8I_7U5uQQi5HMFnSdEx2F52ih8ubbffHtmMw.ttf",
+        "300": "https://fonts.gstatic.com/s/montserratunderline/v2/mFTbWaYfw6zH4dthXcyms01NtC8I_7U5uQQi5HMFnSdEx2F5BCh8ubbffHtmMw.ttf",
+        "regular": "https://fonts.gstatic.com/s/montserratunderline/v2/mFTbWaYfw6zH4dthXcyms01NtC8I_7U5uQQi5HMFnSdEx2F5Wih8ubbffHtmMw.ttf",
+        "500": "https://fonts.gstatic.com/s/montserratunderline/v2/mFTbWaYfw6zH4dthXcyms01NtC8I_7U5uQQi5HMFnSdEx2F5aCh8ubbffHtmMw.ttf",
+        "600": "https://fonts.gstatic.com/s/montserratunderline/v2/mFTbWaYfw6zH4dthXcyms01NtC8I_7U5uQQi5HMFnSdEx2F5hC98ubbffHtmMw.ttf",
+        "700": "https://fonts.gstatic.com/s/montserratunderline/v2/mFTbWaYfw6zH4dthXcyms01NtC8I_7U5uQQi5HMFnSdEx2F5vS98ubbffHtmMw.ttf",
+        "800": "https://fonts.gstatic.com/s/montserratunderline/v2/mFTbWaYfw6zH4dthXcyms01NtC8I_7U5uQQi5HMFnSdEx2F52i98ubbffHtmMw.ttf",
+        "900": "https://fonts.gstatic.com/s/montserratunderline/v2/mFTbWaYfw6zH4dthXcyms01NtC8I_7U5uQQi5HMFnSdEx2F58y98ubbffHtmMw.ttf",
+        "100italic": "https://fonts.gstatic.com/s/montserratunderline/v2/mFTdWaYfw6zH4dthXcyms01NtC8I_7U5uS4r1ozd9EzeaWZskmuU-7zbXn52M1Mi.ttf",
+        "200italic": "https://fonts.gstatic.com/s/montserratunderline/v2/mFTdWaYfw6zH4dthXcyms01NtC8I_7U5uS4r1ozd9EzeaWZskmsU-rzbXn52M1Mi.ttf",
+        "300italic": "https://fonts.gstatic.com/s/montserratunderline/v2/mFTdWaYfw6zH4dthXcyms01NtC8I_7U5uS4r1ozd9EzeaWZskmvK-rzbXn52M1Mi.ttf",
+        "italic": "https://fonts.gstatic.com/s/montserratunderline/v2/mFTdWaYfw6zH4dthXcyms01NtC8I_7U5uS4r1ozd9EzeaWZskmuU-rzbXn52M1Mi.ttf",
+        "500italic": "https://fonts.gstatic.com/s/montserratunderline/v2/mFTdWaYfw6zH4dthXcyms01NtC8I_7U5uS4r1ozd9EzeaWZskmum-rzbXn52M1Mi.ttf",
+        "600italic": "https://fonts.gstatic.com/s/montserratunderline/v2/mFTdWaYfw6zH4dthXcyms01NtC8I_7U5uS4r1ozd9EzeaWZskmtK_bzbXn52M1Mi.ttf",
+        "700italic": "https://fonts.gstatic.com/s/montserratunderline/v2/mFTdWaYfw6zH4dthXcyms01NtC8I_7U5uS4r1ozd9EzeaWZskmtz_bzbXn52M1Mi.ttf",
+        "800italic": "https://fonts.gstatic.com/s/montserratunderline/v2/mFTdWaYfw6zH4dthXcyms01NtC8I_7U5uS4r1ozd9EzeaWZskmsU_bzbXn52M1Mi.ttf",
+        "900italic": "https://fonts.gstatic.com/s/montserratunderline/v2/mFTdWaYfw6zH4dthXcyms01NtC8I_7U5uS4r1ozd9EzeaWZskms9_bzbXn52M1Mi.ttf"
+      },
+      "category": "sans-serif",
+      "kind": "webfonts#webfont",
+      "menu": "https://fonts.gstatic.com/s/montserratunderline/v2/mFTbWaYfw6zH4dthXcyms01NtC8I_7U5uQQi5HMFnSdEx2F5WihMuLzb.ttf"
     },
     {
       "family": "Moo Lah Lah",
@@ -22726,15 +22810,15 @@
         "korean",
         "latin"
       ],
-      "version": "v25",
-      "lastModified": "2024-11-20",
+      "version": "v26",
+      "lastModified": "2024-12-04",
       "files": {
-        "regular": "https://fonts.gstatic.com/s/nanumgothiccoding/v25/8QIVdjzHisX_8vv59_xMxtPFW4IXROwsy6QxVs1X7tc.ttf",
-        "700": "https://fonts.gstatic.com/s/nanumgothiccoding/v25/8QIYdjzHisX_8vv59_xMxtPFW4IXROws8xgecsV88t5V9r4.ttf"
+        "regular": "https://fonts.gstatic.com/s/nanumgothiccoding/v26/8QIVdjzHisX_8vv59_xMxtPFW4IXROwsy6QxVs1X7tc.ttf",
+        "700": "https://fonts.gstatic.com/s/nanumgothiccoding/v26/8QIYdjzHisX_8vv59_xMxtPFW4IXROws8xgecsV88t5V9r4.ttf"
       },
       "category": "handwriting",
       "kind": "webfonts#webfont",
-      "menu": "https://fonts.gstatic.com/s/nanumgothiccoding/v25/8QIVdjzHisX_8vv59_xMxtPFW4IXROws-6U7Ug.ttf"
+      "menu": "https://fonts.gstatic.com/s/nanumgothiccoding/v26/8QIVdjzHisX_8vv59_xMxtPFW4IXROws-6U7Ug.ttf"
     },
     {
       "family": "Nanum Myeongjo",
@@ -22747,16 +22831,16 @@
         "korean",
         "latin"
       ],
-      "version": "v25",
-      "lastModified": "2024-11-20",
+      "version": "v26",
+      "lastModified": "2024-12-04",
       "files": {
-        "regular": "https://fonts.gstatic.com/s/nanummyeongjo/v25/9Btx3DZF0dXLMZlywRbVRNhxy1LreHQ8juyl.ttf",
-        "700": "https://fonts.gstatic.com/s/nanummyeongjo/v25/9Bty3DZF0dXLMZlywRbVRNhxy2pXV1A0pfCs5Kos.ttf",
-        "800": "https://fonts.gstatic.com/s/nanummyeongjo/v25/9Bty3DZF0dXLMZlywRbVRNhxy2pLVFA0pfCs5Kos.ttf"
+        "regular": "https://fonts.gstatic.com/s/nanummyeongjo/v26/9Btx3DZF0dXLMZlywRbVRNhxy1LreHQ8juyl.ttf",
+        "700": "https://fonts.gstatic.com/s/nanummyeongjo/v26/9Bty3DZF0dXLMZlywRbVRNhxy2pXV1A0pfCs5Kos.ttf",
+        "800": "https://fonts.gstatic.com/s/nanummyeongjo/v26/9Bty3DZF0dXLMZlywRbVRNhxy2pLVFA0pfCs5Kos.ttf"
       },
       "category": "serif",
       "kind": "webfonts#webfont",
-      "menu": "https://fonts.gstatic.com/s/nanummyeongjo/v25/9Btx3DZF0dXLMZlywRbVRNhxy2LqcnA.ttf"
+      "menu": "https://fonts.gstatic.com/s/nanummyeongjo/v26/9Btx3DZF0dXLMZlywRbVRNhxy2LqcnA.ttf"
     },
     {
       "family": "Nanum Pen Script",
@@ -22767,14 +22851,14 @@
         "korean",
         "latin"
       ],
-      "version": "v24",
-      "lastModified": "2024-11-20",
+      "version": "v25",
+      "lastModified": "2024-12-04",
       "files": {
-        "regular": "https://fonts.gstatic.com/s/nanumpenscript/v24/daaDSSYiLGqEal3MvdA_FOL_3FkN2z7-aMFCcTU.ttf"
+        "regular": "https://fonts.gstatic.com/s/nanumpenscript/v25/daaDSSYiLGqEal3MvdA_FOL_3FkN2z7-aMFCcTU.ttf"
       },
       "category": "handwriting",
       "kind": "webfonts#webfont",
-      "menu": "https://fonts.gstatic.com/s/nanumpenscript/v24/daaDSSYiLGqEal3MvdA_FOL_3FkN6z_0bA.ttf"
+      "menu": "https://fonts.gstatic.com/s/nanumpenscript/v25/daaDSSYiLGqEal3MvdA_FOL_3FkN6z_0bA.ttf"
     },
     {
       "family": "Narnoor",
@@ -22934,14 +23018,14 @@
         "latin",
         "latin-ext"
       ],
-      "version": "v11",
-      "lastModified": "2024-09-04",
+      "version": "v12",
+      "lastModified": "2024-12-04",
       "files": {
-        "regular": "https://fonts.gstatic.com/s/newtegomin/v11/SLXMc1fV7Gd9USdBAfPlqfN0Q3ptkDMN.ttf"
+        "regular": "https://fonts.gstatic.com/s/newtegomin/v12/SLXMc1fV7Gd9USdBAfPlqfN0Q3ptkDMN.ttf"
       },
       "category": "serif",
       "kind": "webfonts#webfont",
-      "menu": "https://fonts.gstatic.com/s/newtegomin/v11/SLXMc1fV7Gd9USdBAfPlqcN1SX4.ttf"
+      "menu": "https://fonts.gstatic.com/s/newtegomin/v12/SLXMc1fV7Gd9USdBAfPlqcN1SX4.ttf"
     },
     {
       "family": "News Cycle",
@@ -23126,18 +23210,18 @@
         "khmer",
         "latin"
       ],
-      "version": "v31",
-      "lastModified": "2024-08-12",
+      "version": "v32",
+      "lastModified": "2024-12-04",
       "files": {
-        "100": "https://fonts.gstatic.com/s/nokora/v31/hYkKPuwgTubzaWxoXzALgPNw8QZN.ttf",
-        "300": "https://fonts.gstatic.com/s/nokora/v31/hYkLPuwgTubzaWxolxIrqt18-B9Uuw.ttf",
-        "regular": "https://fonts.gstatic.com/s/nokora/v31/hYkIPuwgTubzaWxQOzoPovZg8Q.ttf",
-        "700": "https://fonts.gstatic.com/s/nokora/v31/hYkLPuwgTubzaWxohxUrqt18-B9Uuw.ttf",
-        "900": "https://fonts.gstatic.com/s/nokora/v31/hYkLPuwgTubzaWxovxcrqt18-B9Uuw.ttf"
+        "100": "https://fonts.gstatic.com/s/nokora/v32/hYkKPuwgTubzaWxoXzALgPNw8QZN.ttf",
+        "300": "https://fonts.gstatic.com/s/nokora/v32/hYkLPuwgTubzaWxolxIrqt18-B9Uuw.ttf",
+        "regular": "https://fonts.gstatic.com/s/nokora/v32/hYkIPuwgTubzaWxQOzoPovZg8Q.ttf",
+        "700": "https://fonts.gstatic.com/s/nokora/v32/hYkLPuwgTubzaWxohxUrqt18-B9Uuw.ttf",
+        "900": "https://fonts.gstatic.com/s/nokora/v32/hYkLPuwgTubzaWxovxcrqt18-B9Uuw.ttf"
       },
       "category": "sans-serif",
       "kind": "webfonts#webfont",
-      "menu": "https://fonts.gstatic.com/s/nokora/v31/hYkIPuwgTubzaWxgOjAL.ttf"
+      "menu": "https://fonts.gstatic.com/s/nokora/v32/hYkIPuwgTubzaWxgOjAL.ttf"
     },
     {
       "family": "Norican",
@@ -23456,31 +23540,31 @@
         "latin-ext",
         "vietnamese"
       ],
-      "version": "v37",
-      "lastModified": "2024-11-07",
+      "version": "v38",
+      "lastModified": "2024-12-04",
       "files": {
-        "100": "https://fonts.gstatic.com/s/notosans/v37/o-0mIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjcz6L1SoM-jCpoiyD9At9d41P6zHtY.ttf",
-        "200": "https://fonts.gstatic.com/s/notosans/v37/o-0mIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjcz6L1SoM-jCpoiyB9A99d41P6zHtY.ttf",
-        "300": "https://fonts.gstatic.com/s/notosans/v37/o-0mIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjcz6L1SoM-jCpoiyCjA99d41P6zHtY.ttf",
-        "regular": "https://fonts.gstatic.com/s/notosans/v37/o-0mIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjcz6L1SoM-jCpoiyD9A99d41P6zHtY.ttf",
-        "500": "https://fonts.gstatic.com/s/notosans/v37/o-0mIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjcz6L1SoM-jCpoiyDPA99d41P6zHtY.ttf",
-        "600": "https://fonts.gstatic.com/s/notosans/v37/o-0mIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjcz6L1SoM-jCpoiyAjBN9d41P6zHtY.ttf",
-        "700": "https://fonts.gstatic.com/s/notosans/v37/o-0mIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjcz6L1SoM-jCpoiyAaBN9d41P6zHtY.ttf",
-        "800": "https://fonts.gstatic.com/s/notosans/v37/o-0mIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjcz6L1SoM-jCpoiyB9BN9d41P6zHtY.ttf",
-        "900": "https://fonts.gstatic.com/s/notosans/v37/o-0mIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjcz6L1SoM-jCpoiyBUBN9d41P6zHtY.ttf",
-        "100italic": "https://fonts.gstatic.com/s/notosans/v37/o-0kIpQlx3QUlC5A4PNr4C5OaxRsfNNlKbCePevHtVtX57DGjDU1QDcf6VfYyWtY1rI.ttf",
-        "200italic": "https://fonts.gstatic.com/s/notosans/v37/o-0kIpQlx3QUlC5A4PNr4C5OaxRsfNNlKbCePevHtVtX57DGjDU1QLce6VfYyWtY1rI.ttf",
-        "300italic": "https://fonts.gstatic.com/s/notosans/v37/o-0kIpQlx3QUlC5A4PNr4C5OaxRsfNNlKbCePevHtVtX57DGjDU1QGke6VfYyWtY1rI.ttf",
-        "italic": "https://fonts.gstatic.com/s/notosans/v37/o-0kIpQlx3QUlC5A4PNr4C5OaxRsfNNlKbCePevHtVtX57DGjDU1QDce6VfYyWtY1rI.ttf",
-        "500italic": "https://fonts.gstatic.com/s/notosans/v37/o-0kIpQlx3QUlC5A4PNr4C5OaxRsfNNlKbCePevHtVtX57DGjDU1QAUe6VfYyWtY1rI.ttf",
-        "600italic": "https://fonts.gstatic.com/s/notosans/v37/o-0kIpQlx3QUlC5A4PNr4C5OaxRsfNNlKbCePevHtVtX57DGjDU1QOkZ6VfYyWtY1rI.ttf",
-        "700italic": "https://fonts.gstatic.com/s/notosans/v37/o-0kIpQlx3QUlC5A4PNr4C5OaxRsfNNlKbCePevHtVtX57DGjDU1QNAZ6VfYyWtY1rI.ttf",
-        "800italic": "https://fonts.gstatic.com/s/notosans/v37/o-0kIpQlx3QUlC5A4PNr4C5OaxRsfNNlKbCePevHtVtX57DGjDU1QLcZ6VfYyWtY1rI.ttf",
-        "900italic": "https://fonts.gstatic.com/s/notosans/v37/o-0kIpQlx3QUlC5A4PNr4C5OaxRsfNNlKbCePevHtVtX57DGjDU1QJ4Z6VfYyWtY1rI.ttf"
+        "100": "https://fonts.gstatic.com/s/notosans/v38/o-0mIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjcz6L1SoM-jCpoiyD9At9d41P6zHtY.ttf",
+        "200": "https://fonts.gstatic.com/s/notosans/v38/o-0mIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjcz6L1SoM-jCpoiyB9A99d41P6zHtY.ttf",
+        "300": "https://fonts.gstatic.com/s/notosans/v38/o-0mIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjcz6L1SoM-jCpoiyCjA99d41P6zHtY.ttf",
+        "regular": "https://fonts.gstatic.com/s/notosans/v38/o-0mIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjcz6L1SoM-jCpoiyD9A99d41P6zHtY.ttf",
+        "500": "https://fonts.gstatic.com/s/notosans/v38/o-0mIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjcz6L1SoM-jCpoiyDPA99d41P6zHtY.ttf",
+        "600": "https://fonts.gstatic.com/s/notosans/v38/o-0mIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjcz6L1SoM-jCpoiyAjBN9d41P6zHtY.ttf",
+        "700": "https://fonts.gstatic.com/s/notosans/v38/o-0mIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjcz6L1SoM-jCpoiyAaBN9d41P6zHtY.ttf",
+        "800": "https://fonts.gstatic.com/s/notosans/v38/o-0mIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjcz6L1SoM-jCpoiyB9BN9d41P6zHtY.ttf",
+        "900": "https://fonts.gstatic.com/s/notosans/v38/o-0mIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjcz6L1SoM-jCpoiyBUBN9d41P6zHtY.ttf",
+        "100italic": "https://fonts.gstatic.com/s/notosans/v38/o-0kIpQlx3QUlC5A4PNr4C5OaxRsfNNlKbCePevHtVtX57DGjDU1QDcf6VfYyWtY1rI.ttf",
+        "200italic": "https://fonts.gstatic.com/s/notosans/v38/o-0kIpQlx3QUlC5A4PNr4C5OaxRsfNNlKbCePevHtVtX57DGjDU1QLce6VfYyWtY1rI.ttf",
+        "300italic": "https://fonts.gstatic.com/s/notosans/v38/o-0kIpQlx3QUlC5A4PNr4C5OaxRsfNNlKbCePevHtVtX57DGjDU1QGke6VfYyWtY1rI.ttf",
+        "italic": "https://fonts.gstatic.com/s/notosans/v38/o-0kIpQlx3QUlC5A4PNr4C5OaxRsfNNlKbCePevHtVtX57DGjDU1QDce6VfYyWtY1rI.ttf",
+        "500italic": "https://fonts.gstatic.com/s/notosans/v38/o-0kIpQlx3QUlC5A4PNr4C5OaxRsfNNlKbCePevHtVtX57DGjDU1QAUe6VfYyWtY1rI.ttf",
+        "600italic": "https://fonts.gstatic.com/s/notosans/v38/o-0kIpQlx3QUlC5A4PNr4C5OaxRsfNNlKbCePevHtVtX57DGjDU1QOkZ6VfYyWtY1rI.ttf",
+        "700italic": "https://fonts.gstatic.com/s/notosans/v38/o-0kIpQlx3QUlC5A4PNr4C5OaxRsfNNlKbCePevHtVtX57DGjDU1QNAZ6VfYyWtY1rI.ttf",
+        "800italic": "https://fonts.gstatic.com/s/notosans/v38/o-0kIpQlx3QUlC5A4PNr4C5OaxRsfNNlKbCePevHtVtX57DGjDU1QLcZ6VfYyWtY1rI.ttf",
+        "900italic": "https://fonts.gstatic.com/s/notosans/v38/o-0kIpQlx3QUlC5A4PNr4C5OaxRsfNNlKbCePevHtVtX57DGjDU1QJ4Z6VfYyWtY1rI.ttf"
       },
       "category": "sans-serif",
       "kind": "webfonts#webfont",
-      "menu": "https://fonts.gstatic.com/s/notosans/v37/o-0mIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjcz6L1SoM-jCpoiyD9A-9c6Vc.ttf"
+      "menu": "https://fonts.gstatic.com/s/notosans/v38/o-0mIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjcz6L1SoM-jCpoiyD9A-9c6Vc.ttf"
     },
     {
       "family": "Noto Sans Adlam",
@@ -28510,18 +28594,18 @@
         "latin-ext",
         "nushu"
       ],
-      "version": "v21",
-      "lastModified": "2024-11-20",
+      "version": "v22",
+      "lastModified": "2024-12-04",
       "files": {
-        "300": "https://fonts.gstatic.com/s/nototraditionalnushu/v21/SZcV3EDkJ7q9FaoMPlmF4Su8hlIjoGh5aj67PUZX6ADm6oa8IXvy1tnPa7QoqirI.ttf",
-        "regular": "https://fonts.gstatic.com/s/nototraditionalnushu/v21/SZcV3EDkJ7q9FaoMPlmF4Su8hlIjoGh5aj67PUZX6ADm6oa8IXus1tnPa7QoqirI.ttf",
-        "500": "https://fonts.gstatic.com/s/nototraditionalnushu/v21/SZcV3EDkJ7q9FaoMPlmF4Su8hlIjoGh5aj67PUZX6ADm6oa8IXue1tnPa7QoqirI.ttf",
-        "600": "https://fonts.gstatic.com/s/nototraditionalnushu/v21/SZcV3EDkJ7q9FaoMPlmF4Su8hlIjoGh5aj67PUZX6ADm6oa8IXty0dnPa7QoqirI.ttf",
-        "700": "https://fonts.gstatic.com/s/nototraditionalnushu/v21/SZcV3EDkJ7q9FaoMPlmF4Su8hlIjoGh5aj67PUZX6ADm6oa8IXtL0dnPa7QoqirI.ttf"
+        "300": "https://fonts.gstatic.com/s/nototraditionalnushu/v22/SZcV3EDkJ7q9FaoMPlmF4Su8hlIjoGh5aj67PUZX6ADm6oa8IXvy1tnPa7QoqirI.ttf",
+        "regular": "https://fonts.gstatic.com/s/nototraditionalnushu/v22/SZcV3EDkJ7q9FaoMPlmF4Su8hlIjoGh5aj67PUZX6ADm6oa8IXus1tnPa7QoqirI.ttf",
+        "500": "https://fonts.gstatic.com/s/nototraditionalnushu/v22/SZcV3EDkJ7q9FaoMPlmF4Su8hlIjoGh5aj67PUZX6ADm6oa8IXue1tnPa7QoqirI.ttf",
+        "600": "https://fonts.gstatic.com/s/nototraditionalnushu/v22/SZcV3EDkJ7q9FaoMPlmF4Su8hlIjoGh5aj67PUZX6ADm6oa8IXty0dnPa7QoqirI.ttf",
+        "700": "https://fonts.gstatic.com/s/nototraditionalnushu/v22/SZcV3EDkJ7q9FaoMPlmF4Su8hlIjoGh5aj67PUZX6ADm6oa8IXtL0dnPa7QoqirI.ttf"
       },
       "category": "sans-serif",
       "kind": "webfonts#webfont",
-      "menu": "https://fonts.gstatic.com/s/nototraditionalnushu/v21/SZcV3EDkJ7q9FaoMPlmF4Su8hlIjoGh5aj67PUZX6ADm6oa8IXus1unOYbA.ttf"
+      "menu": "https://fonts.gstatic.com/s/nototraditionalnushu/v22/SZcV3EDkJ7q9FaoMPlmF4Su8hlIjoGh5aj67PUZX6ADm6oa8IXus1unOYbA.ttf"
     },
     {
       "family": "Noto Znamenny Musical Notation",
@@ -32287,31 +32371,31 @@
         "latin",
         "latin-ext"
       ],
-      "version": "v21",
-      "lastModified": "2024-09-04",
+      "version": "v22",
+      "lastModified": "2024-12-04",
       "files": {
-        "100": "https://fonts.gstatic.com/s/poppins/v21/pxiGyp8kv8JHgFVrLPTed3FBGPaTSQ.ttf",
-        "100italic": "https://fonts.gstatic.com/s/poppins/v21/pxiAyp8kv8JHgFVrJJLmE3tFOvODSVFF.ttf",
-        "200": "https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLFj_V1tvFP-KUEg.ttf",
-        "200italic": "https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLmv1plEN2PQEhcqw.ttf",
-        "300": "https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLDz8V1tvFP-KUEg.ttf",
-        "300italic": "https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLm21llEN2PQEhcqw.ttf",
-        "regular": "https://fonts.gstatic.com/s/poppins/v21/pxiEyp8kv8JHgFVrFJDUc1NECPY.ttf",
-        "italic": "https://fonts.gstatic.com/s/poppins/v21/pxiGyp8kv8JHgFVrJJLed3FBGPaTSQ.ttf",
-        "500": "https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLGT9V1tvFP-KUEg.ttf",
-        "500italic": "https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLmg1hlEN2PQEhcqw.ttf",
-        "600": "https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLEj6V1tvFP-KUEg.ttf",
-        "600italic": "https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLmr19lEN2PQEhcqw.ttf",
-        "700": "https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLCz7V1tvFP-KUEg.ttf",
-        "700italic": "https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLmy15lEN2PQEhcqw.ttf",
-        "800": "https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLDD4V1tvFP-KUEg.ttf",
-        "800italic": "https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLm111lEN2PQEhcqw.ttf",
-        "900": "https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLBT5V1tvFP-KUEg.ttf",
-        "900italic": "https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLm81xlEN2PQEhcqw.ttf"
+        "100": "https://fonts.gstatic.com/s/poppins/v22/pxiGyp8kv8JHgFVrLPTed3FBGPaTSQ.ttf",
+        "100italic": "https://fonts.gstatic.com/s/poppins/v22/pxiAyp8kv8JHgFVrJJLmE3tFOvODSVFF.ttf",
+        "200": "https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLFj_V1tvFP-KUEg.ttf",
+        "200italic": "https://fonts.gstatic.com/s/poppins/v22/pxiDyp8kv8JHgFVrJJLmv1plEN2PQEhcqw.ttf",
+        "300": "https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLDz8V1tvFP-KUEg.ttf",
+        "300italic": "https://fonts.gstatic.com/s/poppins/v22/pxiDyp8kv8JHgFVrJJLm21llEN2PQEhcqw.ttf",
+        "regular": "https://fonts.gstatic.com/s/poppins/v22/pxiEyp8kv8JHgFVrFJDUc1NECPY.ttf",
+        "italic": "https://fonts.gstatic.com/s/poppins/v22/pxiGyp8kv8JHgFVrJJLed3FBGPaTSQ.ttf",
+        "500": "https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLGT9V1tvFP-KUEg.ttf",
+        "500italic": "https://fonts.gstatic.com/s/poppins/v22/pxiDyp8kv8JHgFVrJJLmg1hlEN2PQEhcqw.ttf",
+        "600": "https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLEj6V1tvFP-KUEg.ttf",
+        "600italic": "https://fonts.gstatic.com/s/poppins/v22/pxiDyp8kv8JHgFVrJJLmr19lEN2PQEhcqw.ttf",
+        "700": "https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLCz7V1tvFP-KUEg.ttf",
+        "700italic": "https://fonts.gstatic.com/s/poppins/v22/pxiDyp8kv8JHgFVrJJLmy15lEN2PQEhcqw.ttf",
+        "800": "https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLDD4V1tvFP-KUEg.ttf",
+        "800italic": "https://fonts.gstatic.com/s/poppins/v22/pxiDyp8kv8JHgFVrJJLm111lEN2PQEhcqw.ttf",
+        "900": "https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLBT5V1tvFP-KUEg.ttf",
+        "900italic": "https://fonts.gstatic.com/s/poppins/v22/pxiDyp8kv8JHgFVrJJLm81xlEN2PQEhcqw.ttf"
       },
       "category": "sans-serif",
       "kind": "webfonts#webfont",
-      "menu": "https://fonts.gstatic.com/s/poppins/v21/pxiEyp8kv8JHgFVrJJHedw.ttf"
+      "menu": "https://fonts.gstatic.com/s/poppins/v22/pxiEyp8kv8JHgFVrJJHedw.ttf"
     },
     {
       "family": "Port Lligat Sans",
@@ -32358,14 +32442,14 @@
         "latin-ext",
         "vietnamese"
       ],
-      "version": "v17",
-      "lastModified": "2024-08-07",
+      "version": "v18",
+      "lastModified": "2024-12-04",
       "files": {
-        "regular": "https://fonts.gstatic.com/s/pottaone/v17/FeVSS05Bp6cy7xI-YfxQ3Z5nm29Gww.ttf"
+        "regular": "https://fonts.gstatic.com/s/pottaone/v18/FeVSS05Bp6cy7xI-YfxQ3Z5nm29Gww.ttf"
       },
       "category": "display",
       "kind": "webfonts#webfont",
-      "menu": "https://fonts.gstatic.com/s/pottaone/v17/FeVSS05Bp6cy7xI-Yfxg3JRj.ttf"
+      "menu": "https://fonts.gstatic.com/s/pottaone/v18/FeVSS05Bp6cy7xI-Yfxg3JRj.ttf"
     },
     {
       "family": "Pragati Narrow",
@@ -32378,15 +32462,15 @@
         "latin",
         "latin-ext"
       ],
-      "version": "v13",
-      "lastModified": "2024-09-04",
+      "version": "v14",
+      "lastModified": "2024-12-04",
       "files": {
-        "regular": "https://fonts.gstatic.com/s/pragatinarrow/v13/vm8vdRf0T0bS1ffgsPB7WZ-mD17_ytN3M48a.ttf",
-        "700": "https://fonts.gstatic.com/s/pragatinarrow/v13/vm8sdRf0T0bS1ffgsPB7WZ-mD2ZD5fd_GJMTlo_4.ttf"
+        "regular": "https://fonts.gstatic.com/s/pragatinarrow/v14/vm8vdRf0T0bS1ffgsPB7WZ-mD17_ytN3M48a.ttf",
+        "700": "https://fonts.gstatic.com/s/pragatinarrow/v14/vm8sdRf0T0bS1ffgsPB7WZ-mD2ZD5fd_GJMTlo_4.ttf"
       },
       "category": "sans-serif",
       "kind": "webfonts#webfont",
-      "menu": "https://fonts.gstatic.com/s/pragatinarrow/v13/vm8vdRf0T0bS1ffgsPB7WZ-mD27-wNc.ttf"
+      "menu": "https://fonts.gstatic.com/s/pragatinarrow/v14/vm8vdRf0T0bS1ffgsPB7WZ-mD27-wNc.ttf"
     },
     {
       "family": "Praise",
@@ -32436,14 +32520,14 @@
         "khmer",
         "latin"
       ],
-      "version": "v29",
-      "lastModified": "2024-08-12",
+      "version": "v30",
+      "lastModified": "2024-12-04",
       "files": {
-        "regular": "https://fonts.gstatic.com/s/preahvihear/v29/6NUS8F-dNQeEYhzj7uluxswE49FJf8Wv.ttf"
+        "regular": "https://fonts.gstatic.com/s/preahvihear/v30/6NUS8F-dNQeEYhzj7uluxswE49FJf8Wv.ttf"
       },
       "category": "sans-serif",
       "kind": "webfonts#webfont",
-      "menu": "https://fonts.gstatic.com/s/preahvihear/v29/6NUS8F-dNQeEYhzj7uluxvwF6dU.ttf"
+      "menu": "https://fonts.gstatic.com/s/preahvihear/v30/6NUS8F-dNQeEYhzj7uluxvwF6dU.ttf"
     },
     {
       "family": "Press Start 2P",
@@ -33219,18 +33303,18 @@
         "latin",
         "latin-ext"
       ],
-      "version": "v15",
-      "lastModified": "2024-08-12",
+      "version": "v16",
+      "lastModified": "2024-12-04",
       "files": {
-        "300": "https://fonts.gstatic.com/s/rajdhani/v15/LDI2apCSOBg7S-QT7pasEcOsc-bGkqIw.ttf",
-        "regular": "https://fonts.gstatic.com/s/rajdhani/v15/LDIxapCSOBg7S-QT7q4AOeekWPrP.ttf",
-        "500": "https://fonts.gstatic.com/s/rajdhani/v15/LDI2apCSOBg7S-QT7pb0EMOsc-bGkqIw.ttf",
-        "600": "https://fonts.gstatic.com/s/rajdhani/v15/LDI2apCSOBg7S-QT7pbYF8Osc-bGkqIw.ttf",
-        "700": "https://fonts.gstatic.com/s/rajdhani/v15/LDI2apCSOBg7S-QT7pa8FsOsc-bGkqIw.ttf"
+        "300": "https://fonts.gstatic.com/s/rajdhani/v16/LDI2apCSOBg7S-QT7pasEcOsc-bGkqIw.ttf",
+        "regular": "https://fonts.gstatic.com/s/rajdhani/v16/LDIxapCSOBg7S-QT7q4AOeekWPrP.ttf",
+        "500": "https://fonts.gstatic.com/s/rajdhani/v16/LDI2apCSOBg7S-QT7pb0EMOsc-bGkqIw.ttf",
+        "600": "https://fonts.gstatic.com/s/rajdhani/v16/LDI2apCSOBg7S-QT7pbYF8Osc-bGkqIw.ttf",
+        "700": "https://fonts.gstatic.com/s/rajdhani/v16/LDI2apCSOBg7S-QT7pa8FsOsc-bGkqIw.ttf"
       },
       "category": "sans-serif",
       "kind": "webfonts#webfont",
-      "menu": "https://fonts.gstatic.com/s/rajdhani/v15/LDIxapCSOBg7S-QT7p4BM-M.ttf"
+      "menu": "https://fonts.gstatic.com/s/rajdhani/v16/LDIxapCSOBg7S-QT7p4BM-M.ttf"
     },
     {
       "family": "Rakkas",
@@ -33242,14 +33326,14 @@
         "latin",
         "latin-ext"
       ],
-      "version": "v19",
-      "lastModified": "2024-09-04",
+      "version": "v20",
+      "lastModified": "2024-12-04",
       "files": {
-        "regular": "https://fonts.gstatic.com/s/rakkas/v19/Qw3cZQlNHiblL3j_lttPOeMcCw.ttf"
+        "regular": "https://fonts.gstatic.com/s/rakkas/v20/Qw3cZQlNHiblL3j_lttPOeMcCw.ttf"
       },
       "category": "display",
       "kind": "webfonts#webfont",
-      "menu": "https://fonts.gstatic.com/s/rakkas/v19/Qw3cZQlNHiblL3jPl9FL.ttf"
+      "menu": "https://fonts.gstatic.com/s/rakkas/v20/Qw3cZQlNHiblL3jPl9FL.ttf"
     },
     {
       "family": "Raleway",
@@ -33333,14 +33417,14 @@
         "latin",
         "telugu"
       ],
-      "version": "v15",
-      "lastModified": "2024-08-12",
+      "version": "v16",
+      "lastModified": "2024-12-04",
       "files": {
-        "regular": "https://fonts.gstatic.com/s/ramabhadra/v15/EYq2maBOwqRW9P1SQ83LehNGX5uWw3o.ttf"
+        "regular": "https://fonts.gstatic.com/s/ramabhadra/v16/EYq2maBOwqRW9P1SQ83LehNGX5uWw3o.ttf"
       },
       "category": "sans-serif",
       "kind": "webfonts#webfont",
-      "menu": "https://fonts.gstatic.com/s/ramabhadra/v15/EYq2maBOwqRW9P1SQ83LShJMWw.ttf"
+      "menu": "https://fonts.gstatic.com/s/ramabhadra/v16/EYq2maBOwqRW9P1SQ83LShJMWw.ttf"
     },
     {
       "family": "Ramaraja",
@@ -33351,14 +33435,14 @@
         "latin",
         "telugu"
       ],
-      "version": "v15",
-      "lastModified": "2024-08-12",
+      "version": "v16",
+      "lastModified": "2024-12-04",
       "files": {
-        "regular": "https://fonts.gstatic.com/s/ramaraja/v15/SlGTmQearpYAYG1CABIkqnB6aSQU.ttf"
+        "regular": "https://fonts.gstatic.com/s/ramaraja/v16/SlGTmQearpYAYG1CABIkqnB6aSQU.ttf"
       },
       "category": "serif",
       "kind": "webfonts#webfont",
-      "menu": "https://fonts.gstatic.com/s/ramaraja/v15/SlGTmQearpYAYG1CACIloHQ.ttf"
+      "menu": "https://fonts.gstatic.com/s/ramaraja/v16/SlGTmQearpYAYG1CACIloHQ.ttf"
     },
     {
       "family": "Rambla",
@@ -33413,14 +33497,14 @@
         "latin",
         "latin-ext"
       ],
-      "version": "v10",
-      "lastModified": "2024-09-04",
+      "version": "v11",
+      "lastModified": "2024-12-04",
       "files": {
-        "regular": "https://fonts.gstatic.com/s/rampartone/v10/K2F1fZFGl_JSR1tAWNG9R6qgLS76ZHOM.ttf"
+        "regular": "https://fonts.gstatic.com/s/rampartone/v11/K2F1fZFGl_JSR1tAWNG9R6qgLS76ZHOM.ttf"
       },
       "category": "display",
       "kind": "webfonts#webfont",
-      "menu": "https://fonts.gstatic.com/s/rampartone/v10/K2F1fZFGl_JSR1tAWNG9R5qhJyo.ttf"
+      "menu": "https://fonts.gstatic.com/s/rampartone/v11/K2F1fZFGl_JSR1tAWNG9R5qhJyo.ttf"
     },
     {
       "family": "Ranchers",
@@ -33542,14 +33626,14 @@
         "latin",
         "telugu"
       ],
-      "version": "v19",
-      "lastModified": "2024-08-12",
+      "version": "v20",
+      "lastModified": "2024-12-04",
       "files": {
-        "regular": "https://fonts.gstatic.com/s/raviprakash/v19/gokpH6fsDkVrF9Bv9X8SOAKHmNZEq6TTFw.ttf"
+        "regular": "https://fonts.gstatic.com/s/raviprakash/v20/gokpH6fsDkVrF9Bv9X8SOAKHmNZEq6TTFw.ttf"
       },
       "category": "display",
       "kind": "webfonts#webfont",
-      "menu": "https://fonts.gstatic.com/s/raviprakash/v19/gokpH6fsDkVrF9Bv9X8SOAK3mdxA.ttf"
+      "menu": "https://fonts.gstatic.com/s/raviprakash/v20/gokpH6fsDkVrF9Bv9X8SOAK3mdxA.ttf"
     },
     {
       "family": "Readex Pro",
@@ -33635,27 +33719,27 @@
         "latin",
         "latin-ext"
       ],
-      "version": "v19",
-      "lastModified": "2024-09-04",
+      "version": "v20",
+      "lastModified": "2024-12-04",
       "files": {
-        "300": "https://fonts.gstatic.com/s/redhatdisplay/v19/8vIf7wUr0m80wwYf0QCXZzYzUoTK8RZQvRd-D1NYbjKWckg5-Xecg3w.ttf",
-        "regular": "https://fonts.gstatic.com/s/redhatdisplay/v19/8vIf7wUr0m80wwYf0QCXZzYzUoTK8RZQvRd-D1NYbmyWckg5-Xecg3w.ttf",
-        "500": "https://fonts.gstatic.com/s/redhatdisplay/v19/8vIf7wUr0m80wwYf0QCXZzYzUoTK8RZQvRd-D1NYbl6Wckg5-Xecg3w.ttf",
-        "600": "https://fonts.gstatic.com/s/redhatdisplay/v19/8vIf7wUr0m80wwYf0QCXZzYzUoTK8RZQvRd-D1NYbrKRckg5-Xecg3w.ttf",
-        "700": "https://fonts.gstatic.com/s/redhatdisplay/v19/8vIf7wUr0m80wwYf0QCXZzYzUoTK8RZQvRd-D1NYbouRckg5-Xecg3w.ttf",
-        "800": "https://fonts.gstatic.com/s/redhatdisplay/v19/8vIf7wUr0m80wwYf0QCXZzYzUoTK8RZQvRd-D1NYbuyRckg5-Xecg3w.ttf",
-        "900": "https://fonts.gstatic.com/s/redhatdisplay/v19/8vIf7wUr0m80wwYf0QCXZzYzUoTK8RZQvRd-D1NYbsWRckg5-Xecg3w.ttf",
-        "300italic": "https://fonts.gstatic.com/s/redhatdisplay/v19/8vIh7wUr0m80wwYf0QCXZzYzUoTg-CSvZX4Vlf1fe6TVxAsz_VWZk3zJGg.ttf",
-        "italic": "https://fonts.gstatic.com/s/redhatdisplay/v19/8vIh7wUr0m80wwYf0QCXZzYzUoTg-CSvZX4Vlf1fe6TVmgsz_VWZk3zJGg.ttf",
-        "500italic": "https://fonts.gstatic.com/s/redhatdisplay/v19/8vIh7wUr0m80wwYf0QCXZzYzUoTg-CSvZX4Vlf1fe6TVqAsz_VWZk3zJGg.ttf",
-        "600italic": "https://fonts.gstatic.com/s/redhatdisplay/v19/8vIh7wUr0m80wwYf0QCXZzYzUoTg-CSvZX4Vlf1fe6TVRAwz_VWZk3zJGg.ttf",
-        "700italic": "https://fonts.gstatic.com/s/redhatdisplay/v19/8vIh7wUr0m80wwYf0QCXZzYzUoTg-CSvZX4Vlf1fe6TVfQwz_VWZk3zJGg.ttf",
-        "800italic": "https://fonts.gstatic.com/s/redhatdisplay/v19/8vIh7wUr0m80wwYf0QCXZzYzUoTg-CSvZX4Vlf1fe6TVGgwz_VWZk3zJGg.ttf",
-        "900italic": "https://fonts.gstatic.com/s/redhatdisplay/v19/8vIh7wUr0m80wwYf0QCXZzYzUoTg-CSvZX4Vlf1fe6TVMwwz_VWZk3zJGg.ttf"
+        "300": "https://fonts.gstatic.com/s/redhatdisplay/v20/8vIf7wUr0m80wwYf0QCXZzYzUoTK8RZQvRd-D1NYbjKWckg5-Xecg3w.ttf",
+        "regular": "https://fonts.gstatic.com/s/redhatdisplay/v20/8vIf7wUr0m80wwYf0QCXZzYzUoTK8RZQvRd-D1NYbmyWckg5-Xecg3w.ttf",
+        "500": "https://fonts.gstatic.com/s/redhatdisplay/v20/8vIf7wUr0m80wwYf0QCXZzYzUoTK8RZQvRd-D1NYbl6Wckg5-Xecg3w.ttf",
+        "600": "https://fonts.gstatic.com/s/redhatdisplay/v20/8vIf7wUr0m80wwYf0QCXZzYzUoTK8RZQvRd-D1NYbrKRckg5-Xecg3w.ttf",
+        "700": "https://fonts.gstatic.com/s/redhatdisplay/v20/8vIf7wUr0m80wwYf0QCXZzYzUoTK8RZQvRd-D1NYbouRckg5-Xecg3w.ttf",
+        "800": "https://fonts.gstatic.com/s/redhatdisplay/v20/8vIf7wUr0m80wwYf0QCXZzYzUoTK8RZQvRd-D1NYbuyRckg5-Xecg3w.ttf",
+        "900": "https://fonts.gstatic.com/s/redhatdisplay/v20/8vIf7wUr0m80wwYf0QCXZzYzUoTK8RZQvRd-D1NYbsWRckg5-Xecg3w.ttf",
+        "300italic": "https://fonts.gstatic.com/s/redhatdisplay/v20/8vIh7wUr0m80wwYf0QCXZzYzUoTg-CSvZX4Vlf1fe6TVxAsz_VWZk3zJGg.ttf",
+        "italic": "https://fonts.gstatic.com/s/redhatdisplay/v20/8vIh7wUr0m80wwYf0QCXZzYzUoTg-CSvZX4Vlf1fe6TVmgsz_VWZk3zJGg.ttf",
+        "500italic": "https://fonts.gstatic.com/s/redhatdisplay/v20/8vIh7wUr0m80wwYf0QCXZzYzUoTg-CSvZX4Vlf1fe6TVqAsz_VWZk3zJGg.ttf",
+        "600italic": "https://fonts.gstatic.com/s/redhatdisplay/v20/8vIh7wUr0m80wwYf0QCXZzYzUoTg-CSvZX4Vlf1fe6TVRAwz_VWZk3zJGg.ttf",
+        "700italic": "https://fonts.gstatic.com/s/redhatdisplay/v20/8vIh7wUr0m80wwYf0QCXZzYzUoTg-CSvZX4Vlf1fe6TVfQwz_VWZk3zJGg.ttf",
+        "800italic": "https://fonts.gstatic.com/s/redhatdisplay/v20/8vIh7wUr0m80wwYf0QCXZzYzUoTg-CSvZX4Vlf1fe6TVGgwz_VWZk3zJGg.ttf",
+        "900italic": "https://fonts.gstatic.com/s/redhatdisplay/v20/8vIh7wUr0m80wwYf0QCXZzYzUoTg-CSvZX4Vlf1fe6TVMwwz_VWZk3zJGg.ttf"
       },
       "category": "sans-serif",
       "kind": "webfonts#webfont",
-      "menu": "https://fonts.gstatic.com/s/redhatdisplay/v19/8vIf7wUr0m80wwYf0QCXZzYzUoTK8RZQvRd-D1NYbmyWQkkz_Q.ttf"
+      "menu": "https://fonts.gstatic.com/s/redhatdisplay/v20/8vIf7wUr0m80wwYf0QCXZzYzUoTK8RZQvRd-D1NYbmyWQkkz_Q.ttf"
     },
     {
       "family": "Red Hat Mono",
@@ -33675,23 +33759,23 @@
         "latin",
         "latin-ext"
       ],
-      "version": "v11",
-      "lastModified": "2024-09-04",
+      "version": "v15",
+      "lastModified": "2024-12-04",
       "files": {
-        "300": "https://fonts.gstatic.com/s/redhatmono/v11/jVyY7nDnA2uf2zVvFAhhzEs-VMSjJpBTfgjwQQPI-7HNuW4QuKI.ttf",
-        "regular": "https://fonts.gstatic.com/s/redhatmono/v11/jVyY7nDnA2uf2zVvFAhhzEs-VMSjJpBTfgjwQV3I-7HNuW4QuKI.ttf",
-        "500": "https://fonts.gstatic.com/s/redhatmono/v11/jVyY7nDnA2uf2zVvFAhhzEs-VMSjJpBTfgjwQW_I-7HNuW4QuKI.ttf",
-        "600": "https://fonts.gstatic.com/s/redhatmono/v11/jVyY7nDnA2uf2zVvFAhhzEs-VMSjJpBTfgjwQYPP-7HNuW4QuKI.ttf",
-        "700": "https://fonts.gstatic.com/s/redhatmono/v11/jVyY7nDnA2uf2zVvFAhhzEs-VMSjJpBTfgjwQbrP-7HNuW4QuKI.ttf",
-        "300italic": "https://fonts.gstatic.com/s/redhatmono/v11/jVye7nDnA2uf2zVvFAhhzEsUXfZc_vk45Kb3VJWLTfLHvUwVqKIJuw.ttf",
-        "italic": "https://fonts.gstatic.com/s/redhatmono/v11/jVye7nDnA2uf2zVvFAhhzEsUXfZc_vk45Kb3VJWLE_LHvUwVqKIJuw.ttf",
-        "500italic": "https://fonts.gstatic.com/s/redhatmono/v11/jVye7nDnA2uf2zVvFAhhzEsUXfZc_vk45Kb3VJWLIfLHvUwVqKIJuw.ttf",
-        "600italic": "https://fonts.gstatic.com/s/redhatmono/v11/jVye7nDnA2uf2zVvFAhhzEsUXfZc_vk45Kb3VJWLzfXHvUwVqKIJuw.ttf",
-        "700italic": "https://fonts.gstatic.com/s/redhatmono/v11/jVye7nDnA2uf2zVvFAhhzEsUXfZc_vk45Kb3VJWL9PXHvUwVqKIJuw.ttf"
+        "300": "https://fonts.gstatic.com/s/redhatmono/v15/jVyY7nDnA2uf2zVvFAhhzEs-VMSjJpBTfgjwQQPI-7HNuW4QuKI.ttf",
+        "regular": "https://fonts.gstatic.com/s/redhatmono/v15/jVyY7nDnA2uf2zVvFAhhzEs-VMSjJpBTfgjwQV3I-7HNuW4QuKI.ttf",
+        "500": "https://fonts.gstatic.com/s/redhatmono/v15/jVyY7nDnA2uf2zVvFAhhzEs-VMSjJpBTfgjwQW_I-7HNuW4QuKI.ttf",
+        "600": "https://fonts.gstatic.com/s/redhatmono/v15/jVyY7nDnA2uf2zVvFAhhzEs-VMSjJpBTfgjwQYPP-7HNuW4QuKI.ttf",
+        "700": "https://fonts.gstatic.com/s/redhatmono/v15/jVyY7nDnA2uf2zVvFAhhzEs-VMSjJpBTfgjwQbrP-7HNuW4QuKI.ttf",
+        "300italic": "https://fonts.gstatic.com/s/redhatmono/v15/jVye7nDnA2uf2zVvFAhhzEsUXfZc_vk45Kb3VJWLTfLHvUwVqKIJuw.ttf",
+        "italic": "https://fonts.gstatic.com/s/redhatmono/v15/jVye7nDnA2uf2zVvFAhhzEsUXfZc_vk45Kb3VJWLE_LHvUwVqKIJuw.ttf",
+        "500italic": "https://fonts.gstatic.com/s/redhatmono/v15/jVye7nDnA2uf2zVvFAhhzEsUXfZc_vk45Kb3VJWLIfLHvUwVqKIJuw.ttf",
+        "600italic": "https://fonts.gstatic.com/s/redhatmono/v15/jVye7nDnA2uf2zVvFAhhzEsUXfZc_vk45Kb3VJWLzfXHvUwVqKIJuw.ttf",
+        "700italic": "https://fonts.gstatic.com/s/redhatmono/v15/jVye7nDnA2uf2zVvFAhhzEsUXfZc_vk45Kb3VJWL9PXHvUwVqKIJuw.ttf"
       },
       "category": "monospace",
       "kind": "webfonts#webfont",
-      "menu": "https://fonts.gstatic.com/s/redhatmono/v11/jVyY7nDnA2uf2zVvFAhhzEs-VMSjJpBTfgjwQV3Iy7DHvQ.ttf"
+      "menu": "https://fonts.gstatic.com/s/redhatmono/v15/jVyY7nDnA2uf2zVvFAhhzEs-VMSjJpBTfgjwQV3Iy7DHvQ.ttf"
     },
     {
       "family": "Red Hat Text",
@@ -33711,23 +33795,23 @@
         "latin",
         "latin-ext"
       ],
-      "version": "v14",
-      "lastModified": "2024-09-04",
+      "version": "v18",
+      "lastModified": "2024-12-04",
       "files": {
-        "300": "https://fonts.gstatic.com/s/redhattext/v14/RrQCbohi_ic6B3yVSzGBrMx6ZI_cy1A6Ok2ML-ZwVrbacYVFtIY.ttf",
-        "regular": "https://fonts.gstatic.com/s/redhattext/v14/RrQCbohi_ic6B3yVSzGBrMx6ZI_cy1A6Ok2ML7hwVrbacYVFtIY.ttf",
-        "500": "https://fonts.gstatic.com/s/redhattext/v14/RrQCbohi_ic6B3yVSzGBrMx6ZI_cy1A6Ok2ML4pwVrbacYVFtIY.ttf",
-        "600": "https://fonts.gstatic.com/s/redhattext/v14/RrQCbohi_ic6B3yVSzGBrMx6ZI_cy1A6Ok2ML2Z3VrbacYVFtIY.ttf",
-        "700": "https://fonts.gstatic.com/s/redhattext/v14/RrQCbohi_ic6B3yVSzGBrMx6ZI_cy1A6Ok2ML193VrbacYVFtIY.ttf",
-        "300italic": "https://fonts.gstatic.com/s/redhattext/v14/RrQEbohi_ic6B3yVSzGBrMxQbb0jEzlRoOOLOnAz4PXQdadApIYv_g.ttf",
-        "italic": "https://fonts.gstatic.com/s/redhattext/v14/RrQEbohi_ic6B3yVSzGBrMxQbb0jEzlRoOOLOnAzvvXQdadApIYv_g.ttf",
-        "500italic": "https://fonts.gstatic.com/s/redhattext/v14/RrQEbohi_ic6B3yVSzGBrMxQbb0jEzlRoOOLOnAzjPXQdadApIYv_g.ttf",
-        "600italic": "https://fonts.gstatic.com/s/redhattext/v14/RrQEbohi_ic6B3yVSzGBrMxQbb0jEzlRoOOLOnAzYPLQdadApIYv_g.ttf",
-        "700italic": "https://fonts.gstatic.com/s/redhattext/v14/RrQEbohi_ic6B3yVSzGBrMxQbb0jEzlRoOOLOnAzWfLQdadApIYv_g.ttf"
+        "300": "https://fonts.gstatic.com/s/redhattext/v18/RrQCbohi_ic6B3yVSzGBrMx6ZI_cy1A6Ok2ML-ZwVrbacYVFtIY.ttf",
+        "regular": "https://fonts.gstatic.com/s/redhattext/v18/RrQCbohi_ic6B3yVSzGBrMx6ZI_cy1A6Ok2ML7hwVrbacYVFtIY.ttf",
+        "500": "https://fonts.gstatic.com/s/redhattext/v18/RrQCbohi_ic6B3yVSzGBrMx6ZI_cy1A6Ok2ML4pwVrbacYVFtIY.ttf",
+        "600": "https://fonts.gstatic.com/s/redhattext/v18/RrQCbohi_ic6B3yVSzGBrMx6ZI_cy1A6Ok2ML2Z3VrbacYVFtIY.ttf",
+        "700": "https://fonts.gstatic.com/s/redhattext/v18/RrQCbohi_ic6B3yVSzGBrMx6ZI_cy1A6Ok2ML193VrbacYVFtIY.ttf",
+        "300italic": "https://fonts.gstatic.com/s/redhattext/v18/RrQEbohi_ic6B3yVSzGBrMxQbb0jEzlRoOOLOnAz4PXQdadApIYv_g.ttf",
+        "italic": "https://fonts.gstatic.com/s/redhattext/v18/RrQEbohi_ic6B3yVSzGBrMxQbb0jEzlRoOOLOnAzvvXQdadApIYv_g.ttf",
+        "500italic": "https://fonts.gstatic.com/s/redhattext/v18/RrQEbohi_ic6B3yVSzGBrMxQbb0jEzlRoOOLOnAzjPXQdadApIYv_g.ttf",
+        "600italic": "https://fonts.gstatic.com/s/redhattext/v18/RrQEbohi_ic6B3yVSzGBrMxQbb0jEzlRoOOLOnAzYPLQdadApIYv_g.ttf",
+        "700italic": "https://fonts.gstatic.com/s/redhattext/v18/RrQEbohi_ic6B3yVSzGBrMxQbb0jEzlRoOOLOnAzWfLQdadApIYv_g.ttf"
       },
       "category": "sans-serif",
       "kind": "webfonts#webfont",
-      "menu": "https://fonts.gstatic.com/s/redhattext/v14/RrQCbohi_ic6B3yVSzGBrMx6ZI_cy1A6Ok2ML7hwZrfQdQ.ttf"
+      "menu": "https://fonts.gstatic.com/s/redhattext/v18/RrQCbohi_ic6B3yVSzGBrMx6ZI_cy1A6Ok2ML7hwZrfQdQ.ttf"
     },
     {
       "family": "Red Rose",
