@@ -4850,41 +4850,6 @@
       "menu": "https://fonts.gstatic.com/s/bigshoulders/v2/qFdk35CPh40oITJ69S3GFqy5-BQAcbz7z7beObrv_PytqyTi33thrko9SOPNAdkx.ttf"
     },
     {
-      "family": "Big Shoulders Display",
-      "variants": [
-        "100",
-        "200",
-        "300",
-        "regular",
-        "500",
-        "600",
-        "700",
-        "800",
-        "900"
-      ],
-      "subsets": [
-        "latin",
-        "latin-ext",
-        "vietnamese"
-      ],
-      "version": "v21",
-      "lastModified": "2024-09-04",
-      "files": {
-        "100": "https://fonts.gstatic.com/s/bigshouldersdisplay/v21/fC1MPZJEZG-e9gHhdI4-NBbfd2ys3SjJCx12wPgf9g-_3F0YdY86JF46SRP4yZQ.ttf",
-        "200": "https://fonts.gstatic.com/s/bigshouldersdisplay/v21/fC1MPZJEZG-e9gHhdI4-NBbfd2ys3SjJCx12wPgf9g-_3F0YdQ87JF46SRP4yZQ.ttf",
-        "300": "https://fonts.gstatic.com/s/bigshouldersdisplay/v21/fC1MPZJEZG-e9gHhdI4-NBbfd2ys3SjJCx12wPgf9g-_3F0YddE7JF46SRP4yZQ.ttf",
-        "regular": "https://fonts.gstatic.com/s/bigshouldersdisplay/v21/fC1MPZJEZG-e9gHhdI4-NBbfd2ys3SjJCx12wPgf9g-_3F0YdY87JF46SRP4yZQ.ttf",
-        "500": "https://fonts.gstatic.com/s/bigshouldersdisplay/v21/fC1MPZJEZG-e9gHhdI4-NBbfd2ys3SjJCx12wPgf9g-_3F0Ydb07JF46SRP4yZQ.ttf",
-        "600": "https://fonts.gstatic.com/s/bigshouldersdisplay/v21/fC1MPZJEZG-e9gHhdI4-NBbfd2ys3SjJCx12wPgf9g-_3F0YdVE8JF46SRP4yZQ.ttf",
-        "700": "https://fonts.gstatic.com/s/bigshouldersdisplay/v21/fC1MPZJEZG-e9gHhdI4-NBbfd2ys3SjJCx12wPgf9g-_3F0YdWg8JF46SRP4yZQ.ttf",
-        "800": "https://fonts.gstatic.com/s/bigshouldersdisplay/v21/fC1MPZJEZG-e9gHhdI4-NBbfd2ys3SjJCx12wPgf9g-_3F0YdQ88JF46SRP4yZQ.ttf",
-        "900": "https://fonts.gstatic.com/s/bigshouldersdisplay/v21/fC1MPZJEZG-e9gHhdI4-NBbfd2ys3SjJCx12wPgf9g-_3F0YdSY8JF46SRP4yZQ.ttf"
-      },
-      "category": "display",
-      "kind": "webfonts#webfont",
-      "menu": "https://fonts.gstatic.com/s/bigshouldersdisplay/v21/fC1MPZJEZG-e9gHhdI4-NBbfd2ys3SjJCx12wPgf9g-_3F0YdY87FF8wTQ.ttf"
-    },
-    {
       "family": "Big Shoulders Inline",
       "variants": [
         "100",
@@ -4920,76 +4885,6 @@
       "menu": "https://fonts.gstatic.com/s/bigshouldersinline/v2/bx68NwSCkev-8u0YNXAF6gArLyznvspgMZDcnsTZieUyOqQzOiBfauOMaRhGeKwO1nHayoQZBw.ttf"
     },
     {
-      "family": "Big Shoulders Inline Display",
-      "variants": [
-        "100",
-        "200",
-        "300",
-        "regular",
-        "500",
-        "600",
-        "700",
-        "800",
-        "900"
-      ],
-      "subsets": [
-        "latin",
-        "latin-ext",
-        "vietnamese"
-      ],
-      "version": "v27",
-      "lastModified": "2024-09-04",
-      "files": {
-        "100": "https://fonts.gstatic.com/s/bigshouldersinlinedisplay/v27/_LOumyfF4eSU_SCrJc9OI24U7siGvBGcZqmqV9-ZZ85CGNOFeNLxoYMPJ0nBEnR5yPc2Huux.ttf",
-        "200": "https://fonts.gstatic.com/s/bigshouldersinlinedisplay/v27/_LOumyfF4eSU_SCrJc9OI24U7siGvBGcZqmqV9-ZZ85CGNOFeNLxoYMPJ0lBE3R5yPc2Huux.ttf",
-        "300": "https://fonts.gstatic.com/s/bigshouldersinlinedisplay/v27/_LOumyfF4eSU_SCrJc9OI24U7siGvBGcZqmqV9-ZZ85CGNOFeNLxoYMPJ0mfE3R5yPc2Huux.ttf",
-        "regular": "https://fonts.gstatic.com/s/bigshouldersinlinedisplay/v27/_LOumyfF4eSU_SCrJc9OI24U7siGvBGcZqmqV9-ZZ85CGNOFeNLxoYMPJ0nBE3R5yPc2Huux.ttf",
-        "500": "https://fonts.gstatic.com/s/bigshouldersinlinedisplay/v27/_LOumyfF4eSU_SCrJc9OI24U7siGvBGcZqmqV9-ZZ85CGNOFeNLxoYMPJ0nzE3R5yPc2Huux.ttf",
-        "600": "https://fonts.gstatic.com/s/bigshouldersinlinedisplay/v27/_LOumyfF4eSU_SCrJc9OI24U7siGvBGcZqmqV9-ZZ85CGNOFeNLxoYMPJ0kfFHR5yPc2Huux.ttf",
-        "700": "https://fonts.gstatic.com/s/bigshouldersinlinedisplay/v27/_LOumyfF4eSU_SCrJc9OI24U7siGvBGcZqmqV9-ZZ85CGNOFeNLxoYMPJ0kmFHR5yPc2Huux.ttf",
-        "800": "https://fonts.gstatic.com/s/bigshouldersinlinedisplay/v27/_LOumyfF4eSU_SCrJc9OI24U7siGvBGcZqmqV9-ZZ85CGNOFeNLxoYMPJ0lBFHR5yPc2Huux.ttf",
-        "900": "https://fonts.gstatic.com/s/bigshouldersinlinedisplay/v27/_LOumyfF4eSU_SCrJc9OI24U7siGvBGcZqmqV9-ZZ85CGNOFeNLxoYMPJ0loFHR5yPc2Huux.ttf"
-      },
-      "category": "display",
-      "kind": "webfonts#webfont",
-      "menu": "https://fonts.gstatic.com/s/bigshouldersinlinedisplay/v27/_LOumyfF4eSU_SCrJc9OI24U7siGvBGcZqmqV9-ZZ85CGNOFeNLxoYMPJ0nBE0R4wvM.ttf"
-    },
-    {
-      "family": "Big Shoulders Inline Text",
-      "variants": [
-        "100",
-        "200",
-        "300",
-        "regular",
-        "500",
-        "600",
-        "700",
-        "800",
-        "900"
-      ],
-      "subsets": [
-        "latin",
-        "latin-ext",
-        "vietnamese"
-      ],
-      "version": "v26",
-      "lastModified": "2024-09-04",
-      "files": {
-        "100": "https://fonts.gstatic.com/s/bigshouldersinlinetext/v26/vm8XdQDmVECV5-vm5dJ-Tp-6WDeRjL4RV7dP8u-NMyHY74qpoNNcwga0yqGN7Y6Jsc8c.ttf",
-        "200": "https://fonts.gstatic.com/s/bigshouldersinlinetext/v26/vm8XdQDmVECV5-vm5dJ-Tp-6WDeRjL4RV7dP8u-NMyHY74qpoNNcwgY0y6GN7Y6Jsc8c.ttf",
-        "300": "https://fonts.gstatic.com/s/bigshouldersinlinetext/v26/vm8XdQDmVECV5-vm5dJ-Tp-6WDeRjL4RV7dP8u-NMyHY74qpoNNcwgbqy6GN7Y6Jsc8c.ttf",
-        "regular": "https://fonts.gstatic.com/s/bigshouldersinlinetext/v26/vm8XdQDmVECV5-vm5dJ-Tp-6WDeRjL4RV7dP8u-NMyHY74qpoNNcwga0y6GN7Y6Jsc8c.ttf",
-        "500": "https://fonts.gstatic.com/s/bigshouldersinlinetext/v26/vm8XdQDmVECV5-vm5dJ-Tp-6WDeRjL4RV7dP8u-NMyHY74qpoNNcwgaGy6GN7Y6Jsc8c.ttf",
-        "600": "https://fonts.gstatic.com/s/bigshouldersinlinetext/v26/vm8XdQDmVECV5-vm5dJ-Tp-6WDeRjL4RV7dP8u-NMyHY74qpoNNcwgZqzKGN7Y6Jsc8c.ttf",
-        "700": "https://fonts.gstatic.com/s/bigshouldersinlinetext/v26/vm8XdQDmVECV5-vm5dJ-Tp-6WDeRjL4RV7dP8u-NMyHY74qpoNNcwgZTzKGN7Y6Jsc8c.ttf",
-        "800": "https://fonts.gstatic.com/s/bigshouldersinlinetext/v26/vm8XdQDmVECV5-vm5dJ-Tp-6WDeRjL4RV7dP8u-NMyHY74qpoNNcwgY0zKGN7Y6Jsc8c.ttf",
-        "900": "https://fonts.gstatic.com/s/bigshouldersinlinetext/v26/vm8XdQDmVECV5-vm5dJ-Tp-6WDeRjL4RV7dP8u-NMyHY74qpoNNcwgYdzKGN7Y6Jsc8c.ttf"
-      },
-      "category": "display",
-      "kind": "webfonts#webfont",
-      "menu": "https://fonts.gstatic.com/s/bigshouldersinlinetext/v26/vm8XdQDmVECV5-vm5dJ-Tp-6WDeRjL4RV7dP8u-NMyHY74qpoNNcwga0y5GM54o.ttf"
-    },
-    {
       "family": "Big Shoulders Stencil",
       "variants": [
         "100",
@@ -5023,111 +4918,6 @@
       "category": "display",
       "kind": "webfonts#webfont",
       "menu": "https://fonts.gstatic.com/s/bigshouldersstencil/v2/TwM2-JIEQ1Je5sI6Bx1TKHD83rT3u3NSCfbFxqa9oQbR_CiZMgOzPB7iSLKdsgE9Sp2x5dZIlK8.ttf"
-    },
-    {
-      "family": "Big Shoulders Stencil Display",
-      "variants": [
-        "100",
-        "200",
-        "300",
-        "regular",
-        "500",
-        "600",
-        "700",
-        "800",
-        "900"
-      ],
-      "subsets": [
-        "latin",
-        "latin-ext",
-        "vietnamese"
-      ],
-      "version": "v28",
-      "lastModified": "2024-09-04",
-      "files": {
-        "100": "https://fonts.gstatic.com/s/bigshouldersstencildisplay/v28/6aeZ4LS6U6pR_bp5b_t2ugOhHWFcxSGP9ttD96KCb8xPytKb-oPRU-vkuLm_O0nPKHznJucP9w.ttf",
-        "200": "https://fonts.gstatic.com/s/bigshouldersstencildisplay/v28/6aeZ4LS6U6pR_bp5b_t2ugOhHWFcxSGP9ttD96KCb8xPytKb-oPRU-vkuLm_u0jPKHznJucP9w.ttf",
-        "300": "https://fonts.gstatic.com/s/bigshouldersstencildisplay/v28/6aeZ4LS6U6pR_bp5b_t2ugOhHWFcxSGP9ttD96KCb8xPytKb-oPRU-vkuLm_ZUjPKHznJucP9w.ttf",
-        "regular": "https://fonts.gstatic.com/s/bigshouldersstencildisplay/v28/6aeZ4LS6U6pR_bp5b_t2ugOhHWFcxSGP9ttD96KCb8xPytKb-oPRU-vkuLm_O0jPKHznJucP9w.ttf",
-        "500": "https://fonts.gstatic.com/s/bigshouldersstencildisplay/v28/6aeZ4LS6U6pR_bp5b_t2ugOhHWFcxSGP9ttD96KCb8xPytKb-oPRU-vkuLm_CUjPKHznJucP9w.ttf",
-        "600": "https://fonts.gstatic.com/s/bigshouldersstencildisplay/v28/6aeZ4LS6U6pR_bp5b_t2ugOhHWFcxSGP9ttD96KCb8xPytKb-oPRU-vkuLm_5U_PKHznJucP9w.ttf",
-        "700": "https://fonts.gstatic.com/s/bigshouldersstencildisplay/v28/6aeZ4LS6U6pR_bp5b_t2ugOhHWFcxSGP9ttD96KCb8xPytKb-oPRU-vkuLm_3E_PKHznJucP9w.ttf",
-        "800": "https://fonts.gstatic.com/s/bigshouldersstencildisplay/v28/6aeZ4LS6U6pR_bp5b_t2ugOhHWFcxSGP9ttD96KCb8xPytKb-oPRU-vkuLm_u0_PKHznJucP9w.ttf",
-        "900": "https://fonts.gstatic.com/s/bigshouldersstencildisplay/v28/6aeZ4LS6U6pR_bp5b_t2ugOhHWFcxSGP9ttD96KCb8xPytKb-oPRU-vkuLm_kk_PKHznJucP9w.ttf"
-      },
-      "category": "display",
-      "kind": "webfonts#webfont",
-      "menu": "https://fonts.gstatic.com/s/bigshouldersstencildisplay/v28/6aeZ4LS6U6pR_bp5b_t2ugOhHWFcxSGP9ttD96KCb8xPytKb-oPRU-vkuLm_O0j_KXbj.ttf"
-    },
-    {
-      "family": "Big Shoulders Stencil Text",
-      "variants": [
-        "100",
-        "200",
-        "300",
-        "regular",
-        "500",
-        "600",
-        "700",
-        "800",
-        "900"
-      ],
-      "subsets": [
-        "latin",
-        "latin-ext",
-        "vietnamese"
-      ],
-      "version": "v26",
-      "lastModified": "2024-09-04",
-      "files": {
-        "100": "https://fonts.gstatic.com/s/bigshouldersstenciltext/v26/5aUV9-i2oxDMNwY3dHfW7UAt3Q453SM15wNj53bCcab2SJYLLUtk1OGR04XIGS_Py_AWbQ.ttf",
-        "200": "https://fonts.gstatic.com/s/bigshouldersstenciltext/v26/5aUV9-i2oxDMNwY3dHfW7UAt3Q453SM15wNj53bCcab2SJYLLUtk1OGRU4TIGS_Py_AWbQ.ttf",
-        "300": "https://fonts.gstatic.com/s/bigshouldersstenciltext/v26/5aUV9-i2oxDMNwY3dHfW7UAt3Q453SM15wNj53bCcab2SJYLLUtk1OGRjYTIGS_Py_AWbQ.ttf",
-        "regular": "https://fonts.gstatic.com/s/bigshouldersstenciltext/v26/5aUV9-i2oxDMNwY3dHfW7UAt3Q453SM15wNj53bCcab2SJYLLUtk1OGR04TIGS_Py_AWbQ.ttf",
-        "500": "https://fonts.gstatic.com/s/bigshouldersstenciltext/v26/5aUV9-i2oxDMNwY3dHfW7UAt3Q453SM15wNj53bCcab2SJYLLUtk1OGR4YTIGS_Py_AWbQ.ttf",
-        "600": "https://fonts.gstatic.com/s/bigshouldersstenciltext/v26/5aUV9-i2oxDMNwY3dHfW7UAt3Q453SM15wNj53bCcab2SJYLLUtk1OGRDYPIGS_Py_AWbQ.ttf",
-        "700": "https://fonts.gstatic.com/s/bigshouldersstenciltext/v26/5aUV9-i2oxDMNwY3dHfW7UAt3Q453SM15wNj53bCcab2SJYLLUtk1OGRNIPIGS_Py_AWbQ.ttf",
-        "800": "https://fonts.gstatic.com/s/bigshouldersstenciltext/v26/5aUV9-i2oxDMNwY3dHfW7UAt3Q453SM15wNj53bCcab2SJYLLUtk1OGRU4PIGS_Py_AWbQ.ttf",
-        "900": "https://fonts.gstatic.com/s/bigshouldersstenciltext/v26/5aUV9-i2oxDMNwY3dHfW7UAt3Q453SM15wNj53bCcab2SJYLLUtk1OGReoPIGS_Py_AWbQ.ttf"
-      },
-      "category": "display",
-      "kind": "webfonts#webfont",
-      "menu": "https://fonts.gstatic.com/s/bigshouldersstenciltext/v26/5aUV9-i2oxDMNwY3dHfW7UAt3Q453SM15wNj53bCcab2SJYLLUtk1OGR04T4GCXL.ttf"
-    },
-    {
-      "family": "Big Shoulders Text",
-      "variants": [
-        "100",
-        "200",
-        "300",
-        "regular",
-        "500",
-        "600",
-        "700",
-        "800",
-        "900"
-      ],
-      "subsets": [
-        "latin",
-        "latin-ext",
-        "vietnamese"
-      ],
-      "version": "v24",
-      "lastModified": "2024-09-04",
-      "files": {
-        "100": "https://fonts.gstatic.com/s/bigshoulderstext/v24/55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Y-r3TIPNl6P2pc.ttf",
-        "200": "https://fonts.gstatic.com/s/bigshoulderstext/v24/55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Q-q3TIPNl6P2pc.ttf",
-        "300": "https://fonts.gstatic.com/s/bigshoulderstext/v24/55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3dGq3TIPNl6P2pc.ttf",
-        "regular": "https://fonts.gstatic.com/s/bigshoulderstext/v24/55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Y-q3TIPNl6P2pc.ttf",
-        "500": "https://fonts.gstatic.com/s/bigshoulderstext/v24/55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3b2q3TIPNl6P2pc.ttf",
-        "600": "https://fonts.gstatic.com/s/bigshoulderstext/v24/55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3VGt3TIPNl6P2pc.ttf",
-        "700": "https://fonts.gstatic.com/s/bigshoulderstext/v24/55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Wit3TIPNl6P2pc.ttf",
-        "800": "https://fonts.gstatic.com/s/bigshoulderstext/v24/55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Q-t3TIPNl6P2pc.ttf",
-        "900": "https://fonts.gstatic.com/s/bigshoulderstext/v24/55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Sat3TIPNl6P2pc.ttf"
-      },
-      "category": "display",
-      "kind": "webfonts#webfont",
-      "menu": "https://fonts.gstatic.com/s/bigshoulderstext/v24/55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Y-q7TMFMg.ttf"
     },
     {
       "family": "Bigelow Rules",
@@ -15160,6 +14950,26 @@
       "category": "serif",
       "kind": "webfonts#webfont",
       "menu": "https://fonts.gstatic.com/s/imfellgreatprimersc/v21/ga6daxBOxyt6sCqz3fjZCTFCTUDMHagsQKdDTIf8D3g.ttf"
+    },
+    {
+      "family": "Iansui",
+      "variants": [
+        "regular"
+      ],
+      "subsets": [
+        "chinese-hongkong",
+        "latin",
+        "latin-ext",
+        "symbols2"
+      ],
+      "version": "v2",
+      "lastModified": "2025-03-04",
+      "files": {
+        "regular": "https://fonts.gstatic.com/s/iansui/v2/w8gbH2UoTuUp5bOajSGD1FcXoQ.ttf"
+      },
+      "category": "handwriting",
+      "kind": "webfonts#webfont",
+      "menu": "https://fonts.gstatic.com/s/iansui/v2/w8gbH2UoTuUp5bOqjCuH.ttf"
     },
     {
       "family": "Ibarra Real Nova",
