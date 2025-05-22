@@ -30595,14 +30595,14 @@
         "latin",
         "latin-ext"
       ],
-      "version": "v21",
-      "lastModified": "2022-09-22",
+      "version": "v23",
+      "lastModified": "2025-05-21",
       "files": {
-        "regular": "https://fonts.gstatic.com/s/paprika/v21/8QIJdijZitv49rDfuIgOq7jkAOw.ttf"
+        "regular": "https://fonts.gstatic.com/s/paprika/v23/8QIJdijZitv49rDfuIgOq7jkAOw.ttf"
       },
       "category": "display",
       "kind": "webfonts#webfont",
-      "menu": "https://fonts.gstatic.com/s/paprika/v21/8QIJdijZitv49rDfiIkErw.ttf"
+      "menu": "https://fonts.gstatic.com/s/paprika/v23/8QIJdijZitv49rDfiIkErw.ttf"
     },
     {
       "family": "Parisienne",
@@ -40987,14 +40987,14 @@
         "latin-ext",
         "vietnamese"
       ],
-      "version": "v4",
-      "lastModified": "2023-08-25",
+      "version": "v5",
+      "lastModified": "2025-05-21",
       "files": {
-        "regular": "https://fonts.gstatic.com/s/tapestry/v4/SlGTmQecrosEYXhaGBIkqnB6aSQU.ttf"
+        "regular": "https://fonts.gstatic.com/s/tapestry/v5/SlGTmQecrosEYXhaGBIkqnB6aSQU.ttf"
       },
       "category": "handwriting",
       "kind": "webfonts#webfont",
-      "menu": "https://fonts.gstatic.com/s/tapestry/v4/SlGTmQecrosEYXhaGCIloHQ.ttf"
+      "menu": "https://fonts.gstatic.com/s/tapestry/v5/SlGTmQecrosEYXhaGCIloHQ.ttf"
     },
     {
       "family": "Taprom",
