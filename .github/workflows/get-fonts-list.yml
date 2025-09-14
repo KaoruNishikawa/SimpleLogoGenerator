@@ -12,7 +12,7 @@ jobs:
       PULL_REQUEST_TITLE: Update fonts list
     if:
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v5
       - name: Check unmerged PR
         id: check_unmerged_pr
         run: |
@@ -29,7 +29,7 @@ jobs:
           curl -o ./src/assets/font-list.json \
             "https://www.googleapis.com/webfonts/v1/webfonts?key=${GOOGLE_FONTS_API_KEY}"
       - name: Create Pull Request
-        uses: peter-evans/create-pull-request@v3
+        uses: peter-evans/create-pull-request@v7
         with:
           branch: font-list-${{ env.TODAY }}
           delete-branch: true
