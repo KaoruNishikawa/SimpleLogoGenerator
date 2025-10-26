@@ -3,6 +3,8 @@ name: Publish
 on:
   push:
     branches: [ main ]
+  pull_request:
+    branches: [ main ]
 
 jobs:
   publish:
@@ -11,19 +13,20 @@ jobs:
     steps:
       - name: Make the scripts available to the workflow
         uses: actions/checkout@v5
+
       - name: Set up Node.js
         uses: actions/setup-node@v5
         with:
-          node-version: 22
+          node-version: 24
+
       - name: Build the pages
         run: |
           npm ci
           npm run build
+
       - name: Deploy the result
+        if: ${{ github.event_name == 'push' }}
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist/
-          # https://github.com/actions/checkout/issues/13#issuecomment-724415212
-          user_name: 'github-actions[bot]'
-          user_email: '41898282+github-actions[bot]@users.noreply.github.com'
