@@ -4,6 +4,6 @@
 
 Being simple, while attractive.
 
-https://kaorunishikawa.github.io/SimpleLogoGenerator/
+<https://kaorunishikawa.github.io/SimpleLogoGenerator/>
 
-![](assets/screen-shot.png)
+![Website screenshot of the Simple Logo Generator](assets/screen-shot.png)
