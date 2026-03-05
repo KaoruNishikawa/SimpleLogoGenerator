@@ -19,10 +19,13 @@ jobs:
         with:
           node-version: 24
 
+      - name: Set up pnpm
+        uses: pnpm/action-setup@v4
+
       - name: Build the pages
         run: |
-          npm ci
-          npm run build
+          pnpm install --frozen-lockfile
+          pnpm run build
 
       - name: Deploy the result
         if: ${{ github.event_name == 'push' }}
