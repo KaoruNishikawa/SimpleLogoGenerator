@@ -2,7 +2,7 @@ name: Update Fonts List
 
 on:
   schedule:
-    - cron: '0 9 * * *'
+    - cron: "0 9 * * *"
   workflow_dispatch:
 
 jobs:
@@ -10,9 +10,8 @@ jobs:
     runs-on: ubuntu-latest
     env:
       PULL_REQUEST_TITLE: Update fonts list
-    if:
     steps:
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
       - name: Check unmerged PR
         id: check_unmerged_pr
         run: |
@@ -29,7 +28,7 @@ jobs:
           curl -o ./src/assets/font-list.json \
             "https://www.googleapis.com/webfonts/v1/webfonts?key=${GOOGLE_FONTS_API_KEY}"
       - name: Create Pull Request
-        uses: peter-evans/create-pull-request@v7
+        uses: peter-evans/create-pull-request@5f6978faf089d4d20b00c7766989d076bb2fc7f1 # v8.1.1
         with:
           branch: font-list-${{ env.TODAY }}
           delete-branch: true
