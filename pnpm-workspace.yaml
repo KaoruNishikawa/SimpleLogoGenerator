@@ -1,5 +1,5 @@
-minimumReleaseAge: 4320
+minimumReleaseAge: 10080
 
 onlyBuiltDependencies:
-  - '@parcel/watcher'
+  - "@parcel/watcher"
   - esbuild
